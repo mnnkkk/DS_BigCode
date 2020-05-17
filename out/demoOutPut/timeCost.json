@@ -1,0 +1,77 @@
+{
+  "3544": {
+    "uId": "3544",
+    "cases": [
+      {
+        "caseId": "2908",
+        "tryTimes": 6,
+        "timeCost": 2700000.0
+      },
+      {
+        "caseId": "2172",
+        "tryTimes": 4,
+        "timeCost": 1800000.0
+      },
+      {
+        "caseId": "2176",
+        "tryTimes": 4,
+        "timeCost": 1800000.0
+      },
+      {
+        "caseId": "2307",
+        "tryTimes": 1,
+        "timeCost": 450000.0
+      },
+      {
+        "caseId": "2804",
+        "tryTimes": 2,
+        "timeCost": 900000.0
+      },
+      {
+        "caseId": "2908",
+        "tryTimes": 6,
+        "timeCost": 2700000.0
+      },
+      {
+        "caseId": "2456",
+        "tryTimes": 5,
+        "timeCost": 2250000.0
+      },
+      {
+        "caseId": "2450",
+        "tryTimes": 2,
+        "timeCost": 900000.0
+      }
+    ]
+  },
+  "51584": {
+    "uId": "51584",
+    "cases": [
+      {
+        "caseId": "2190",
+        "tryTimes": 1,
+        "timeCost": 450000.0
+      },
+      {
+        "caseId": "2061",
+        "tryTimes": 1,
+        "timeCost": 450000.0
+      },
+      {
+        "caseId": "2505",
+        "tryTimes": 1,
+        "timeCost": 450000.0
+      },
+      {
+        "caseId": "2309",
+        "tryTimes": 5,
+        "timeCost": 2250000.0
+      },
+      {
+        "caseId": "2584",
+        "tryTimes": 2,
+        "timeCost": 900000.0
+      }
+    ]
+  }
+}
