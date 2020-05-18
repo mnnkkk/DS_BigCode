@@ -1,7 +1,7 @@
 import json
 
 
-def transDifficulty(s):
+def transdifficulty(s):
     if s == "简单":
         return 1
     elif s == "中等":
@@ -24,11 +24,11 @@ for i in range(1321):
     subRes["name"] = line
 
     # 题解数 通过率 难度
-    line = f.readline()
+    line = f.readline().strip("\n")
     l = line.split(",")
     passRate = float(l[1][0:4]) / 100
     subRes["leetcodePassRate"] = passRate
-    subRes["difficulty"] = transDifficulty(l[2])
+    subRes["difficulty"] = transdifficulty(l[2])
 
     res[qId] = subRes
 

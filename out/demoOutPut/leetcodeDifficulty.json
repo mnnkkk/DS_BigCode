@@ -3,19 +3,19 @@
     "qId": 1,
     "name": "两数之和",
     "leetcodePassRate": 0.484,
-    "difficulty": 3
+    "difficulty": 1
   },
   "2": {
     "qId": 2,
     "name": "两数相加",
     "leetcodePassRate": 0.374,
-    "difficulty": 3
+    "difficulty": 2
   },
   "3": {
     "qId": 3,
     "name": "无重复字符的最长子串",
     "leetcodePassRate": 0.345,
-    "difficulty": 3
+    "difficulty": 2
   },
   "4": {
     "qId": 4,
@@ -27,31 +27,31 @@
     "qId": 5,
     "name": "最长回文子串",
     "leetcodePassRate": 0.297,
-    "difficulty": 3
+    "difficulty": 2
   },
   "6": {
     "qId": 6,
     "name": "Z字形变换",
     "leetcodePassRate": 0.478,
-    "difficulty": 3
+    "difficulty": 2
   },
   "7": {
     "qId": 7,
     "name": "整数反转",
     "leetcodePassRate": 0.342,
-    "difficulty": 3
+    "difficulty": 1
   },
   "8": {
     "qId": 8,
     "name": "字符串转换整数(atoi)",
     "leetcodePassRate": 0.205,
-    "difficulty": 3
+    "difficulty": 2
   },
   "9": {
     "qId": 9,
     "name": "回文数",
     "leetcodePassRate": 0.575,
-    "difficulty": 3
+    "difficulty": 1
   },
   "10": {
     "qId": 10,
@@ -63,73 +63,73 @@
     "qId": 11,
     "name": "盛最多水的容器",
     "leetcodePassRate": 0.632,
-    "difficulty": 3
+    "difficulty": 2
   },
   "12": {
     "qId": 12,
     "name": "整数转罗马数字",
     "leetcodePassRate": 0.635,
-    "difficulty": 3
+    "difficulty": 2
   },
   "13": {
     "qId": 13,
     "name": "罗马数字转整数",
     "leetcodePassRate": 0.615,
-    "difficulty": 3
+    "difficulty": 1
   },
   "14": {
     "qId": 14,
     "name": "最长公共前缀",
     "leetcodePassRate": 0.37200000000000005,
-    "difficulty": 3
+    "difficulty": 1
   },
   "15": {
     "qId": 15,
     "name": "三数之和",
     "leetcodePassRate": 0.26899999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "16": {
     "qId": 16,
     "name": "最接近的三数之和",
     "leetcodePassRate": 0.44,
-    "difficulty": 3
+    "difficulty": 2
   },
   "17": {
     "qId": 17,
     "name": "电话号码的字母组合",
     "leetcodePassRate": 0.535,
-    "difficulty": 3
+    "difficulty": 2
   },
   "18": {
     "qId": 18,
     "name": "四数之和",
     "leetcodePassRate": 0.376,
-    "difficulty": 3
+    "difficulty": 2
   },
   "19": {
     "qId": 19,
     "name": "删除链表的倒数第N个节点",
     "leetcodePassRate": 0.386,
-    "difficulty": 3
+    "difficulty": 2
   },
   "20": {
     "qId": 20,
     "name": "有效的括号",
     "leetcodePassRate": 0.41600000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "21": {
     "qId": 21,
     "name": "合并两个有序链表",
     "leetcodePassRate": 0.624,
-    "difficulty": 3
+    "difficulty": 1
   },
   "22": {
     "qId": 22,
     "name": "括号生成",
     "leetcodePassRate": 0.754,
-    "difficulty": 3
+    "difficulty": 2
   },
   "23": {
     "qId": 23,
@@ -141,7 +141,7 @@
     "qId": 24,
     "name": "两两交换链表中的节点",
     "leetcodePassRate": 0.6559999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "25": {
     "qId": 25,
@@ -153,25 +153,25 @@
     "qId": 26,
     "name": "删除排序数组中的重复项",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 1
   },
   "27": {
     "qId": 27,
     "name": "移除元素",
     "leetcodePassRate": 0.581,
-    "difficulty": 3
+    "difficulty": 1
   },
   "28": {
     "qId": 28,
     "name": "实现strStr()",
     "leetcodePassRate": 0.397,
-    "difficulty": 3
+    "difficulty": 1
   },
   "29": {
     "qId": 29,
     "name": "两数相除",
     "leetcodePassRate": 0.19699999999999998,
-    "difficulty": 3
+    "difficulty": 2
   },
   "30": {
     "qId": 30,
@@ -183,7 +183,7 @@
     "qId": 31,
     "name": "下一个排列",
     "leetcodePassRate": 0.335,
-    "difficulty": 3
+    "difficulty": 2
   },
   "32": {
     "qId": 32,
@@ -195,25 +195,25 @@
     "qId": 33,
     "name": "搜索旋转排序数组",
     "leetcodePassRate": 0.379,
-    "difficulty": 3
+    "difficulty": 2
   },
   "34": {
     "qId": 34,
     "name": "在排序数组中查找元素的第一个和最后一个位置",
     "leetcodePassRate": 0.395,
-    "difficulty": 3
+    "difficulty": 2
   },
   "35": {
     "qId": 35,
     "name": "搜索插入位置",
     "leetcodePassRate": 0.456,
-    "difficulty": 3
+    "difficulty": 1
   },
   "36": {
     "qId": 36,
     "name": "有效的数独",
     "leetcodePassRate": 0.594,
-    "difficulty": 3
+    "difficulty": 2
   },
   "37": {
     "qId": 37,
@@ -225,19 +225,19 @@
     "qId": 38,
     "name": "外观数列",
     "leetcodePassRate": 0.552,
-    "difficulty": 3
+    "difficulty": 1
   },
   "39": {
     "qId": 39,
     "name": "组合总和",
     "leetcodePassRate": 0.6890000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "40": {
     "qId": 40,
     "name": "组合总和II",
     "leetcodePassRate": 0.615,
-    "difficulty": 3
+    "difficulty": 2
   },
   "41": {
     "qId": 41,
@@ -255,7 +255,7 @@
     "qId": 43,
     "name": "字符串相乘",
     "leetcodePassRate": 0.42200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "44": {
     "qId": 44,
@@ -273,31 +273,31 @@
     "qId": 46,
     "name": "全排列",
     "leetcodePassRate": 0.76,
-    "difficulty": 3
+    "difficulty": 2
   },
   "47": {
     "qId": 47,
     "name": "全排列II",
     "leetcodePassRate": 0.586,
-    "difficulty": 3
+    "difficulty": 2
   },
   "48": {
     "qId": 48,
     "name": "旋转图像",
     "leetcodePassRate": 0.682,
-    "difficulty": 3
+    "difficulty": 2
   },
   "49": {
     "qId": 49,
     "name": "字母异位词分组",
     "leetcodePassRate": 0.614,
-    "difficulty": 3
+    "difficulty": 2
   },
   "50": {
     "qId": 50,
     "name": "Pow(x,n)",
     "leetcodePassRate": 0.358,
-    "difficulty": 3
+    "difficulty": 2
   },
   "51": {
     "qId": 51,
@@ -315,25 +315,25 @@
     "qId": 53,
     "name": "最大子序和",
     "leetcodePassRate": 0.511,
-    "difficulty": 3
+    "difficulty": 1
   },
   "54": {
     "qId": 54,
     "name": "螺旋矩阵",
     "leetcodePassRate": 0.39899999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "55": {
     "qId": 55,
     "name": "跳跃游戏",
     "leetcodePassRate": 0.39799999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "56": {
     "qId": 56,
     "name": "合并区间",
     "leetcodePassRate": 0.426,
-    "difficulty": 3
+    "difficulty": 2
   },
   "57": {
     "qId": 57,
@@ -345,43 +345,43 @@
     "qId": 58,
     "name": "最后一个单词的长度",
     "leetcodePassRate": 0.331,
-    "difficulty": 3
+    "difficulty": 1
   },
   "59": {
     "qId": 59,
     "name": "螺旋矩阵II",
     "leetcodePassRate": 0.773,
-    "difficulty": 3
+    "difficulty": 2
   },
   "60": {
     "qId": 60,
     "name": "第k个排列",
     "leetcodePassRate": 0.486,
-    "difficulty": 3
+    "difficulty": 2
   },
   "61": {
     "qId": 61,
     "name": "旋转链表",
     "leetcodePassRate": 0.40299999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "62": {
     "qId": 62,
     "name": "不同路径",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 2
   },
   "63": {
     "qId": 63,
     "name": "不同路径II",
     "leetcodePassRate": 0.33,
-    "difficulty": 3
+    "difficulty": 2
   },
   "64": {
     "qId": 64,
     "name": "最小路径和",
     "leetcodePassRate": 0.655,
-    "difficulty": 3
+    "difficulty": 2
   },
   "65": {
     "qId": 65,
@@ -393,13 +393,13 @@
     "qId": 66,
     "name": "加一",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 1
   },
   "67": {
     "qId": 67,
     "name": "二进制求和",
     "leetcodePassRate": 0.526,
-    "difficulty": 3
+    "difficulty": 1
   },
   "68": {
     "qId": 68,
@@ -411,19 +411,19 @@
     "qId": 69,
     "name": "x的平方根",
     "leetcodePassRate": 0.387,
-    "difficulty": 3
+    "difficulty": 1
   },
   "70": {
     "qId": 70,
     "name": "爬楼梯",
     "leetcodePassRate": 0.486,
-    "difficulty": 3
+    "difficulty": 1
   },
   "71": {
     "qId": 71,
     "name": "简化路径",
     "leetcodePassRate": 0.39399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "72": {
     "qId": 72,
@@ -435,19 +435,19 @@
     "qId": 73,
     "name": "矩阵置零",
     "leetcodePassRate": 0.5539999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "74": {
     "qId": 74,
     "name": "搜索二维矩阵",
     "leetcodePassRate": 0.37799999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "75": {
     "qId": 75,
     "name": "颜色分类",
     "leetcodePassRate": 0.55,
-    "difficulty": 3
+    "difficulty": 2
   },
   "76": {
     "qId": 76,
@@ -459,43 +459,43 @@
     "qId": 77,
     "name": "组合",
     "leetcodePassRate": 0.736,
-    "difficulty": 3
+    "difficulty": 2
   },
   "78": {
     "qId": 78,
     "name": "子集",
     "leetcodePassRate": 0.772,
-    "difficulty": 3
+    "difficulty": 2
   },
   "79": {
     "qId": 79,
     "name": "单词搜索",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 2
   },
   "80": {
     "qId": 80,
     "name": "删除排序数组中的重复项II",
     "leetcodePassRate": 0.5529999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "81": {
     "qId": 81,
     "name": "搜索旋转排序数组II",
     "leetcodePassRate": 0.35600000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "82": {
     "qId": 82,
     "name": "删除排序链表中的重复元素II",
     "leetcodePassRate": 0.47600000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "83": {
     "qId": 83,
     "name": "删除排序链表中的重复元素",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 1
   },
   "84": {
     "qId": 84,
@@ -513,7 +513,7 @@
     "qId": 86,
     "name": "分隔链表",
     "leetcodePassRate": 0.5760000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "87": {
     "qId": 87,
@@ -525,55 +525,55 @@
     "qId": 88,
     "name": "合并两个有序数组",
     "leetcodePassRate": 0.47600000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "89": {
     "qId": 89,
     "name": "格雷编码",
     "leetcodePassRate": 0.685,
-    "difficulty": 3
+    "difficulty": 2
   },
   "90": {
     "qId": 90,
     "name": "子集II",
     "leetcodePassRate": 0.599,
-    "difficulty": 3
+    "difficulty": 2
   },
   "91": {
     "qId": 91,
     "name": "解码方法",
     "leetcodePassRate": 0.235,
-    "difficulty": 3
+    "difficulty": 2
   },
   "92": {
     "qId": 92,
     "name": "反转链表II",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 2
   },
   "93": {
     "qId": 93,
     "name": "复原IP地址",
     "leetcodePassRate": 0.467,
-    "difficulty": 3
+    "difficulty": 2
   },
   "94": {
     "qId": 94,
     "name": "二叉树的中序遍历",
     "leetcodePassRate": 0.7140000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "95": {
     "qId": 95,
     "name": "不同的二叉搜索树II",
     "leetcodePassRate": 0.627,
-    "difficulty": 3
+    "difficulty": 2
   },
   "96": {
     "qId": 96,
     "name": "不同的二叉搜索树",
     "leetcodePassRate": 0.655,
-    "difficulty": 3
+    "difficulty": 2
   },
   "97": {
     "qId": 97,
@@ -585,7 +585,7 @@
     "qId": 98,
     "name": "验证二叉搜索树",
     "leetcodePassRate": 0.311,
-    "difficulty": 3
+    "difficulty": 2
   },
   "99": {
     "qId": 99,
@@ -597,91 +597,91 @@
     "qId": 100,
     "name": "相同的树",
     "leetcodePassRate": 0.5760000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "101": {
     "qId": 101,
     "name": "对称二叉树",
     "leetcodePassRate": 0.51,
-    "difficulty": 3
+    "difficulty": 1
   },
   "102": {
     "qId": 102,
     "name": "二叉树的层序遍历",
     "leetcodePassRate": 0.629,
-    "difficulty": 3
+    "difficulty": 2
   },
   "103": {
     "qId": 103,
     "name": "二叉树的锯齿形层次遍历",
     "leetcodePassRate": 0.544,
-    "difficulty": 3
+    "difficulty": 2
   },
   "104": {
     "qId": 104,
     "name": "二叉树的最大深度",
     "leetcodePassRate": 0.732,
-    "difficulty": 3
+    "difficulty": 1
   },
   "105": {
     "qId": 105,
     "name": "从前序与中序遍历序列构造二叉树",
     "leetcodePassRate": 0.655,
-    "difficulty": 3
+    "difficulty": 2
   },
   "106": {
     "qId": 106,
     "name": "从中序与后序遍历序列构造二叉树",
     "leetcodePassRate": 0.684,
-    "difficulty": 3
+    "difficulty": 2
   },
   "107": {
     "qId": 107,
     "name": "二叉树的层次遍历II",
     "leetcodePassRate": 0.654,
-    "difficulty": 3
+    "difficulty": 1
   },
   "108": {
     "qId": 108,
     "name": "将有序数组转换为二叉搜索树",
     "leetcodePassRate": 0.7090000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "109": {
     "qId": 109,
     "name": "有序链表转换二叉搜索树",
     "leetcodePassRate": 0.721,
-    "difficulty": 3
+    "difficulty": 2
   },
   "110": {
     "qId": 110,
     "name": "平衡二叉树",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 1
   },
   "111": {
     "qId": 111,
     "name": "二叉树的最小深度",
     "leetcodePassRate": 0.424,
-    "difficulty": 3
+    "difficulty": 1
   },
   "112": {
     "qId": 112,
     "name": "路径总和",
     "leetcodePassRate": 0.49700000000000005,
-    "difficulty": 3
+    "difficulty": 1
   },
   "113": {
     "qId": 113,
     "name": "路径总和II",
     "leetcodePassRate": 0.596,
-    "difficulty": 3
+    "difficulty": 2
   },
   "114": {
     "qId": 114,
     "name": "二叉树展开为链表",
     "leetcodePassRate": 0.688,
-    "difficulty": 3
+    "difficulty": 2
   },
   "115": {
     "qId": 115,
@@ -693,43 +693,43 @@
     "qId": 116,
     "name": "填充每个节点的下一个右侧节点指针",
     "leetcodePassRate": 0.591,
-    "difficulty": 3
+    "difficulty": 2
   },
   "117": {
     "qId": 117,
     "name": "填充每个节点的下一个右侧节点指针II",
     "leetcodePassRate": 0.484,
-    "difficulty": 3
+    "difficulty": 2
   },
   "118": {
     "qId": 118,
     "name": "杨辉三角",
     "leetcodePassRate": 0.664,
-    "difficulty": 3
+    "difficulty": 1
   },
   "119": {
     "qId": 119,
     "name": "杨辉三角II",
     "leetcodePassRate": 0.611,
-    "difficulty": 3
+    "difficulty": 1
   },
   "120": {
     "qId": 120,
     "name": "三角形最小路径和",
     "leetcodePassRate": 0.6459999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "121": {
     "qId": 121,
     "name": "买卖股票的最佳时机",
     "leetcodePassRate": 0.54,
-    "difficulty": 3
+    "difficulty": 1
   },
   "122": {
     "qId": 122,
     "name": "买卖股票的最佳时机II",
     "leetcodePassRate": 0.598,
-    "difficulty": 3
+    "difficulty": 1
   },
   "123": {
     "qId": 123,
@@ -747,7 +747,7 @@
     "qId": 125,
     "name": "验证回文串",
     "leetcodePassRate": 0.436,
-    "difficulty": 3
+    "difficulty": 1
   },
   "126": {
     "qId": 126,
@@ -759,7 +759,7 @@
     "qId": 127,
     "name": "单词接龙",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 2
   },
   "128": {
     "qId": 128,
@@ -771,19 +771,19 @@
     "qId": 129,
     "name": "求根到叶子节点数字之和",
     "leetcodePassRate": 0.632,
-    "difficulty": 3
+    "difficulty": 2
   },
   "130": {
     "qId": 130,
     "name": "被围绕的区域",
     "leetcodePassRate": 0.4,
-    "difficulty": 3
+    "difficulty": 2
   },
   "131": {
     "qId": 131,
     "name": "分割回文串",
     "leetcodePassRate": 0.674,
-    "difficulty": 3
+    "difficulty": 2
   },
   "132": {
     "qId": 132,
@@ -795,13 +795,13 @@
     "qId": 133,
     "name": "克隆图",
     "leetcodePassRate": 0.5529999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "134": {
     "qId": 134,
     "name": "加油站",
     "leetcodePassRate": 0.528,
-    "difficulty": 3
+    "difficulty": 2
   },
   "135": {
     "qId": 135,
@@ -813,25 +813,25 @@
     "qId": 136,
     "name": "只出现一次的数字",
     "leetcodePassRate": 0.685,
-    "difficulty": 3
+    "difficulty": 1
   },
   "137": {
     "qId": 137,
     "name": "只出现一次的数字II",
     "leetcodePassRate": 0.6679999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "138": {
     "qId": 138,
     "name": "复制带随机指针的链表",
     "leetcodePassRate": 0.512,
-    "difficulty": 3
+    "difficulty": 2
   },
   "139": {
     "qId": 139,
     "name": "单词拆分",
     "leetcodePassRate": 0.447,
-    "difficulty": 3
+    "difficulty": 2
   },
   "140": {
     "qId": 140,
@@ -843,25 +843,25 @@
     "qId": 141,
     "name": "环形链表",
     "leetcodePassRate": 0.479,
-    "difficulty": 3
+    "difficulty": 1
   },
   "142": {
     "qId": 142,
     "name": "环形链表II",
     "leetcodePassRate": 0.502,
-    "difficulty": 3
+    "difficulty": 2
   },
   "143": {
     "qId": 143,
     "name": "重排链表",
     "leetcodePassRate": 0.5589999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "144": {
     "qId": 144,
     "name": "二叉树的前序遍历",
     "leetcodePassRate": 0.655,
-    "difficulty": 3
+    "difficulty": 2
   },
   "145": {
     "qId": 145,
@@ -873,19 +873,19 @@
     "qId": 146,
     "name": "LRU缓存机制",
     "leetcodePassRate": 0.475,
-    "difficulty": 3
+    "difficulty": 2
   },
   "147": {
     "qId": 147,
     "name": "对链表进行插入排序",
     "leetcodePassRate": 0.643,
-    "difficulty": 3
+    "difficulty": 2
   },
   "148": {
     "qId": 148,
     "name": "排序链表",
     "leetcodePassRate": 0.654,
-    "difficulty": 3
+    "difficulty": 2
   },
   "149": {
     "qId": 149,
@@ -897,25 +897,25 @@
     "qId": 150,
     "name": "逆波兰表达式求值",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 2
   },
   "151": {
     "qId": 151,
     "name": "翻转字符串里的单词",
     "leetcodePassRate": 0.42100000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "152": {
     "qId": 152,
     "name": "乘积最大子数组",
     "leetcodePassRate": 0.382,
-    "difficulty": 3
+    "difficulty": 2
   },
   "153": {
     "qId": 153,
     "name": "寻找旋转排序数组中的最小值",
     "leetcodePassRate": 0.508,
-    "difficulty": 3
+    "difficulty": 2
   },
   "154": {
     "qId": 154,
@@ -927,19 +927,19 @@
     "qId": 155,
     "name": "最小栈",
     "leetcodePassRate": 0.544,
-    "difficulty": 3
+    "difficulty": 1
   },
   "156": {
     "qId": 156,
     "name": "上下翻转二叉树",
     "leetcodePassRate": 0.736,
-    "difficulty": 3
+    "difficulty": 2
   },
   "157": {
     "qId": 157,
     "name": "用Read4读取N个字符",
     "leetcodePassRate": 0.51,
-    "difficulty": 3
+    "difficulty": 1
   },
   "158": {
     "qId": 158,
@@ -951,31 +951,31 @@
     "qId": 159,
     "name": "至多包含两个不同字符的最长子串",
     "leetcodePassRate": 0.514,
-    "difficulty": 3
+    "difficulty": 2
   },
   "160": {
     "qId": 160,
     "name": "相交链表",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 1
   },
   "161": {
     "qId": 161,
     "name": "相隔为1的编辑距离",
     "leetcodePassRate": 0.322,
-    "difficulty": 3
+    "difficulty": 2
   },
   "162": {
     "qId": 162,
     "name": "寻找峰值",
     "leetcodePassRate": 0.462,
-    "difficulty": 3
+    "difficulty": 2
   },
   "163": {
     "qId": 163,
     "name": "缺失的区间",
     "leetcodePassRate": 0.255,
-    "difficulty": 3
+    "difficulty": 2
   },
   "164": {
     "qId": 164,
@@ -987,55 +987,55 @@
     "qId": 165,
     "name": "比较版本号",
     "leetcodePassRate": 0.413,
-    "difficulty": 3
+    "difficulty": 2
   },
   "166": {
     "qId": 166,
     "name": "分数到小数",
     "leetcodePassRate": 0.263,
-    "difficulty": 3
+    "difficulty": 2
   },
   "167": {
     "qId": 167,
     "name": "两数之和II-输入有序数组",
     "leetcodePassRate": 0.537,
-    "difficulty": 3
+    "difficulty": 1
   },
   "168": {
     "qId": 168,
     "name": "Excel表列名称",
     "leetcodePassRate": 0.377,
-    "difficulty": 3
+    "difficulty": 1
   },
   "169": {
     "qId": 169,
     "name": "多数元素",
     "leetcodePassRate": 0.632,
-    "difficulty": 3
+    "difficulty": 1
   },
   "170": {
     "qId": 170,
     "name": "两数之和III-数据结构设计",
     "leetcodePassRate": 0.40399999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "171": {
     "qId": 171,
     "name": "Excel表列序号",
     "leetcodePassRate": 0.672,
-    "difficulty": 3
+    "difficulty": 1
   },
   "172": {
     "qId": 172,
     "name": "阶乘后的零",
     "leetcodePassRate": 0.402,
-    "difficulty": 3
+    "difficulty": 1
   },
   "173": {
     "qId": 173,
     "name": "二叉搜索树迭代器",
     "leetcodePassRate": 0.73,
-    "difficulty": 3
+    "difficulty": 2
   },
   "174": {
     "qId": 174,
@@ -1047,19 +1047,19 @@
     "qId": 179,
     "name": "最大数",
     "leetcodePassRate": 0.361,
-    "difficulty": 3
+    "difficulty": 2
   },
   "186": {
     "qId": 186,
     "name": "翻转字符串里的单词II",
     "leetcodePassRate": 0.7440000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "187": {
     "qId": 187,
     "name": "重复的DNA序列",
     "leetcodePassRate": 0.444,
-    "difficulty": 3
+    "difficulty": 2
   },
   "188": {
     "qId": 188,
@@ -1071,97 +1071,97 @@
     "qId": 189,
     "name": "旋转数组",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 1
   },
   "190": {
     "qId": 190,
     "name": "颠倒二进制位",
     "leetcodePassRate": 0.583,
-    "difficulty": 3
+    "difficulty": 1
   },
   "191": {
     "qId": 191,
     "name": "位1的个数",
     "leetcodePassRate": 0.67,
-    "difficulty": 3
+    "difficulty": 1
   },
   "198": {
     "qId": 198,
     "name": "打家劫舍",
     "leetcodePassRate": 0.446,
-    "difficulty": 3
+    "difficulty": 1
   },
   "199": {
     "qId": 199,
     "name": "二叉树的右视图",
     "leetcodePassRate": 0.637,
-    "difficulty": 3
+    "difficulty": 2
   },
   "200": {
     "qId": 200,
     "name": "岛屿数量",
     "leetcodePassRate": 0.494,
-    "difficulty": 3
+    "difficulty": 2
   },
   "201": {
     "qId": 201,
     "name": "数字范围按位与",
     "leetcodePassRate": 0.449,
-    "difficulty": 3
+    "difficulty": 2
   },
   "202": {
     "qId": 202,
     "name": "快乐数",
     "leetcodePassRate": 0.601,
-    "difficulty": 3
+    "difficulty": 1
   },
   "203": {
     "qId": 203,
     "name": "移除链表元素",
     "leetcodePassRate": 0.45399999999999996,
-    "difficulty": 3
+    "difficulty": 1
   },
   "204": {
     "qId": 204,
     "name": "计数质数",
     "leetcodePassRate": 0.336,
-    "difficulty": 3
+    "difficulty": 1
   },
   "205": {
     "qId": 205,
     "name": "同构字符串",
     "leetcodePassRate": 0.47200000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "206": {
     "qId": 206,
     "name": "反转链表",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 1
   },
   "207": {
     "qId": 207,
     "name": "课程表",
     "leetcodePassRate": 0.509,
-    "difficulty": 3
+    "difficulty": 2
   },
   "208": {
     "qId": 208,
     "name": "实现Trie(前缀树)",
     "leetcodePassRate": 0.67,
-    "difficulty": 3
+    "difficulty": 2
   },
   "209": {
     "qId": 209,
     "name": "长度最小的子数组",
     "leetcodePassRate": 0.423,
-    "difficulty": 3
+    "difficulty": 2
   },
   "211": {
     "qId": 211,
     "name": "添加与搜索单词-数据结构设计",
     "leetcodePassRate": 0.446,
-    "difficulty": 3
+    "difficulty": 2
   },
   "212": {
     "qId": 212,
@@ -1173,7 +1173,7 @@
     "qId": 213,
     "name": "打家劫舍II",
     "leetcodePassRate": 0.377,
-    "difficulty": 3
+    "difficulty": 2
   },
   "214": {
     "qId": 214,
@@ -1185,19 +1185,19 @@
     "qId": 215,
     "name": "数组中的第K个最大元素",
     "leetcodePassRate": 0.623,
-    "difficulty": 3
+    "difficulty": 2
   },
   "216": {
     "qId": 216,
     "name": "组合总和III",
     "leetcodePassRate": 0.71,
-    "difficulty": 3
+    "difficulty": 2
   },
   "217": {
     "qId": 217,
     "name": "存在重复元素",
     "leetcodePassRate": 0.523,
-    "difficulty": 3
+    "difficulty": 1
   },
   "218": {
     "qId": 218,
@@ -1209,31 +1209,31 @@
     "qId": 219,
     "name": "存在重复元素II",
     "leetcodePassRate": 0.387,
-    "difficulty": 3
+    "difficulty": 1
   },
   "220": {
     "qId": 220,
     "name": "存在重复元素III",
     "leetcodePassRate": 0.26,
-    "difficulty": 3
+    "difficulty": 2
   },
   "221": {
     "qId": 221,
     "name": "最大正方形",
     "leetcodePassRate": 0.423,
-    "difficulty": 3
+    "difficulty": 2
   },
   "222": {
     "qId": 222,
     "name": "完全二叉树的节点个数",
     "leetcodePassRate": 0.6920000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "223": {
     "qId": 223,
     "name": "矩形面积",
     "leetcodePassRate": 0.431,
-    "difficulty": 3
+    "difficulty": 2
   },
   "224": {
     "qId": 224,
@@ -1245,49 +1245,49 @@
     "qId": 225,
     "name": "用队列实现栈",
     "leetcodePassRate": 0.6459999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "226": {
     "qId": 226,
     "name": "翻转二叉树",
     "leetcodePassRate": 0.7509999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "227": {
     "qId": 227,
     "name": "基本计算器II",
     "leetcodePassRate": 0.358,
-    "difficulty": 3
+    "difficulty": 2
   },
   "228": {
     "qId": 228,
     "name": "汇总区间",
     "leetcodePassRate": 0.524,
-    "difficulty": 3
+    "difficulty": 2
   },
   "229": {
     "qId": 229,
     "name": "求众数II",
     "leetcodePassRate": 0.43200000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "230": {
     "qId": 230,
     "name": "二叉搜索树中第K小的元素",
     "leetcodePassRate": 0.703,
-    "difficulty": 3
+    "difficulty": 2
   },
   "231": {
     "qId": 231,
     "name": "2的幂",
     "leetcodePassRate": 0.48,
-    "difficulty": 3
+    "difficulty": 1
   },
   "232": {
     "qId": 232,
     "name": "用栈实现队列",
     "leetcodePassRate": 0.64,
-    "difficulty": 3
+    "difficulty": 1
   },
   "233": {
     "qId": 233,
@@ -1299,31 +1299,31 @@
     "qId": 234,
     "name": "回文链表",
     "leetcodePassRate": 0.41700000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "235": {
     "qId": 235,
     "name": "二叉搜索树的最近公共祖先",
     "leetcodePassRate": 0.637,
-    "difficulty": 3
+    "difficulty": 1
   },
   "236": {
     "qId": 236,
     "name": "二叉树的最近公共祖先",
     "leetcodePassRate": 0.636,
-    "difficulty": 3
+    "difficulty": 2
   },
   "237": {
     "qId": 237,
     "name": "删除链表中的节点",
     "leetcodePassRate": 0.8140000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "238": {
     "qId": 238,
     "name": "除自身以外数组的乘积",
     "leetcodePassRate": 0.6809999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "239": {
     "qId": 239,
@@ -1335,49 +1335,49 @@
     "qId": 240,
     "name": "搜索二维矩阵II",
     "leetcodePassRate": 0.405,
-    "difficulty": 3
+    "difficulty": 2
   },
   "241": {
     "qId": 241,
     "name": "为运算表达式设计优先级",
     "leetcodePassRate": 0.715,
-    "difficulty": 3
+    "difficulty": 2
   },
   "242": {
     "qId": 242,
     "name": "有效的字母异位词",
     "leetcodePassRate": 0.599,
-    "difficulty": 3
+    "difficulty": 1
   },
   "243": {
     "qId": 243,
     "name": "最短单词距离",
     "leetcodePassRate": 0.647,
-    "difficulty": 3
+    "difficulty": 1
   },
   "244": {
     "qId": 244,
     "name": "最短单词距离II",
     "leetcodePassRate": 0.493,
-    "difficulty": 3
+    "difficulty": 2
   },
   "245": {
     "qId": 245,
     "name": "最短单词距离III",
     "leetcodePassRate": 0.614,
-    "difficulty": 3
+    "difficulty": 2
   },
   "246": {
     "qId": 246,
     "name": "中心对称数",
     "leetcodePassRate": 0.469,
-    "difficulty": 3
+    "difficulty": 1
   },
   "247": {
     "qId": 247,
     "name": "中心对称数II",
     "leetcodePassRate": 0.493,
-    "difficulty": 3
+    "difficulty": 2
   },
   "248": {
     "qId": 248,
@@ -1389,91 +1389,91 @@
     "qId": 249,
     "name": "移位字符串分组",
     "leetcodePassRate": 0.605,
-    "difficulty": 3
+    "difficulty": 2
   },
   "250": {
     "qId": 250,
     "name": "统计同值子树",
     "leetcodePassRate": 0.636,
-    "difficulty": 3
+    "difficulty": 2
   },
   "251": {
     "qId": 251,
     "name": "展开二维向量",
     "leetcodePassRate": 0.539,
-    "difficulty": 3
+    "difficulty": 2
   },
   "252": {
     "qId": 252,
     "name": "会议室",
     "leetcodePassRate": 0.529,
-    "difficulty": 3
+    "difficulty": 1
   },
   "253": {
     "qId": 253,
     "name": "会议室II",
     "leetcodePassRate": 0.436,
-    "difficulty": 3
+    "difficulty": 2
   },
   "254": {
     "qId": 254,
     "name": "因子的组合",
     "leetcodePassRate": 0.5529999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "255": {
     "qId": 255,
     "name": "验证前序遍历序列二叉搜索树",
     "leetcodePassRate": 0.461,
-    "difficulty": 3
+    "difficulty": 2
   },
   "256": {
     "qId": 256,
     "name": "粉刷房子",
     "leetcodePassRate": 0.574,
-    "difficulty": 3
+    "difficulty": 1
   },
   "257": {
     "qId": 257,
     "name": "二叉树的所有路径",
     "leetcodePassRate": 0.638,
-    "difficulty": 3
+    "difficulty": 1
   },
   "258": {
     "qId": 258,
     "name": "各位相加",
     "leetcodePassRate": 0.6659999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "259": {
     "qId": 259,
     "name": "较小的三数之和",
     "leetcodePassRate": 0.5589999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "260": {
     "qId": 260,
     "name": "只出现一次的数字III",
     "leetcodePassRate": 0.721,
-    "difficulty": 3
+    "difficulty": 2
   },
   "261": {
     "qId": 261,
     "name": "以图判树",
     "leetcodePassRate": 0.462,
-    "difficulty": 3
+    "difficulty": 2
   },
   "263": {
     "qId": 263,
     "name": "丑数",
     "leetcodePassRate": 0.49200000000000005,
-    "difficulty": 3
+    "difficulty": 1
   },
   "264": {
     "qId": 264,
     "name": "丑数II",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 2
   },
   "265": {
     "qId": 265,
@@ -1485,19 +1485,19 @@
     "qId": 266,
     "name": "回文排列",
     "leetcodePassRate": 0.65,
-    "difficulty": 3
+    "difficulty": 1
   },
   "267": {
     "qId": 267,
     "name": "回文排列II",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "268": {
     "qId": 268,
     "name": "缺失数字",
     "leetcodePassRate": 0.556,
-    "difficulty": 3
+    "difficulty": 1
   },
   "269": {
     "qId": 269,
@@ -1509,13 +1509,13 @@
     "qId": 270,
     "name": "最接近的二叉搜索树值",
     "leetcodePassRate": 0.515,
-    "difficulty": 3
+    "difficulty": 1
   },
   "271": {
     "qId": 271,
     "name": "字符串的编码与解码",
     "leetcodePassRate": 0.519,
-    "difficulty": 3
+    "difficulty": 2
   },
   "272": {
     "qId": 272,
@@ -1533,49 +1533,49 @@
     "qId": 274,
     "name": "H指数",
     "leetcodePassRate": 0.38299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "275": {
     "qId": 275,
     "name": "H指数II",
     "leetcodePassRate": 0.40700000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "276": {
     "qId": 276,
     "name": "栅栏涂色",
     "leetcodePassRate": 0.442,
-    "difficulty": 3
+    "difficulty": 1
   },
   "277": {
     "qId": 277,
     "name": "搜寻名人",
     "leetcodePassRate": 0.569,
-    "difficulty": 3
+    "difficulty": 2
   },
   "278": {
     "qId": 278,
     "name": "第一个错误的版本",
     "leetcodePassRate": 0.386,
-    "difficulty": 3
+    "difficulty": 1
   },
   "279": {
     "qId": 279,
     "name": "完全平方数",
     "leetcodePassRate": 0.561,
-    "difficulty": 3
+    "difficulty": 2
   },
   "280": {
     "qId": 280,
     "name": "摆动排序",
     "leetcodePassRate": 0.6829999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "281": {
     "qId": 281,
     "name": "锯齿迭代器",
     "leetcodePassRate": 0.735,
-    "difficulty": 3
+    "difficulty": 2
   },
   "282": {
     "qId": 282,
@@ -1587,49 +1587,49 @@
     "qId": 283,
     "name": "移动零",
     "leetcodePassRate": 0.608,
-    "difficulty": 3
+    "difficulty": 1
   },
   "284": {
     "qId": 284,
     "name": "顶端迭代器",
     "leetcodePassRate": 0.711,
-    "difficulty": 3
+    "difficulty": 2
   },
   "285": {
     "qId": 285,
     "name": "二叉搜索树中的顺序后继",
     "leetcodePassRate": 0.612,
-    "difficulty": 3
+    "difficulty": 2
   },
   "286": {
     "qId": 286,
     "name": "墙与门",
     "leetcodePassRate": 0.449,
-    "difficulty": 3
+    "difficulty": 2
   },
   "287": {
     "qId": 287,
     "name": "寻找重复数",
     "leetcodePassRate": 0.6409999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "288": {
     "qId": 288,
     "name": "单词的唯一缩写",
     "leetcodePassRate": 0.314,
-    "difficulty": 3
+    "difficulty": 2
   },
   "289": {
     "qId": 289,
     "name": "生命游戏",
     "leetcodePassRate": 0.745,
-    "difficulty": 3
+    "difficulty": 2
   },
   "290": {
     "qId": 290,
     "name": "单词规律",
     "leetcodePassRate": 0.425,
-    "difficulty": 3
+    "difficulty": 1
   },
   "291": {
     "qId": 291,
@@ -1641,19 +1641,19 @@
     "qId": 292,
     "name": "Nim游戏",
     "leetcodePassRate": 0.696,
-    "difficulty": 3
+    "difficulty": 1
   },
   "293": {
     "qId": 293,
     "name": "翻转游戏",
     "leetcodePassRate": 0.716,
-    "difficulty": 3
+    "difficulty": 1
   },
   "294": {
     "qId": 294,
     "name": "翻转游戏II",
     "leetcodePassRate": 0.5720000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "295": {
     "qId": 295,
@@ -1677,19 +1677,19 @@
     "qId": 298,
     "name": "二叉树最长连续序列",
     "leetcodePassRate": 0.562,
-    "difficulty": 3
+    "difficulty": 2
   },
   "299": {
     "qId": 299,
     "name": "猜数字游戏",
     "leetcodePassRate": 0.478,
-    "difficulty": 3
+    "difficulty": 1
   },
   "300": {
     "qId": 300,
     "name": "最长上升子序列",
     "leetcodePassRate": 0.44299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "301": {
     "qId": 301,
@@ -1707,13 +1707,13 @@
     "qId": 303,
     "name": "区域和检索-数组不可变",
     "leetcodePassRate": 0.615,
-    "difficulty": 3
+    "difficulty": 1
   },
   "304": {
     "qId": 304,
     "name": "二维区域和检索-矩阵不可变",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 2
   },
   "305": {
     "qId": 305,
@@ -1725,13 +1725,13 @@
     "qId": 306,
     "name": "累加数",
     "leetcodePassRate": 0.319,
-    "difficulty": 3
+    "difficulty": 2
   },
   "307": {
     "qId": 307,
     "name": "区域和检索-数组可修改",
     "leetcodePassRate": 0.555,
-    "difficulty": 3
+    "difficulty": 2
   },
   "308": {
     "qId": 308,
@@ -1743,19 +1743,19 @@
     "qId": 309,
     "name": "最佳买卖股票时机含冷冻期",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 2
   },
   "310": {
     "qId": 310,
     "name": "最小高度树",
     "leetcodePassRate": 0.33799999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "311": {
     "qId": 311,
     "name": "稀疏矩阵的乘法",
     "leetcodePassRate": 0.7340000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "312": {
     "qId": 312,
@@ -1767,13 +1767,13 @@
     "qId": 313,
     "name": "超级丑数",
     "leetcodePassRate": 0.626,
-    "difficulty": 3
+    "difficulty": 2
   },
   "314": {
     "qId": 314,
     "name": "二叉树的垂直遍历",
     "leetcodePassRate": 0.544,
-    "difficulty": 3
+    "difficulty": 2
   },
   "315": {
     "qId": 315,
@@ -1797,19 +1797,19 @@
     "qId": 318,
     "name": "最大单词长度乘积",
     "leetcodePassRate": 0.636,
-    "difficulty": 3
+    "difficulty": 2
   },
   "319": {
     "qId": 319,
     "name": "灯泡开关",
     "leetcodePassRate": 0.457,
-    "difficulty": 3
+    "difficulty": 2
   },
   "320": {
     "qId": 320,
     "name": "列举单词的全部缩写",
     "leetcodePassRate": 0.633,
-    "difficulty": 3
+    "difficulty": 2
   },
   "321": {
     "qId": 321,
@@ -1821,31 +1821,31 @@
     "qId": 322,
     "name": "零钱兑换",
     "leetcodePassRate": 0.395,
-    "difficulty": 3
+    "difficulty": 2
   },
   "323": {
     "qId": 323,
     "name": "无向图中连通分量的数目",
     "leetcodePassRate": 0.5670000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "324": {
     "qId": 324,
     "name": "摆动排序II",
     "leetcodePassRate": 0.353,
-    "difficulty": 3
+    "difficulty": 2
   },
   "325": {
     "qId": 325,
     "name": "和等于k的最长子数组长度",
     "leetcodePassRate": 0.48200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "326": {
     "qId": 326,
     "name": "3的幂",
     "leetcodePassRate": 0.469,
-    "difficulty": 3
+    "difficulty": 1
   },
   "327": {
     "qId": 327,
@@ -1857,7 +1857,7 @@
     "qId": 328,
     "name": "奇偶链表",
     "leetcodePassRate": 0.624,
-    "difficulty": 3
+    "difficulty": 2
   },
   "329": {
     "qId": 329,
@@ -1875,25 +1875,25 @@
     "qId": 331,
     "name": "验证二叉树的前序序列化",
     "leetcodePassRate": 0.445,
-    "difficulty": 3
+    "difficulty": 2
   },
   "332": {
     "qId": 332,
     "name": "重新安排行程",
     "leetcodePassRate": 0.373,
-    "difficulty": 3
+    "difficulty": 2
   },
   "333": {
     "qId": 333,
     "name": "最大BST子树",
     "leetcodePassRate": 0.42700000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "334": {
     "qId": 334,
     "name": "递增的三元子序列",
     "leetcodePassRate": 0.381,
-    "difficulty": 3
+    "difficulty": 2
   },
   "335": {
     "qId": 335,
@@ -1911,19 +1911,19 @@
     "qId": 337,
     "name": "打家劫舍III",
     "leetcodePassRate": 0.568,
-    "difficulty": 3
+    "difficulty": 2
   },
   "338": {
     "qId": 338,
     "name": "比特位计数",
     "leetcodePassRate": 0.7509999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "339": {
     "qId": 339,
     "name": "嵌套列表权重和",
     "leetcodePassRate": 0.785,
-    "difficulty": 3
+    "difficulty": 1
   },
   "340": {
     "qId": 340,
@@ -1935,67 +1935,67 @@
     "qId": 341,
     "name": "扁平化嵌套列表迭代器",
     "leetcodePassRate": 0.633,
-    "difficulty": 3
+    "difficulty": 2
   },
   "342": {
     "qId": 342,
     "name": "4的幂",
     "leetcodePassRate": 0.48700000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "343": {
     "qId": 343,
     "name": "整数拆分",
     "leetcodePassRate": 0.5589999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "344": {
     "qId": 344,
     "name": "反转字符串",
     "leetcodePassRate": 0.703,
-    "difficulty": 3
+    "difficulty": 1
   },
   "345": {
     "qId": 345,
     "name": "反转字符串中的元音字母",
     "leetcodePassRate": 0.499,
-    "difficulty": 3
+    "difficulty": 1
   },
   "346": {
     "qId": 346,
     "name": "数据流中的移动平均值",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 1
   },
   "347": {
     "qId": 347,
     "name": "前K个高频元素",
     "leetcodePassRate": 0.608,
-    "difficulty": 3
+    "difficulty": 2
   },
   "348": {
     "qId": 348,
     "name": "判定井字棋胜负",
     "leetcodePassRate": 0.58,
-    "difficulty": 3
+    "difficulty": 2
   },
   "349": {
     "qId": 349,
     "name": "两个数组的交集",
     "leetcodePassRate": 0.6920000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "350": {
     "qId": 350,
     "name": "两个数组的交集II",
     "leetcodePassRate": 0.483,
-    "difficulty": 3
+    "difficulty": 1
   },
   "351": {
     "qId": 351,
     "name": "安卓系统手势解锁",
     "leetcodePassRate": 0.5820000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "352": {
     "qId": 352,
@@ -2007,7 +2007,7 @@
     "qId": 353,
     "name": "贪吃蛇",
     "leetcodePassRate": 0.39299999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "354": {
     "qId": 354,
@@ -2019,19 +2019,19 @@
     "qId": 355,
     "name": "设计推特",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 2
   },
   "356": {
     "qId": 356,
     "name": "直线镜像",
     "leetcodePassRate": 0.28600000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "357": {
     "qId": 357,
     "name": "计算各个位数不同的数字个数",
     "leetcodePassRate": 0.508,
-    "difficulty": 3
+    "difficulty": 2
   },
   "358": {
     "qId": 358,
@@ -2043,25 +2043,25 @@
     "qId": 359,
     "name": "日志速率限制器",
     "leetcodePassRate": 0.6990000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "360": {
     "qId": 360,
     "name": "有序转化数组",
     "leetcodePassRate": 0.595,
-    "difficulty": 3
+    "difficulty": 2
   },
   "361": {
     "qId": 361,
     "name": "轰炸敌人",
     "leetcodePassRate": 0.526,
-    "difficulty": 3
+    "difficulty": 2
   },
   "362": {
     "qId": 362,
     "name": "敲击计数器",
     "leetcodePassRate": 0.664,
-    "difficulty": 3
+    "difficulty": 2
   },
   "363": {
     "qId": 363,
@@ -2073,103 +2073,103 @@
     "qId": 364,
     "name": "加权嵌套序列和II",
     "leetcodePassRate": 0.696,
-    "difficulty": 3
+    "difficulty": 2
   },
   "365": {
     "qId": 365,
     "name": "水壶问题",
     "leetcodePassRate": 0.35100000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "366": {
     "qId": 366,
     "name": "寻找二叉树的叶子节点",
     "leetcodePassRate": 0.735,
-    "difficulty": 3
+    "difficulty": 2
   },
   "367": {
     "qId": 367,
     "name": "有效的完全平方数",
     "leetcodePassRate": 0.434,
-    "difficulty": 3
+    "difficulty": 1
   },
   "368": {
     "qId": 368,
     "name": "最大整除子集",
     "leetcodePassRate": 0.377,
-    "difficulty": 3
+    "difficulty": 2
   },
   "369": {
     "qId": 369,
     "name": "给单链表加一",
     "leetcodePassRate": 0.614,
-    "difficulty": 3
+    "difficulty": 2
   },
   "370": {
     "qId": 370,
     "name": "区间加法",
     "leetcodePassRate": 0.659,
-    "difficulty": 3
+    "difficulty": 2
   },
   "371": {
     "qId": 371,
     "name": "两整数之和",
     "leetcodePassRate": 0.547,
-    "difficulty": 3
+    "difficulty": 1
   },
   "372": {
     "qId": 372,
     "name": "超级次方",
     "leetcodePassRate": 0.408,
-    "difficulty": 3
+    "difficulty": 2
   },
   "373": {
     "qId": 373,
     "name": "查找和最小的K对数字",
     "leetcodePassRate": 0.42200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "374": {
     "qId": 374,
     "name": "猜数字大小",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 1
   },
   "375": {
     "qId": 375,
     "name": "猜数字大小II",
     "leetcodePassRate": 0.384,
-    "difficulty": 3
+    "difficulty": 2
   },
   "376": {
     "qId": 376,
     "name": "摆动序列",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 2
   },
   "377": {
     "qId": 377,
     "name": "组合总和Ⅳ",
     "leetcodePassRate": 0.419,
-    "difficulty": 3
+    "difficulty": 2
   },
   "378": {
     "qId": 378,
     "name": "有序矩阵中第K小的元素",
     "leetcodePassRate": 0.5920000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "379": {
     "qId": 379,
     "name": "电话目录管理系统",
     "leetcodePassRate": 0.6559999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "380": {
     "qId": 380,
     "name": "常数时间插入、删除和获取随机元素",
     "leetcodePassRate": 0.483,
-    "difficulty": 3
+    "difficulty": 2
   },
   "381": {
     "qId": 381,
@@ -2181,55 +2181,55 @@
     "qId": 382,
     "name": "链表随机节点",
     "leetcodePassRate": 0.568,
-    "difficulty": 3
+    "difficulty": 2
   },
   "383": {
     "qId": 383,
     "name": "赎金信",
     "leetcodePassRate": 0.531,
-    "difficulty": 3
+    "difficulty": 1
   },
   "384": {
     "qId": 384,
     "name": "打乱数组",
     "leetcodePassRate": 0.513,
-    "difficulty": 3
+    "difficulty": 2
   },
   "385": {
     "qId": 385,
     "name": "迷你语法分析器",
     "leetcodePassRate": 0.392,
-    "difficulty": 3
+    "difficulty": 2
   },
   "386": {
     "qId": 386,
     "name": "字典序排数",
     "leetcodePassRate": 0.6990000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "387": {
     "qId": 387,
     "name": "字符串中的第一个唯一字符",
     "leetcodePassRate": 0.45,
-    "difficulty": 3
+    "difficulty": 1
   },
   "388": {
     "qId": 388,
     "name": "文件的最长绝对路径",
     "leetcodePassRate": 0.45899999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "389": {
     "qId": 389,
     "name": "找不同",
     "leetcodePassRate": 0.618,
-    "difficulty": 3
+    "difficulty": 1
   },
   "390": {
     "qId": 390,
     "name": "消除游戏",
     "leetcodePassRate": 0.434,
-    "difficulty": 3
+    "difficulty": 2
   },
   "391": {
     "qId": 391,
@@ -2241,67 +2241,67 @@
     "qId": 392,
     "name": "判断子序列",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 1
   },
   "393": {
     "qId": 393,
     "name": "UTF-8编码验证",
     "leetcodePassRate": 0.382,
-    "difficulty": 3
+    "difficulty": 2
   },
   "394": {
     "qId": 394,
     "name": "字符串解码",
     "leetcodePassRate": 0.501,
-    "difficulty": 3
+    "difficulty": 2
   },
   "395": {
     "qId": 395,
     "name": "至少有K个重复字符的最长子串",
     "leetcodePassRate": 0.426,
-    "difficulty": 3
+    "difficulty": 2
   },
   "396": {
     "qId": 396,
     "name": "旋转函数",
     "leetcodePassRate": 0.39899999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "397": {
     "qId": 397,
     "name": "整数替换",
     "leetcodePassRate": 0.35100000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "398": {
     "qId": 398,
     "name": "随机数索引",
     "leetcodePassRate": 0.608,
-    "difficulty": 3
+    "difficulty": 2
   },
   "399": {
     "qId": 399,
     "name": "除法求值",
     "leetcodePassRate": 0.539,
-    "difficulty": 3
+    "difficulty": 2
   },
   "400": {
     "qId": 400,
     "name": "第N个数字",
     "leetcodePassRate": 0.368,
-    "difficulty": 3
+    "difficulty": 2
   },
   "401": {
     "qId": 401,
     "name": "二进制手表",
     "leetcodePassRate": 0.519,
-    "difficulty": 3
+    "difficulty": 1
   },
   "402": {
     "qId": 402,
     "name": "移掉K位数字",
     "leetcodePassRate": 0.289,
-    "difficulty": 3
+    "difficulty": 2
   },
   "403": {
     "qId": 403,
@@ -2313,19 +2313,19 @@
     "qId": 404,
     "name": "左叶子之和",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 1
   },
   "405": {
     "qId": 405,
     "name": "数字转换为十六进制数",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 1
   },
   "406": {
     "qId": 406,
     "name": "根据身高重建队列",
     "leetcodePassRate": 0.6459999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "407": {
     "qId": 407,
@@ -2337,13 +2337,13 @@
     "qId": 408,
     "name": "有效单词缩写",
     "leetcodePassRate": 0.305,
-    "difficulty": 3
+    "difficulty": 1
   },
   "409": {
     "qId": 409,
     "name": "最长回文串",
     "leetcodePassRate": 0.55,
-    "difficulty": 3
+    "difficulty": 1
   },
   "410": {
     "qId": 410,
@@ -2361,49 +2361,49 @@
     "qId": 412,
     "name": "FizzBuzz",
     "leetcodePassRate": 0.635,
-    "difficulty": 3
+    "difficulty": 1
   },
   "413": {
     "qId": 413,
     "name": "等差数列划分",
     "leetcodePassRate": 0.613,
-    "difficulty": 3
+    "difficulty": 2
   },
   "414": {
     "qId": 414,
     "name": "第三大的数",
     "leetcodePassRate": 0.35,
-    "difficulty": 3
+    "difficulty": 1
   },
   "415": {
     "qId": 415,
     "name": "字符串相加",
     "leetcodePassRate": 0.499,
-    "difficulty": 3
+    "difficulty": 1
   },
   "416": {
     "qId": 416,
     "name": "分割等和子集",
     "leetcodePassRate": 0.47200000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "417": {
     "qId": 417,
     "name": "太平洋大西洋水流问题",
     "leetcodePassRate": 0.41700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "418": {
     "qId": 418,
     "name": "屏幕可显示句子的数量",
     "leetcodePassRate": 0.34600000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "419": {
     "qId": 419,
     "name": "甲板上的战舰",
     "leetcodePassRate": 0.7240000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "420": {
     "qId": 420,
@@ -2415,25 +2415,25 @@
     "qId": 421,
     "name": "数组中两个数的最大异或值",
     "leetcodePassRate": 0.589,
-    "difficulty": 3
+    "difficulty": 2
   },
   "422": {
     "qId": 422,
     "name": "有效的单词方块",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 1
   },
   "423": {
     "qId": 423,
     "name": "从英文中重建数字",
     "leetcodePassRate": 0.53,
-    "difficulty": 3
+    "difficulty": 2
   },
   "424": {
     "qId": 424,
     "name": "替换后的最长重复字符",
     "leetcodePassRate": 0.47100000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "425": {
     "qId": 425,
@@ -2445,13 +2445,13 @@
     "qId": 426,
     "name": "将二叉搜索树转化为排序的双向链表",
     "leetcodePassRate": 0.63,
-    "difficulty": 3
+    "difficulty": 2
   },
   "427": {
     "qId": 427,
     "name": "建立四叉树",
     "leetcodePassRate": 0.573,
-    "difficulty": 3
+    "difficulty": 2
   },
   "428": {
     "qId": 428,
@@ -2463,13 +2463,13 @@
     "qId": 429,
     "name": "N叉树的层序遍历",
     "leetcodePassRate": 0.655,
-    "difficulty": 3
+    "difficulty": 2
   },
   "430": {
     "qId": 430,
     "name": "扁平化多级双向链表",
     "leetcodePassRate": 0.483,
-    "difficulty": 3
+    "difficulty": 2
   },
   "431": {
     "qId": 431,
@@ -2487,43 +2487,43 @@
     "qId": 433,
     "name": "最小基因变化",
     "leetcodePassRate": 0.504,
-    "difficulty": 3
+    "difficulty": 2
   },
   "434": {
     "qId": 434,
     "name": "字符串中的单词数",
     "leetcodePassRate": 0.35,
-    "difficulty": 3
+    "difficulty": 1
   },
   "435": {
     "qId": 435,
     "name": "无重叠区间",
     "leetcodePassRate": 0.45399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "436": {
     "qId": 436,
     "name": "寻找右区间",
     "leetcodePassRate": 0.45299999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "437": {
     "qId": 437,
     "name": "路径总和III",
     "leetcodePassRate": 0.5489999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "438": {
     "qId": 438,
     "name": "找到字符串中所有字母异位词",
     "leetcodePassRate": 0.436,
-    "difficulty": 3
+    "difficulty": 2
   },
   "439": {
     "qId": 439,
     "name": "三元表达式解析器",
     "leetcodePassRate": 0.564,
-    "difficulty": 3
+    "difficulty": 2
   },
   "440": {
     "qId": 440,
@@ -2535,31 +2535,31 @@
     "qId": 441,
     "name": "排列硬币",
     "leetcodePassRate": 0.409,
-    "difficulty": 3
+    "difficulty": 1
   },
   "442": {
     "qId": 442,
     "name": "数组中重复的数据",
     "leetcodePassRate": 0.653,
-    "difficulty": 3
+    "difficulty": 2
   },
   "443": {
     "qId": 443,
     "name": "压缩字符串",
     "leetcodePassRate": 0.4,
-    "difficulty": 3
+    "difficulty": 1
   },
   "444": {
     "qId": 444,
     "name": "序列重建",
     "leetcodePassRate": 0.22,
-    "difficulty": 3
+    "difficulty": 2
   },
   "445": {
     "qId": 445,
     "name": "两数相加II",
     "leetcodePassRate": 0.5720000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "446": {
     "qId": 446,
@@ -2571,67 +2571,67 @@
     "qId": 447,
     "name": "回旋镖的数量",
     "leetcodePassRate": 0.575,
-    "difficulty": 3
+    "difficulty": 1
   },
   "448": {
     "qId": 448,
     "name": "找到所有数组中消失的数字",
     "leetcodePassRate": 0.58,
-    "difficulty": 3
+    "difficulty": 1
   },
   "449": {
     "qId": 449,
     "name": "序列化和反序列化二叉搜索树",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 2
   },
   "450": {
     "qId": 450,
     "name": "删除二叉搜索树中的节点",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "451": {
     "qId": 451,
     "name": "根据字符出现频率排序",
     "leetcodePassRate": 0.639,
-    "difficulty": 3
+    "difficulty": 2
   },
   "452": {
     "qId": 452,
     "name": "用最少数量的箭引爆气球",
     "leetcodePassRate": 0.502,
-    "difficulty": 3
+    "difficulty": 2
   },
   "453": {
     "qId": 453,
     "name": "最小移动次数使数组元素相等",
     "leetcodePassRate": 0.537,
-    "difficulty": 3
+    "difficulty": 1
   },
   "454": {
     "qId": 454,
     "name": "四数相加II",
     "leetcodePassRate": 0.546,
-    "difficulty": 3
+    "difficulty": 2
   },
   "455": {
     "qId": 455,
     "name": "分发饼干",
     "leetcodePassRate": 0.544,
-    "difficulty": 3
+    "difficulty": 1
   },
   "456": {
     "qId": 456,
     "name": "132模式",
     "leetcodePassRate": 0.267,
-    "difficulty": 3
+    "difficulty": 2
   },
   "457": {
     "qId": 457,
     "name": "环形数组循环",
     "leetcodePassRate": 0.33799999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "458": {
     "qId": 458,
@@ -2643,7 +2643,7 @@
     "qId": 459,
     "name": "重复的子字符串",
     "leetcodePassRate": 0.467,
-    "difficulty": 3
+    "difficulty": 1
   },
   "460": {
     "qId": 460,
@@ -2655,25 +2655,25 @@
     "qId": 461,
     "name": "汉明距离",
     "leetcodePassRate": 0.7609999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "462": {
     "qId": 462,
     "name": "最少移动次数使数组元素相等II",
     "leetcodePassRate": 0.579,
-    "difficulty": 3
+    "difficulty": 2
   },
   "463": {
     "qId": 463,
     "name": "岛屿的周长",
     "leetcodePassRate": 0.6659999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "464": {
     "qId": 464,
     "name": "我能赢吗",
     "leetcodePassRate": 0.336,
-    "difficulty": 3
+    "difficulty": 2
   },
   "465": {
     "qId": 465,
@@ -2691,25 +2691,25 @@
     "qId": 467,
     "name": "环绕字符串中唯一的子字符串",
     "leetcodePassRate": 0.402,
-    "difficulty": 3
+    "difficulty": 2
   },
   "468": {
     "qId": 468,
     "name": "验证IP地址",
     "leetcodePassRate": 0.218,
-    "difficulty": 3
+    "difficulty": 2
   },
   "469": {
     "qId": 469,
     "name": "凸多边形",
     "leetcodePassRate": 0.446,
-    "difficulty": 3
+    "difficulty": 2
   },
   "470": {
     "qId": 470,
     "name": "用Rand7()实现Rand10()",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 2
   },
   "471": {
     "qId": 471,
@@ -2727,37 +2727,37 @@
     "qId": 473,
     "name": "火柴拼正方形",
     "leetcodePassRate": 0.387,
-    "difficulty": 3
+    "difficulty": 2
   },
   "474": {
     "qId": 474,
     "name": "一和零",
     "leetcodePassRate": 0.528,
-    "difficulty": 3
+    "difficulty": 2
   },
   "475": {
     "qId": 475,
     "name": "供暖器",
     "leetcodePassRate": 0.3,
-    "difficulty": 3
+    "difficulty": 1
   },
   "476": {
     "qId": 476,
     "name": "数字的补数",
     "leetcodePassRate": 0.684,
-    "difficulty": 3
+    "difficulty": 1
   },
   "477": {
     "qId": 477,
     "name": "汉明距离总和",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 2
   },
   "478": {
     "qId": 478,
     "name": "在圆内随机生成点",
     "leetcodePassRate": 0.41200000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "479": {
     "qId": 479,
@@ -2775,13 +2775,13 @@
     "qId": 481,
     "name": "神奇字符串",
     "leetcodePassRate": 0.505,
-    "difficulty": 3
+    "difficulty": 2
   },
   "482": {
     "qId": 482,
     "name": "密钥格式化",
     "leetcodePassRate": 0.391,
-    "difficulty": 3
+    "difficulty": 1
   },
   "483": {
     "qId": 483,
@@ -2793,25 +2793,25 @@
     "qId": 484,
     "name": "寻找排列",
     "leetcodePassRate": 0.654,
-    "difficulty": 3
+    "difficulty": 2
   },
   "485": {
     "qId": 485,
     "name": "最大连续1的个数",
     "leetcodePassRate": 0.565,
-    "difficulty": 3
+    "difficulty": 1
   },
   "486": {
     "qId": 486,
     "name": "预测赢家",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 2
   },
   "487": {
     "qId": 487,
     "name": "最大连续1的个数II",
     "leetcodePassRate": 0.5539999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "488": {
     "qId": 488,
@@ -2829,19 +2829,19 @@
     "qId": 490,
     "name": "迷宫",
     "leetcodePassRate": 0.455,
-    "difficulty": 3
+    "difficulty": 2
   },
   "491": {
     "qId": 491,
     "name": "递增子序列",
     "leetcodePassRate": 0.48200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "492": {
     "qId": 492,
     "name": "构造矩形",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 1
   },
   "493": {
     "qId": 493,
@@ -2853,31 +2853,31 @@
     "qId": 494,
     "name": "目标和",
     "leetcodePassRate": 0.44299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "495": {
     "qId": 495,
     "name": "提莫攻击",
     "leetcodePassRate": 0.5379999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "496": {
     "qId": 496,
     "name": "下一个更大元素I",
     "leetcodePassRate": 0.6409999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "497": {
     "qId": 497,
     "name": "非重叠矩形中的随机点",
     "leetcodePassRate": 0.385,
-    "difficulty": 3
+    "difficulty": 2
   },
   "498": {
     "qId": 498,
     "name": "对角线遍历",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "499": {
     "qId": 499,
@@ -2889,13 +2889,13 @@
     "qId": 500,
     "name": "键盘行",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 1
   },
   "501": {
     "qId": 501,
     "name": "二叉搜索树中的众数",
     "leetcodePassRate": 0.447,
-    "difficulty": 3
+    "difficulty": 1
   },
   "502": {
     "qId": 502,
@@ -2907,55 +2907,55 @@
     "qId": 503,
     "name": "下一个更大元素II",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 2
   },
   "504": {
     "qId": 504,
     "name": "七进制数",
     "leetcodePassRate": 0.489,
-    "difficulty": 3
+    "difficulty": 1
   },
   "505": {
     "qId": 505,
     "name": "迷宫II",
     "leetcodePassRate": 0.447,
-    "difficulty": 3
+    "difficulty": 2
   },
   "506": {
     "qId": 506,
     "name": "相对名次",
     "leetcodePassRate": 0.541,
-    "difficulty": 3
+    "difficulty": 1
   },
   "507": {
     "qId": 507,
     "name": "完美数",
     "leetcodePassRate": 0.381,
-    "difficulty": 3
+    "difficulty": 1
   },
   "508": {
     "qId": 508,
     "name": "出现次数最多的子树元素和",
     "leetcodePassRate": 0.6409999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "509": {
     "qId": 509,
     "name": "斐波那契数",
     "leetcodePassRate": 0.667,
-    "difficulty": 3
+    "difficulty": 1
   },
   "510": {
     "qId": 510,
     "name": "二叉搜索树中的中序后继II",
     "leetcodePassRate": 0.5710000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "513": {
     "qId": 513,
     "name": "找树左下角的值",
     "leetcodePassRate": 0.6990000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "514": {
     "qId": 514,
@@ -2967,13 +2967,13 @@
     "qId": 515,
     "name": "在每个树行中找最大值",
     "leetcodePassRate": 0.602,
-    "difficulty": 3
+    "difficulty": 2
   },
   "516": {
     "qId": 516,
     "name": "最长回文子序列",
     "leetcodePassRate": 0.541,
-    "difficulty": 3
+    "difficulty": 2
   },
   "517": {
     "qId": 517,
@@ -2985,55 +2985,55 @@
     "qId": 518,
     "name": "零钱兑换II",
     "leetcodePassRate": 0.514,
-    "difficulty": 3
+    "difficulty": 2
   },
   "519": {
     "qId": 519,
     "name": "随机翻转矩阵",
     "leetcodePassRate": 0.36,
-    "difficulty": 3
+    "difficulty": 2
   },
   "520": {
     "qId": 520,
     "name": "检测大写字母",
     "leetcodePassRate": 0.552,
-    "difficulty": 3
+    "difficulty": 1
   },
   "521": {
     "qId": 521,
     "name": "最长特殊序列Ⅰ",
     "leetcodePassRate": 0.675,
-    "difficulty": 3
+    "difficulty": 1
   },
   "522": {
     "qId": 522,
     "name": "最长特殊序列II",
     "leetcodePassRate": 0.33399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "523": {
     "qId": 523,
     "name": "连续的子数组和",
     "leetcodePassRate": 0.22699999999999998,
-    "difficulty": 3
+    "difficulty": 2
   },
   "524": {
     "qId": 524,
     "name": "通过删除字母匹配到字典里最长单词",
     "leetcodePassRate": 0.45799999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "525": {
     "qId": 525,
     "name": "连续数组",
     "leetcodePassRate": 0.426,
-    "difficulty": 3
+    "difficulty": 2
   },
   "526": {
     "qId": 526,
     "name": "优美的排列",
     "leetcodePassRate": 0.619,
-    "difficulty": 3
+    "difficulty": 2
   },
   "527": {
     "qId": 527,
@@ -3045,103 +3045,103 @@
     "qId": 528,
     "name": "按权重随机选择",
     "leetcodePassRate": 0.428,
-    "difficulty": 3
+    "difficulty": 2
   },
   "529": {
     "qId": 529,
     "name": "扫雷游戏",
     "leetcodePassRate": 0.607,
-    "difficulty": 3
+    "difficulty": 2
   },
   "530": {
     "qId": 530,
     "name": "二叉搜索树的最小绝对差",
     "leetcodePassRate": 0.57,
-    "difficulty": 3
+    "difficulty": 1
   },
   "531": {
     "qId": 531,
     "name": "孤独像素I",
     "leetcodePassRate": 0.652,
-    "difficulty": 3
+    "difficulty": 2
   },
   "532": {
     "qId": 532,
     "name": "数组中的K-diff数对",
     "leetcodePassRate": 0.341,
-    "difficulty": 3
+    "difficulty": 1
   },
   "533": {
     "qId": 533,
     "name": "孤独像素II",
     "leetcodePassRate": 0.47700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "535": {
     "qId": 535,
     "name": "TinyURL的加密与解密",
     "leetcodePassRate": 0.8140000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "536": {
     "qId": 536,
     "name": "从字符串生成二叉树",
     "leetcodePassRate": 0.511,
-    "difficulty": 3
+    "difficulty": 2
   },
   "537": {
     "qId": 537,
     "name": "复数乘法",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 2
   },
   "538": {
     "qId": 538,
     "name": "把二叉搜索树转换为累加树",
     "leetcodePassRate": 0.611,
-    "difficulty": 3
+    "difficulty": 1
   },
   "539": {
     "qId": 539,
     "name": "最小时间差",
     "leetcodePassRate": 0.546,
-    "difficulty": 3
+    "difficulty": 2
   },
   "540": {
     "qId": 540,
     "name": "有序数组中的单一元素",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 2
   },
   "541": {
     "qId": 541,
     "name": "反转字符串II",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 1
   },
   "542": {
     "qId": 542,
     "name": "01矩阵",
     "leetcodePassRate": 0.446,
-    "difficulty": 3
+    "difficulty": 2
   },
   "543": {
     "qId": 543,
     "name": "二叉树的直径",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 1
   },
   "544": {
     "qId": 544,
     "name": "输出比赛匹配对",
     "leetcodePassRate": 0.6779999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "545": {
     "qId": 545,
     "name": "二叉树的边界",
     "leetcodePassRate": 0.368,
-    "difficulty": 3
+    "difficulty": 2
   },
   "546": {
     "qId": 546,
@@ -3153,25 +3153,25 @@
     "qId": 547,
     "name": "朋友圈",
     "leetcodePassRate": 0.565,
-    "difficulty": 3
+    "difficulty": 2
   },
   "548": {
     "qId": 548,
     "name": "将数组分割成和相等的子数组",
     "leetcodePassRate": 0.33799999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "549": {
     "qId": 549,
     "name": "二叉树中最长的连续序列",
     "leetcodePassRate": 0.479,
-    "difficulty": 3
+    "difficulty": 2
   },
   "551": {
     "qId": 551,
     "name": "学生出勤记录I",
     "leetcodePassRate": 0.512,
-    "difficulty": 3
+    "difficulty": 1
   },
   "552": {
     "qId": 552,
@@ -3183,67 +3183,67 @@
     "qId": 553,
     "name": "最优除法",
     "leetcodePassRate": 0.5579999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "554": {
     "qId": 554,
     "name": "砖墙",
     "leetcodePassRate": 0.36700000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "555": {
     "qId": 555,
     "name": "分割连接字符串",
     "leetcodePassRate": 0.324,
-    "difficulty": 3
+    "difficulty": 2
   },
   "556": {
     "qId": 556,
     "name": "下一个更大元素III",
     "leetcodePassRate": 0.306,
-    "difficulty": 3
+    "difficulty": 2
   },
   "557": {
     "qId": 557,
     "name": "反转字符串中的单词III",
     "leetcodePassRate": 0.706,
-    "difficulty": 3
+    "difficulty": 1
   },
   "558": {
     "qId": 558,
     "name": "四叉树交集",
     "leetcodePassRate": 0.473,
-    "difficulty": 3
+    "difficulty": 2
   },
   "559": {
     "qId": 559,
     "name": "N叉树的最大深度",
     "leetcodePassRate": 0.6940000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "560": {
     "qId": 560,
     "name": "和为K的子数组",
     "leetcodePassRate": 0.44299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "561": {
     "qId": 561,
     "name": "数组拆分I",
     "leetcodePassRate": 0.708,
-    "difficulty": 3
+    "difficulty": 1
   },
   "562": {
     "qId": 562,
     "name": "矩阵中最长的连续1线段",
     "leetcodePassRate": 0.413,
-    "difficulty": 3
+    "difficulty": 2
   },
   "563": {
     "qId": 563,
     "name": "二叉树的坡度",
     "leetcodePassRate": 0.551,
-    "difficulty": 3
+    "difficulty": 1
   },
   "564": {
     "qId": 564,
@@ -3255,19 +3255,19 @@
     "qId": 565,
     "name": "数组嵌套",
     "leetcodePassRate": 0.581,
-    "difficulty": 3
+    "difficulty": 2
   },
   "566": {
     "qId": 566,
     "name": "重塑矩阵",
     "leetcodePassRate": 0.645,
-    "difficulty": 3
+    "difficulty": 1
   },
   "567": {
     "qId": 567,
     "name": "字符串的排列",
     "leetcodePassRate": 0.355,
-    "difficulty": 3
+    "difficulty": 2
   },
   "568": {
     "qId": 568,
@@ -3279,43 +3279,43 @@
     "qId": 572,
     "name": "另一个树的子树",
     "leetcodePassRate": 0.46799999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "573": {
     "qId": 573,
     "name": "松鼠模拟",
     "leetcodePassRate": 0.632,
-    "difficulty": 3
+    "difficulty": 2
   },
   "575": {
     "qId": 575,
     "name": "分糖果",
     "leetcodePassRate": 0.6629999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "576": {
     "qId": 576,
     "name": "出界的路径数",
     "leetcodePassRate": 0.364,
-    "difficulty": 3
+    "difficulty": 2
   },
   "581": {
     "qId": 581,
     "name": "最短无序连续子数组",
     "leetcodePassRate": 0.34600000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "582": {
     "qId": 582,
     "name": "杀死进程",
     "leetcodePassRate": 0.361,
-    "difficulty": 3
+    "difficulty": 2
   },
   "583": {
     "qId": 583,
     "name": "两个字符串的删除操作",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 2
   },
   "587": {
     "qId": 587,
@@ -3333,13 +3333,13 @@
     "qId": 589,
     "name": "N叉树的前序遍历",
     "leetcodePassRate": 0.731,
-    "difficulty": 3
+    "difficulty": 1
   },
   "590": {
     "qId": 590,
     "name": "N叉树的后序遍历",
     "leetcodePassRate": 0.7340000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "591": {
     "qId": 591,
@@ -3351,31 +3351,31 @@
     "qId": 592,
     "name": "分数加减运算",
     "leetcodePassRate": 0.493,
-    "difficulty": 3
+    "difficulty": 2
   },
   "593": {
     "qId": 593,
     "name": "有效的正方形",
     "leetcodePassRate": 0.424,
-    "difficulty": 3
+    "difficulty": 2
   },
   "594": {
     "qId": 594,
     "name": "最长和谐子序列",
     "leetcodePassRate": 0.46799999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "598": {
     "qId": 598,
     "name": "范围求和II",
     "leetcodePassRate": 0.508,
-    "difficulty": 3
+    "difficulty": 1
   },
   "599": {
     "qId": 599,
     "name": "两个列表的最小索引总和",
     "leetcodePassRate": 0.506,
-    "difficulty": 3
+    "difficulty": 1
   },
   "600": {
     "qId": 600,
@@ -3387,79 +3387,79 @@
     "qId": 604,
     "name": "迭代压缩字符串",
     "leetcodePassRate": 0.34299999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "605": {
     "qId": 605,
     "name": "种花问题",
     "leetcodePassRate": 0.317,
-    "difficulty": 3
+    "difficulty": 1
   },
   "606": {
     "qId": 606,
     "name": "根据二叉树创建字符串",
     "leetcodePassRate": 0.535,
-    "difficulty": 3
+    "difficulty": 1
   },
   "609": {
     "qId": 609,
     "name": "在系统中查找重复文件",
     "leetcodePassRate": 0.457,
-    "difficulty": 3
+    "difficulty": 2
   },
   "611": {
     "qId": 611,
     "name": "有效三角形的个数",
     "leetcodePassRate": 0.488,
-    "difficulty": 3
+    "difficulty": 2
   },
   "616": {
     "qId": 616,
     "name": "给字符串添加加粗标签",
     "leetcodePassRate": 0.44299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "617": {
     "qId": 617,
     "name": "合并二叉树",
     "leetcodePassRate": 0.7609999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "621": {
     "qId": 621,
     "name": "任务调度器",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 2
   },
   "622": {
     "qId": 622,
     "name": "设计循环队列",
     "leetcodePassRate": 0.41,
-    "difficulty": 3
+    "difficulty": 2
   },
   "623": {
     "qId": 623,
     "name": "在二叉树中增加一行",
     "leetcodePassRate": 0.521,
-    "difficulty": 3
+    "difficulty": 2
   },
   "624": {
     "qId": 624,
     "name": "数组列表中的最大距离",
     "leetcodePassRate": 0.40700000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "625": {
     "qId": 625,
     "name": "最小因式分解",
     "leetcodePassRate": 0.325,
-    "difficulty": 3
+    "difficulty": 2
   },
   "628": {
     "qId": 628,
     "name": "三个数的最大乘积",
     "leetcodePassRate": 0.499,
-    "difficulty": 3
+    "difficulty": 1
   },
   "629": {
     "qId": 629,
@@ -3489,37 +3489,37 @@
     "qId": 633,
     "name": "平方数之和",
     "leetcodePassRate": 0.33299999999999996,
-    "difficulty": 3
+    "difficulty": 1
   },
   "634": {
     "qId": 634,
     "name": "寻找数组的错位排列",
     "leetcodePassRate": 0.413,
-    "difficulty": 3
+    "difficulty": 2
   },
   "635": {
     "qId": 635,
     "name": "设计日志存储系统",
     "leetcodePassRate": 0.534,
-    "difficulty": 3
+    "difficulty": 2
   },
   "636": {
     "qId": 636,
     "name": "函数的独占时间",
     "leetcodePassRate": 0.501,
-    "difficulty": 3
+    "difficulty": 2
   },
   "637": {
     "qId": 637,
     "name": "二叉树的层平均值",
     "leetcodePassRate": 0.644,
-    "difficulty": 3
+    "difficulty": 1
   },
   "638": {
     "qId": 638,
     "name": "大礼包",
     "leetcodePassRate": 0.5660000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "639": {
     "qId": 639,
@@ -3531,13 +3531,13 @@
     "qId": 640,
     "name": "求解方程",
     "leetcodePassRate": 0.401,
-    "difficulty": 3
+    "difficulty": 2
   },
   "641": {
     "qId": 641,
     "name": "设计循环双端队列",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 2
   },
   "642": {
     "qId": 642,
@@ -3549,7 +3549,7 @@
     "qId": 643,
     "name": "子数组最大平均数I",
     "leetcodePassRate": 0.385,
-    "difficulty": 3
+    "difficulty": 1
   },
   "644": {
     "qId": 644,
@@ -3561,67 +3561,67 @@
     "qId": 645,
     "name": "错误的集合",
     "leetcodePassRate": 0.42100000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "646": {
     "qId": 646,
     "name": "最长数对链",
     "leetcodePassRate": 0.542,
-    "difficulty": 3
+    "difficulty": 2
   },
   "647": {
     "qId": 647,
     "name": "回文子串",
     "leetcodePassRate": 0.614,
-    "difficulty": 3
+    "difficulty": 2
   },
   "648": {
     "qId": 648,
     "name": "单词替换",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 2
   },
   "649": {
     "qId": 649,
     "name": "Dota2参议院",
     "leetcodePassRate": 0.38,
-    "difficulty": 3
+    "difficulty": 2
   },
   "650": {
     "qId": 650,
     "name": "只有两个键的键盘",
     "leetcodePassRate": 0.494,
-    "difficulty": 3
+    "difficulty": 2
   },
   "651": {
     "qId": 651,
     "name": "4键键盘",
     "leetcodePassRate": 0.575,
-    "difficulty": 3
+    "difficulty": 2
   },
   "652": {
     "qId": 652,
     "name": "寻找重复的子树",
     "leetcodePassRate": 0.536,
-    "difficulty": 3
+    "difficulty": 2
   },
   "653": {
     "qId": 653,
     "name": "两数之和IV-输入BST",
     "leetcodePassRate": 0.5489999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "654": {
     "qId": 654,
     "name": "最大二叉树",
     "leetcodePassRate": 0.805,
-    "difficulty": 3
+    "difficulty": 2
   },
   "655": {
     "qId": 655,
     "name": "输出二叉树",
     "leetcodePassRate": 0.564,
-    "difficulty": 3
+    "difficulty": 2
   },
   "656": {
     "qId": 656,
@@ -3633,19 +3633,19 @@
     "qId": 657,
     "name": "机器人能否返回原点",
     "leetcodePassRate": 0.742,
-    "difficulty": 3
+    "difficulty": 1
   },
   "658": {
     "qId": 658,
     "name": "找到K个最接近的元素",
     "leetcodePassRate": 0.43700000000000006,
-    "difficulty": 3
+    "difficulty": 2
   },
   "659": {
     "qId": 659,
     "name": "分割数组为连续子序列",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "660": {
     "qId": 660,
@@ -3657,19 +3657,19 @@
     "qId": 661,
     "name": "图片平滑器",
     "leetcodePassRate": 0.534,
-    "difficulty": 3
+    "difficulty": 1
   },
   "662": {
     "qId": 662,
     "name": "二叉树最大宽度",
     "leetcodePassRate": 0.374,
-    "difficulty": 3
+    "difficulty": 2
   },
   "663": {
     "qId": 663,
     "name": "均匀树划分",
     "leetcodePassRate": 0.451,
-    "difficulty": 3
+    "difficulty": 2
   },
   "664": {
     "qId": 664,
@@ -3681,19 +3681,19 @@
     "qId": 665,
     "name": "非递减数列",
     "leetcodePassRate": 0.222,
-    "difficulty": 3
+    "difficulty": 1
   },
   "666": {
     "qId": 666,
     "name": "路径和IV",
     "leetcodePassRate": 0.598,
-    "difficulty": 3
+    "difficulty": 2
   },
   "667": {
     "qId": 667,
     "name": "优美的排列II",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 2
   },
   "668": {
     "qId": 668,
@@ -3705,37 +3705,37 @@
     "qId": 669,
     "name": "修剪二叉搜索树",
     "leetcodePassRate": 0.654,
-    "difficulty": 3
+    "difficulty": 1
   },
   "670": {
     "qId": 670,
     "name": "最大交换",
     "leetcodePassRate": 0.40399999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "671": {
     "qId": 671,
     "name": "二叉树中第二小的节点",
     "leetcodePassRate": 0.46399999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "672": {
     "qId": 672,
     "name": "灯泡开关Ⅱ",
     "leetcodePassRate": 0.528,
-    "difficulty": 3
+    "difficulty": 2
   },
   "673": {
     "qId": 673,
     "name": "最长递增子序列的个数",
     "leetcodePassRate": 0.35200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "674": {
     "qId": 674,
     "name": "最长连续递增序列",
     "leetcodePassRate": 0.452,
-    "difficulty": 3
+    "difficulty": 1
   },
   "675": {
     "qId": 675,
@@ -3747,19 +3747,19 @@
     "qId": 676,
     "name": "实现一个魔法字典",
     "leetcodePassRate": 0.564,
-    "difficulty": 3
+    "difficulty": 2
   },
   "677": {
     "qId": 677,
     "name": "键值映射",
     "leetcodePassRate": 0.61,
-    "difficulty": 3
+    "difficulty": 2
   },
   "678": {
     "qId": 678,
     "name": "有效的括号字符串",
     "leetcodePassRate": 0.321,
-    "difficulty": 3
+    "difficulty": 2
   },
   "679": {
     "qId": 679,
@@ -3771,19 +3771,19 @@
     "qId": 680,
     "name": "验证回文字符串Ⅱ",
     "leetcodePassRate": 0.36700000000000005,
-    "difficulty": 3
+    "difficulty": 1
   },
   "681": {
     "qId": 681,
     "name": "最近时刻",
     "leetcodePassRate": 0.483,
-    "difficulty": 3
+    "difficulty": 2
   },
   "682": {
     "qId": 682,
     "name": "棒球比赛",
     "leetcodePassRate": 0.6679999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "683": {
     "qId": 683,
@@ -3795,7 +3795,7 @@
     "qId": 684,
     "name": "冗余连接",
     "leetcodePassRate": 0.583,
-    "difficulty": 3
+    "difficulty": 2
   },
   "685": {
     "qId": 685,
@@ -3807,19 +3807,19 @@
     "qId": 686,
     "name": "重复叠加字符串匹配",
     "leetcodePassRate": 0.33899999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "687": {
     "qId": 687,
     "name": "最长同值路径",
     "leetcodePassRate": 0.402,
-    "difficulty": 3
+    "difficulty": 1
   },
   "688": {
     "qId": 688,
     "name": "“马”在棋盘上的概率",
     "leetcodePassRate": 0.46799999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "689": {
     "qId": 689,
@@ -3831,7 +3831,7 @@
     "qId": 690,
     "name": "员工的重要性",
     "leetcodePassRate": 0.579,
-    "difficulty": 3
+    "difficulty": 1
   },
   "691": {
     "qId": 691,
@@ -3843,43 +3843,43 @@
     "qId": 692,
     "name": "前K个高频单词",
     "leetcodePassRate": 0.512,
-    "difficulty": 3
+    "difficulty": 2
   },
   "693": {
     "qId": 693,
     "name": "交替位二进制数",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 1
   },
   "694": {
     "qId": 694,
     "name": "不同岛屿的数量",
     "leetcodePassRate": 0.473,
-    "difficulty": 3
+    "difficulty": 2
   },
   "695": {
     "qId": 695,
     "name": "岛屿的最大面积",
     "leetcodePassRate": 0.635,
-    "difficulty": 3
+    "difficulty": 2
   },
   "696": {
     "qId": 696,
     "name": "计数二进制子串",
     "leetcodePassRate": 0.519,
-    "difficulty": 3
+    "difficulty": 1
   },
   "697": {
     "qId": 697,
     "name": "数组的度",
     "leetcodePassRate": 0.53,
-    "difficulty": 3
+    "difficulty": 1
   },
   "698": {
     "qId": 698,
     "name": "划分为k个相等的子集",
     "leetcodePassRate": 0.414,
-    "difficulty": 3
+    "difficulty": 2
   },
   "699": {
     "qId": 699,
@@ -3891,61 +3891,61 @@
     "qId": 700,
     "name": "二叉搜索树中的搜索",
     "leetcodePassRate": 0.735,
-    "difficulty": 3
+    "difficulty": 1
   },
   "701": {
     "qId": 701,
     "name": "二叉搜索树中的插入操作",
     "leetcodePassRate": 0.7390000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "702": {
     "qId": 702,
     "name": "搜索长度未知的有序数组",
     "leetcodePassRate": 0.6779999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "703": {
     "qId": 703,
     "name": "数据流中的第K大元素",
     "leetcodePassRate": 0.435,
-    "difficulty": 3
+    "difficulty": 1
   },
   "704": {
     "qId": 704,
     "name": "二分查找",
     "leetcodePassRate": 0.537,
-    "difficulty": 3
+    "difficulty": 1
   },
   "705": {
     "qId": 705,
     "name": "设计哈希集合",
     "leetcodePassRate": 0.565,
-    "difficulty": 3
+    "difficulty": 1
   },
   "706": {
     "qId": 706,
     "name": "设计哈希映射",
     "leetcodePassRate": 0.5720000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "707": {
     "qId": 707,
     "name": "设计链表",
     "leetcodePassRate": 0.268,
-    "difficulty": 3
+    "difficulty": 2
   },
   "708": {
     "qId": 708,
     "name": "循环有序列表的插入",
     "leetcodePassRate": 0.311,
-    "difficulty": 3
+    "difficulty": 2
   },
   "709": {
     "qId": 709,
     "name": "转换成小写字母",
     "leetcodePassRate": 0.7559999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "710": {
     "qId": 710,
@@ -3963,19 +3963,19 @@
     "qId": 712,
     "name": "两个字符串的最小ASCII删除和",
     "leetcodePassRate": 0.628,
-    "difficulty": 3
+    "difficulty": 2
   },
   "713": {
     "qId": 713,
     "name": "乘积小于K的子数组",
     "leetcodePassRate": 0.355,
-    "difficulty": 3
+    "difficulty": 2
   },
   "714": {
     "qId": 714,
     "name": "买卖股票的最佳时机含手续费",
     "leetcodePassRate": 0.65,
-    "difficulty": 3
+    "difficulty": 2
   },
   "715": {
     "qId": 715,
@@ -3987,19 +3987,19 @@
     "qId": 716,
     "name": "最大栈",
     "leetcodePassRate": 0.449,
-    "difficulty": 3
+    "difficulty": 1
   },
   "717": {
     "qId": 717,
     "name": "1比特与2比特字符",
     "leetcodePassRate": 0.479,
-    "difficulty": 3
+    "difficulty": 1
   },
   "718": {
     "qId": 718,
     "name": "最长重复子数组",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 2
   },
   "719": {
     "qId": 719,
@@ -4011,37 +4011,37 @@
     "qId": 720,
     "name": "词典中最长的单词",
     "leetcodePassRate": 0.461,
-    "difficulty": 3
+    "difficulty": 1
   },
   "721": {
     "qId": 721,
     "name": "账户合并",
     "leetcodePassRate": 0.337,
-    "difficulty": 3
+    "difficulty": 2
   },
   "722": {
     "qId": 722,
     "name": "删除注释",
     "leetcodePassRate": 0.278,
-    "difficulty": 3
+    "difficulty": 2
   },
   "723": {
     "qId": 723,
     "name": "粉碎糖果",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 2
   },
   "724": {
     "qId": 724,
     "name": "寻找数组的中心索引",
     "leetcodePassRate": 0.371,
-    "difficulty": 3
+    "difficulty": 1
   },
   "725": {
     "qId": 725,
     "name": "分隔链表",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 2
   },
   "726": {
     "qId": 726,
@@ -4059,13 +4059,13 @@
     "qId": 728,
     "name": "自除数",
     "leetcodePassRate": 0.7340000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "729": {
     "qId": 729,
     "name": "我的日程安排表I",
     "leetcodePassRate": 0.48200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "730": {
     "qId": 730,
@@ -4077,7 +4077,7 @@
     "qId": 731,
     "name": "我的日程安排表II",
     "leetcodePassRate": 0.465,
-    "difficulty": 3
+    "difficulty": 2
   },
   "732": {
     "qId": 732,
@@ -4089,19 +4089,19 @@
     "qId": 733,
     "name": "图像渲染",
     "leetcodePassRate": 0.5379999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "734": {
     "qId": 734,
     "name": "句子相似性",
     "leetcodePassRate": 0.47600000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "735": {
     "qId": 735,
     "name": "行星碰撞",
     "leetcodePassRate": 0.389,
-    "difficulty": 3
+    "difficulty": 2
   },
   "736": {
     "qId": 736,
@@ -4113,25 +4113,25 @@
     "qId": 737,
     "name": "句子相似性II",
     "leetcodePassRate": 0.436,
-    "difficulty": 3
+    "difficulty": 2
   },
   "738": {
     "qId": 738,
     "name": "单调递增的数字",
     "leetcodePassRate": 0.426,
-    "difficulty": 3
+    "difficulty": 2
   },
   "739": {
     "qId": 739,
     "name": "每日温度",
     "leetcodePassRate": 0.61,
-    "difficulty": 3
+    "difficulty": 2
   },
   "740": {
     "qId": 740,
     "name": "删除与获得点数",
     "leetcodePassRate": 0.514,
-    "difficulty": 3
+    "difficulty": 2
   },
   "741": {
     "qId": 741,
@@ -4143,19 +4143,19 @@
     "qId": 742,
     "name": "二叉树最近的叶节点",
     "leetcodePassRate": 0.47100000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "743": {
     "qId": 743,
     "name": "网络延迟时间",
     "leetcodePassRate": 0.45,
-    "difficulty": 3
+    "difficulty": 2
   },
   "744": {
     "qId": 744,
     "name": "寻找比目标字母大的最小字母",
     "leetcodePassRate": 0.449,
-    "difficulty": 3
+    "difficulty": 1
   },
   "745": {
     "qId": 745,
@@ -4167,19 +4167,19 @@
     "qId": 746,
     "name": "使用最小花费爬楼梯",
     "leetcodePassRate": 0.485,
-    "difficulty": 3
+    "difficulty": 1
   },
   "747": {
     "qId": 747,
     "name": "至少是其他数字两倍的最大数",
     "leetcodePassRate": 0.392,
-    "difficulty": 3
+    "difficulty": 1
   },
   "748": {
     "qId": 748,
     "name": "最短完整词",
     "leetcodePassRate": 0.581,
-    "difficulty": 3
+    "difficulty": 1
   },
   "749": {
     "qId": 749,
@@ -4191,19 +4191,19 @@
     "qId": 750,
     "name": "角矩形的数量",
     "leetcodePassRate": 0.72,
-    "difficulty": 3
+    "difficulty": 2
   },
   "751": {
     "qId": 751,
     "name": "IP到CIDR",
     "leetcodePassRate": 0.6509999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "752": {
     "qId": 752,
     "name": "打开转盘锁",
     "leetcodePassRate": 0.494,
-    "difficulty": 3
+    "difficulty": 2
   },
   "753": {
     "qId": 753,
@@ -4215,19 +4215,19 @@
     "qId": 754,
     "name": "到达终点数字",
     "leetcodePassRate": 0.401,
-    "difficulty": 3
+    "difficulty": 2
   },
   "755": {
     "qId": 755,
     "name": "倒水",
     "leetcodePassRate": 0.47,
-    "difficulty": 3
+    "difficulty": 2
   },
   "756": {
     "qId": 756,
     "name": "金字塔转换矩阵",
     "leetcodePassRate": 0.5479999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "757": {
     "qId": 757,
@@ -4239,7 +4239,7 @@
     "qId": 758,
     "name": "字符串中的加粗单词",
     "leetcodePassRate": 0.442,
-    "difficulty": 3
+    "difficulty": 1
   },
   "759": {
     "qId": 759,
@@ -4251,7 +4251,7 @@
     "qId": 760,
     "name": "找出变位映射",
     "leetcodePassRate": 0.8320000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "761": {
     "qId": 761,
@@ -4263,19 +4263,19 @@
     "qId": 762,
     "name": "二进制表示中质数个计算置位",
     "leetcodePassRate": 0.6729999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "763": {
     "qId": 763,
     "name": "划分字母区间",
     "leetcodePassRate": 0.716,
-    "difficulty": 3
+    "difficulty": 2
   },
   "764": {
     "qId": 764,
     "name": "最大加号标志",
     "leetcodePassRate": 0.484,
-    "difficulty": 3
+    "difficulty": 2
   },
   "765": {
     "qId": 765,
@@ -4287,13 +4287,13 @@
     "qId": 766,
     "name": "托普利茨矩阵",
     "leetcodePassRate": 0.652,
-    "difficulty": 3
+    "difficulty": 1
   },
   "767": {
     "qId": 767,
     "name": "重构字符串",
     "leetcodePassRate": 0.408,
-    "difficulty": 3
+    "difficulty": 2
   },
   "768": {
     "qId": 768,
@@ -4305,7 +4305,7 @@
     "qId": 769,
     "name": "最多能完成排序的块",
     "leetcodePassRate": 0.5529999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "770": {
     "qId": 770,
@@ -4317,7 +4317,7 @@
     "qId": 771,
     "name": "宝石与石头",
     "leetcodePassRate": 0.8240000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "772": {
     "qId": 772,
@@ -4341,19 +4341,19 @@
     "qId": 775,
     "name": "全局倒置与局部倒置",
     "leetcodePassRate": 0.435,
-    "difficulty": 3
+    "difficulty": 2
   },
   "776": {
     "qId": 776,
     "name": "拆分二叉搜索树",
     "leetcodePassRate": 0.562,
-    "difficulty": 3
+    "difficulty": 2
   },
   "777": {
     "qId": 777,
     "name": "在LR字符串中交换相邻字符",
     "leetcodePassRate": 0.32,
-    "difficulty": 3
+    "difficulty": 2
   },
   "778": {
     "qId": 778,
@@ -4365,7 +4365,7 @@
     "qId": 779,
     "name": "第K个语法符号",
     "leetcodePassRate": 0.42700000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "780": {
     "qId": 780,
@@ -4377,7 +4377,7 @@
     "qId": 781,
     "name": "森林中的兔子",
     "leetcodePassRate": 0.552,
-    "difficulty": 3
+    "difficulty": 2
   },
   "782": {
     "qId": 782,
@@ -4389,19 +4389,19 @@
     "qId": 783,
     "name": "二叉搜索树节点最小距离",
     "leetcodePassRate": 0.528,
-    "difficulty": 3
+    "difficulty": 1
   },
   "784": {
     "qId": 784,
     "name": "字母大小写全排列",
     "leetcodePassRate": 0.6409999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "785": {
     "qId": 785,
     "name": "判断二分图",
     "leetcodePassRate": 0.446,
-    "difficulty": 3
+    "difficulty": 2
   },
   "786": {
     "qId": 786,
@@ -4413,37 +4413,37 @@
     "qId": 787,
     "name": "K站中转内最便宜的航班",
     "leetcodePassRate": 0.349,
-    "difficulty": 3
+    "difficulty": 2
   },
   "788": {
     "qId": 788,
     "name": "旋转数字",
     "leetcodePassRate": 0.597,
-    "difficulty": 3
+    "difficulty": 1
   },
   "789": {
     "qId": 789,
     "name": "逃脱阻碍者",
     "leetcodePassRate": 0.594,
-    "difficulty": 3
+    "difficulty": 2
   },
   "790": {
     "qId": 790,
     "name": "多米诺和托米诺平铺",
     "leetcodePassRate": 0.41200000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "791": {
     "qId": 791,
     "name": "自定义字符串排序",
     "leetcodePassRate": 0.672,
-    "difficulty": 3
+    "difficulty": 2
   },
   "792": {
     "qId": 792,
     "name": "匹配子序列的单词数",
     "leetcodePassRate": 0.42,
-    "difficulty": 3
+    "difficulty": 2
   },
   "793": {
     "qId": 793,
@@ -4455,25 +4455,25 @@
     "qId": 794,
     "name": "有效的井字游戏",
     "leetcodePassRate": 0.324,
-    "difficulty": 3
+    "difficulty": 2
   },
   "795": {
     "qId": 795,
     "name": "区间子数组个数",
     "leetcodePassRate": 0.504,
-    "difficulty": 3
+    "difficulty": 2
   },
   "796": {
     "qId": 796,
     "name": "旋转字符串",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 1
   },
   "797": {
     "qId": 797,
     "name": "所有可能的路径",
     "leetcodePassRate": 0.765,
-    "difficulty": 3
+    "difficulty": 2
   },
   "798": {
     "qId": 798,
@@ -4485,25 +4485,25 @@
     "qId": 799,
     "name": "香槟塔",
     "leetcodePassRate": 0.35600000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "800": {
     "qId": 800,
     "name": "相似RGB颜色",
     "leetcodePassRate": 0.6659999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "801": {
     "qId": 801,
     "name": "使序列递增的最小交换次数",
     "leetcodePassRate": 0.38799999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "802": {
     "qId": 802,
     "name": "找到最终的安全状态",
     "leetcodePassRate": 0.466,
-    "difficulty": 3
+    "difficulty": 2
   },
   "803": {
     "qId": 803,
@@ -4515,7 +4515,7 @@
     "qId": 804,
     "name": "唯一摩尔斯密码词",
     "leetcodePassRate": 0.748,
-    "difficulty": 3
+    "difficulty": 1
   },
   "805": {
     "qId": 805,
@@ -4527,25 +4527,25 @@
     "qId": 806,
     "name": "写字符串需要的行数",
     "leetcodePassRate": 0.65,
-    "difficulty": 3
+    "difficulty": 1
   },
   "807": {
     "qId": 807,
     "name": "保持城市天际线",
     "leetcodePassRate": 0.813,
-    "difficulty": 3
+    "difficulty": 2
   },
   "808": {
     "qId": 808,
     "name": "分汤",
     "leetcodePassRate": 0.44799999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "809": {
     "qId": 809,
     "name": "情感丰富的文字",
     "leetcodePassRate": 0.414,
-    "difficulty": 3
+    "difficulty": 2
   },
   "810": {
     "qId": 810,
@@ -4557,25 +4557,25 @@
     "qId": 811,
     "name": "子域名访问计数",
     "leetcodePassRate": 0.677,
-    "difficulty": 3
+    "difficulty": 1
   },
   "812": {
     "qId": 812,
     "name": "最大三角形面积",
     "leetcodePassRate": 0.6,
-    "difficulty": 3
+    "difficulty": 1
   },
   "813": {
     "qId": 813,
     "name": "最大平均值和的分组",
     "leetcodePassRate": 0.495,
-    "difficulty": 3
+    "difficulty": 2
   },
   "814": {
     "qId": 814,
     "name": "二叉树剪枝",
     "leetcodePassRate": 0.7340000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "815": {
     "qId": 815,
@@ -4587,13 +4587,13 @@
     "qId": 816,
     "name": "模糊坐标",
     "leetcodePassRate": 0.486,
-    "difficulty": 3
+    "difficulty": 2
   },
   "817": {
     "qId": 817,
     "name": "链表组件",
     "leetcodePassRate": 0.57,
-    "difficulty": 3
+    "difficulty": 2
   },
   "818": {
     "qId": 818,
@@ -4605,49 +4605,49 @@
     "qId": 819,
     "name": "最常见的单词",
     "leetcodePassRate": 0.396,
-    "difficulty": 3
+    "difficulty": 1
   },
   "820": {
     "qId": 820,
     "name": "单词的压缩编码",
     "leetcodePassRate": 0.48700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "821": {
     "qId": 821,
     "name": "字符的最短距离",
     "leetcodePassRate": 0.6679999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "822": {
     "qId": 822,
     "name": "翻转卡片游戏",
     "leetcodePassRate": 0.47,
-    "difficulty": 3
+    "difficulty": 2
   },
   "823": {
     "qId": 823,
     "name": "带因子的二叉树",
     "leetcodePassRate": 0.396,
-    "difficulty": 3
+    "difficulty": 2
   },
   "824": {
     "qId": 824,
     "name": "山羊拉丁文",
     "leetcodePassRate": 0.593,
-    "difficulty": 3
+    "difficulty": 1
   },
   "825": {
     "qId": 825,
     "name": "适龄的朋友",
     "leetcodePassRate": 0.344,
-    "difficulty": 3
+    "difficulty": 2
   },
   "826": {
     "qId": 826,
     "name": "安排工作以达到最大收益",
     "leetcodePassRate": 0.355,
-    "difficulty": 3
+    "difficulty": 2
   },
   "827": {
     "qId": 827,
@@ -4671,25 +4671,25 @@
     "qId": 830,
     "name": "较大分组的位置",
     "leetcodePassRate": 0.469,
-    "difficulty": 3
+    "difficulty": 1
   },
   "831": {
     "qId": 831,
     "name": "隐藏个人信息",
     "leetcodePassRate": 0.381,
-    "difficulty": 3
+    "difficulty": 2
   },
   "832": {
     "qId": 832,
     "name": "翻转图像",
     "leetcodePassRate": 0.746,
-    "difficulty": 3
+    "difficulty": 1
   },
   "833": {
     "qId": 833,
     "name": "字符串中的查找与替换",
     "leetcodePassRate": 0.39399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "834": {
     "qId": 834,
@@ -4701,25 +4701,25 @@
     "qId": 835,
     "name": "图像重叠",
     "leetcodePassRate": 0.581,
-    "difficulty": 3
+    "difficulty": 2
   },
   "836": {
     "qId": 836,
     "name": "矩形重叠",
     "leetcodePassRate": 0.499,
-    "difficulty": 3
+    "difficulty": 1
   },
   "837": {
     "qId": 837,
     "name": "新21点",
     "leetcodePassRate": 0.271,
-    "difficulty": 3
+    "difficulty": 2
   },
   "838": {
     "qId": 838,
     "name": "推多米诺",
     "leetcodePassRate": 0.447,
-    "difficulty": 3
+    "difficulty": 2
   },
   "839": {
     "qId": 839,
@@ -4731,19 +4731,19 @@
     "qId": 840,
     "name": "矩阵中的幻方",
     "leetcodePassRate": 0.341,
-    "difficulty": 3
+    "difficulty": 1
   },
   "841": {
     "qId": 841,
     "name": "钥匙和房间",
     "leetcodePassRate": 0.614,
-    "difficulty": 3
+    "difficulty": 2
   },
   "842": {
     "qId": 842,
     "name": "将数组拆分成斐波那契序列",
     "leetcodePassRate": 0.366,
-    "difficulty": 3
+    "difficulty": 2
   },
   "843": {
     "qId": 843,
@@ -4755,19 +4755,19 @@
     "qId": 844,
     "name": "比较含退格的字符串",
     "leetcodePassRate": 0.505,
-    "difficulty": 3
+    "difficulty": 1
   },
   "845": {
     "qId": 845,
     "name": "数组中的最长山脉",
     "leetcodePassRate": 0.35,
-    "difficulty": 3
+    "difficulty": 2
   },
   "846": {
     "qId": 846,
     "name": "一手顺子",
     "leetcodePassRate": 0.48,
-    "difficulty": 3
+    "difficulty": 2
   },
   "847": {
     "qId": 847,
@@ -4779,13 +4779,13 @@
     "qId": 848,
     "name": "字母移位",
     "leetcodePassRate": 0.4,
-    "difficulty": 3
+    "difficulty": 2
   },
   "849": {
     "qId": 849,
     "name": "到最近的人的最大距离",
     "leetcodePassRate": 0.39799999999999996,
-    "difficulty": 3
+    "difficulty": 1
   },
   "850": {
     "qId": 850,
@@ -4797,19 +4797,19 @@
     "qId": 851,
     "name": "喧闹和富有",
     "leetcodePassRate": 0.434,
-    "difficulty": 3
+    "difficulty": 2
   },
   "852": {
     "qId": 852,
     "name": "山脉数组的峰顶索引",
     "leetcodePassRate": 0.705,
-    "difficulty": 3
+    "difficulty": 1
   },
   "853": {
     "qId": 853,
     "name": "车队",
     "leetcodePassRate": 0.35700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "854": {
     "qId": 854,
@@ -4821,13 +4821,13 @@
     "qId": 855,
     "name": "考场就座",
     "leetcodePassRate": 0.337,
-    "difficulty": 3
+    "difficulty": 2
   },
   "856": {
     "qId": 856,
     "name": "括号的分数",
     "leetcodePassRate": 0.59,
-    "difficulty": 3
+    "difficulty": 2
   },
   "857": {
     "qId": 857,
@@ -4839,25 +4839,25 @@
     "qId": 858,
     "name": "镜面反射",
     "leetcodePassRate": 0.531,
-    "difficulty": 3
+    "difficulty": 2
   },
   "859": {
     "qId": 859,
     "name": "亲密字符串",
     "leetcodePassRate": 0.292,
-    "difficulty": 3
+    "difficulty": 1
   },
   "860": {
     "qId": 860,
     "name": "柠檬水找零",
     "leetcodePassRate": 0.55,
-    "difficulty": 3
+    "difficulty": 1
   },
   "861": {
     "qId": 861,
     "name": "翻转矩阵后的得分",
     "leetcodePassRate": 0.742,
-    "difficulty": 3
+    "difficulty": 2
   },
   "862": {
     "qId": 862,
@@ -4869,7 +4869,7 @@
     "qId": 863,
     "name": "二叉树中所有距离为K的结点",
     "leetcodePassRate": 0.493,
-    "difficulty": 3
+    "difficulty": 2
   },
   "864": {
     "qId": 864,
@@ -4881,37 +4881,37 @@
     "qId": 865,
     "name": "具有所有最深结点的最小子树",
     "leetcodePassRate": 0.552,
-    "difficulty": 3
+    "difficulty": 2
   },
   "866": {
     "qId": 866,
     "name": "回文素数",
     "leetcodePassRate": 0.198,
-    "difficulty": 3
+    "difficulty": 2
   },
   "867": {
     "qId": 867,
     "name": "转置矩阵",
     "leetcodePassRate": 0.677,
-    "difficulty": 3
+    "difficulty": 1
   },
   "868": {
     "qId": 868,
     "name": "二进制间距",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 1
   },
   "869": {
     "qId": 869,
     "name": "重新排序得到2的幂",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 2
   },
   "870": {
     "qId": 870,
     "name": "优势洗牌",
     "leetcodePassRate": 0.377,
-    "difficulty": 3
+    "difficulty": 2
   },
   "871": {
     "qId": 871,
@@ -4923,37 +4923,37 @@
     "qId": 872,
     "name": "叶子相似的树",
     "leetcodePassRate": 0.627,
-    "difficulty": 3
+    "difficulty": 1
   },
   "873": {
     "qId": 873,
     "name": "最长的斐波那契子序列的长度",
     "leetcodePassRate": 0.46299999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "874": {
     "qId": 874,
     "name": "模拟行走机器人",
     "leetcodePassRate": 0.34700000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "875": {
     "qId": 875,
     "name": "爱吃香蕉的珂珂",
     "leetcodePassRate": 0.42,
-    "difficulty": 3
+    "difficulty": 2
   },
   "876": {
     "qId": 876,
     "name": "链表的中间结点",
     "leetcodePassRate": 0.6890000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "877": {
     "qId": 877,
     "name": "石子游戏",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 2
   },
   "878": {
     "qId": 878,
@@ -4971,13 +4971,13 @@
     "qId": 880,
     "name": "索引处的解码字符串",
     "leetcodePassRate": 0.233,
-    "difficulty": 3
+    "difficulty": 2
   },
   "881": {
     "qId": 881,
     "name": "救生艇",
     "leetcodePassRate": 0.42200000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "882": {
     "qId": 882,
@@ -4989,25 +4989,25 @@
     "qId": 883,
     "name": "三维形体投影面积",
     "leetcodePassRate": 0.652,
-    "difficulty": 3
+    "difficulty": 1
   },
   "884": {
     "qId": 884,
     "name": "两句话中的不常见单词",
     "leetcodePassRate": 0.618,
-    "difficulty": 3
+    "difficulty": 1
   },
   "885": {
     "qId": 885,
     "name": "螺旋矩阵III",
     "leetcodePassRate": 0.6559999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "886": {
     "qId": 886,
     "name": "可能的二分法",
     "leetcodePassRate": 0.35700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "887": {
     "qId": 887,
@@ -5019,19 +5019,19 @@
     "qId": 888,
     "name": "公平的糖果交换",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 1
   },
   "889": {
     "qId": 889,
     "name": "根据前序和后序遍历构造二叉树",
     "leetcodePassRate": 0.643,
-    "difficulty": 3
+    "difficulty": 2
   },
   "890": {
     "qId": 890,
     "name": "查找和替换模式",
     "leetcodePassRate": 0.701,
-    "difficulty": 3
+    "difficulty": 2
   },
   "891": {
     "qId": 891,
@@ -5043,19 +5043,19 @@
     "qId": 892,
     "name": "三维形体的表面积",
     "leetcodePassRate": 0.642,
-    "difficulty": 3
+    "difficulty": 1
   },
   "893": {
     "qId": 893,
     "name": "特殊等价字符串组",
     "leetcodePassRate": 0.682,
-    "difficulty": 3
+    "difficulty": 1
   },
   "894": {
     "qId": 894,
     "name": "所有可能的满二叉树",
     "leetcodePassRate": 0.742,
-    "difficulty": 3
+    "difficulty": 2
   },
   "895": {
     "qId": 895,
@@ -5067,19 +5067,19 @@
     "qId": 896,
     "name": "单调数列",
     "leetcodePassRate": 0.521,
-    "difficulty": 3
+    "difficulty": 1
   },
   "897": {
     "qId": 897,
     "name": "递增顺序查找树",
     "leetcodePassRate": 0.6829999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "898": {
     "qId": 898,
     "name": "子数组按位或操作",
     "leetcodePassRate": 0.281,
-    "difficulty": 3
+    "difficulty": 2
   },
   "899": {
     "qId": 899,
@@ -5091,13 +5091,13 @@
     "qId": 900,
     "name": "RLE迭代器",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 2
   },
   "901": {
     "qId": 901,
     "name": "股票价格跨度",
     "leetcodePassRate": 0.42,
-    "difficulty": 3
+    "difficulty": 2
   },
   "902": {
     "qId": 902,
@@ -5115,13 +5115,13 @@
     "qId": 904,
     "name": "水果成篮",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "905": {
     "qId": 905,
     "name": "按奇偶排序数组",
     "leetcodePassRate": 0.687,
-    "difficulty": 3
+    "difficulty": 1
   },
   "906": {
     "qId": 906,
@@ -5133,37 +5133,37 @@
     "qId": 907,
     "name": "子数组的最小值之和",
     "leetcodePassRate": 0.29100000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "908": {
     "qId": 908,
     "name": "最小差值I",
     "leetcodePassRate": 0.682,
-    "difficulty": 3
+    "difficulty": 1
   },
   "909": {
     "qId": 909,
     "name": "蛇梯棋",
     "leetcodePassRate": 0.312,
-    "difficulty": 3
+    "difficulty": 2
   },
   "910": {
     "qId": 910,
     "name": "最小差值II",
     "leetcodePassRate": 0.28,
-    "difficulty": 3
+    "difficulty": 2
   },
   "911": {
     "qId": 911,
     "name": "在线选举",
     "leetcodePassRate": 0.389,
-    "difficulty": 3
+    "difficulty": 2
   },
   "912": {
     "qId": 912,
     "name": "排序数组",
     "leetcodePassRate": 0.594,
-    "difficulty": 3
+    "difficulty": 2
   },
   "913": {
     "qId": 913,
@@ -5175,37 +5175,37 @@
     "qId": 914,
     "name": "卡牌分组",
     "leetcodePassRate": 0.39299999999999996,
-    "difficulty": 3
+    "difficulty": 1
   },
   "915": {
     "qId": 915,
     "name": "分割数组",
     "leetcodePassRate": 0.434,
-    "difficulty": 3
+    "difficulty": 2
   },
   "916": {
     "qId": 916,
     "name": "单词子集",
     "leetcodePassRate": 0.408,
-    "difficulty": 3
+    "difficulty": 2
   },
   "917": {
     "qId": 917,
     "name": "仅仅反转字母",
     "leetcodePassRate": 0.546,
-    "difficulty": 3
+    "difficulty": 1
   },
   "918": {
     "qId": 918,
     "name": "环形子数组的最大和",
     "leetcodePassRate": 0.32299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "919": {
     "qId": 919,
     "name": "完全二叉树插入器",
     "leetcodePassRate": 0.596,
-    "difficulty": 3
+    "difficulty": 2
   },
   "920": {
     "qId": 920,
@@ -5217,19 +5217,19 @@
     "qId": 921,
     "name": "使括号有效的最少添加",
     "leetcodePassRate": 0.716,
-    "difficulty": 3
+    "difficulty": 2
   },
   "922": {
     "qId": 922,
     "name": "按奇偶排序数组II",
     "leetcodePassRate": 0.674,
-    "difficulty": 3
+    "difficulty": 1
   },
   "923": {
     "qId": 923,
     "name": "三数之和的多种可能",
     "leetcodePassRate": 0.311,
-    "difficulty": 3
+    "difficulty": 2
   },
   "924": {
     "qId": 924,
@@ -5241,13 +5241,13 @@
     "qId": 925,
     "name": "长按键入",
     "leetcodePassRate": 0.43700000000000006,
-    "difficulty": 3
+    "difficulty": 1
   },
   "926": {
     "qId": 926,
     "name": "将字符串翻转到单调递增",
     "leetcodePassRate": 0.461,
-    "difficulty": 3
+    "difficulty": 2
   },
   "927": {
     "qId": 927,
@@ -5265,43 +5265,43 @@
     "qId": 929,
     "name": "独特的电子邮件地址",
     "leetcodePassRate": 0.637,
-    "difficulty": 3
+    "difficulty": 1
   },
   "930": {
     "qId": 930,
     "name": "和相同的二元子数组",
     "leetcodePassRate": 0.358,
-    "difficulty": 3
+    "difficulty": 2
   },
   "931": {
     "qId": 931,
     "name": "下降路径最小和",
     "leetcodePassRate": 0.604,
-    "difficulty": 3
+    "difficulty": 2
   },
   "932": {
     "qId": 932,
     "name": "漂亮数组",
     "leetcodePassRate": 0.586,
-    "difficulty": 3
+    "difficulty": 2
   },
   "933": {
     "qId": 933,
     "name": "最近的请求次数",
     "leetcodePassRate": 0.706,
-    "difficulty": 3
+    "difficulty": 1
   },
   "934": {
     "qId": 934,
     "name": "最短的桥",
     "leetcodePassRate": 0.43799999999999994,
-    "difficulty": 3
+    "difficulty": 2
   },
   "935": {
     "qId": 935,
     "name": "骑士拨号器",
     "leetcodePassRate": 0.43799999999999994,
-    "difficulty": 3
+    "difficulty": 2
   },
   "936": {
     "qId": 936,
@@ -5313,19 +5313,19 @@
     "qId": 937,
     "name": "重新排列日志文件",
     "leetcodePassRate": 0.5479999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "938": {
     "qId": 938,
     "name": "二叉搜索树的范围和",
     "leetcodePassRate": 0.768,
-    "difficulty": 3
+    "difficulty": 1
   },
   "939": {
     "qId": 939,
     "name": "最小面积矩形",
     "leetcodePassRate": 0.41,
-    "difficulty": 3
+    "difficulty": 2
   },
   "940": {
     "qId": 940,
@@ -5337,13 +5337,13 @@
     "qId": 941,
     "name": "有效的山脉数组",
     "leetcodePassRate": 0.354,
-    "difficulty": 3
+    "difficulty": 1
   },
   "942": {
     "qId": 942,
     "name": "增减字符串匹配",
     "leetcodePassRate": 0.715,
-    "difficulty": 3
+    "difficulty": 1
   },
   "943": {
     "qId": 943,
@@ -5355,49 +5355,49 @@
     "qId": 944,
     "name": "删列造序",
     "leetcodePassRate": 0.693,
-    "difficulty": 3
+    "difficulty": 1
   },
   "945": {
     "qId": 945,
     "name": "使数组唯一的最小增量",
     "leetcodePassRate": 0.478,
-    "difficulty": 3
+    "difficulty": 2
   },
   "946": {
     "qId": 946,
     "name": "验证栈序列",
     "leetcodePassRate": 0.5720000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "947": {
     "qId": 947,
     "name": "移除最多的同行或同列石头",
     "leetcodePassRate": 0.505,
-    "difficulty": 3
+    "difficulty": 2
   },
   "948": {
     "qId": 948,
     "name": "令牌放置",
     "leetcodePassRate": 0.37,
-    "difficulty": 3
+    "difficulty": 2
   },
   "949": {
     "qId": 949,
     "name": "给定数字能组成的最大时间",
     "leetcodePassRate": 0.35100000000000003,
-    "difficulty": 3
+    "difficulty": 1
   },
   "950": {
     "qId": 950,
     "name": "按递增顺序显示卡牌",
     "leetcodePassRate": 0.76,
-    "difficulty": 3
+    "difficulty": 2
   },
   "951": {
     "qId": 951,
     "name": "翻转等价二叉树",
     "leetcodePassRate": 0.629,
-    "difficulty": 3
+    "difficulty": 2
   },
   "952": {
     "qId": 952,
@@ -5409,19 +5409,19 @@
     "qId": 953,
     "name": "验证外星语词典",
     "leetcodePassRate": 0.573,
-    "difficulty": 3
+    "difficulty": 1
   },
   "954": {
     "qId": 954,
     "name": "二倍数对数组",
     "leetcodePassRate": 0.271,
-    "difficulty": 3
+    "difficulty": 2
   },
   "955": {
     "qId": 955,
     "name": "删列造序II",
     "leetcodePassRate": 0.28800000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "956": {
     "qId": 956,
@@ -5433,19 +5433,19 @@
     "qId": 957,
     "name": "N天后的牢房",
     "leetcodePassRate": 0.33899999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "958": {
     "qId": 958,
     "name": "二叉树的完全性检验",
     "leetcodePassRate": 0.47700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "959": {
     "qId": 959,
     "name": "由斜杠划分区域",
     "leetcodePassRate": 0.664,
-    "difficulty": 3
+    "difficulty": 2
   },
   "960": {
     "qId": 960,
@@ -5457,19 +5457,19 @@
     "qId": 961,
     "name": "重复N次的元素",
     "leetcodePassRate": 0.664,
-    "difficulty": 3
+    "difficulty": 1
   },
   "962": {
     "qId": 962,
     "name": "最大宽度坡",
     "leetcodePassRate": 0.376,
-    "difficulty": 3
+    "difficulty": 2
   },
   "963": {
     "qId": 963,
     "name": "最小面积矩形II",
     "leetcodePassRate": 0.473,
-    "difficulty": 3
+    "difficulty": 2
   },
   "964": {
     "qId": 964,
@@ -5481,19 +5481,19 @@
     "qId": 965,
     "name": "单值二叉树",
     "leetcodePassRate": 0.674,
-    "difficulty": 3
+    "difficulty": 1
   },
   "966": {
     "qId": 966,
     "name": "元音拼写检查器",
     "leetcodePassRate": 0.379,
-    "difficulty": 3
+    "difficulty": 2
   },
   "967": {
     "qId": 967,
     "name": "连续差相同的数字",
     "leetcodePassRate": 0.36,
-    "difficulty": 3
+    "difficulty": 2
   },
   "968": {
     "qId": 968,
@@ -5505,19 +5505,19 @@
     "qId": 969,
     "name": "煎饼排序",
     "leetcodePassRate": 0.64,
-    "difficulty": 3
+    "difficulty": 2
   },
   "970": {
     "qId": 970,
     "name": "强整数",
     "leetcodePassRate": 0.392,
-    "difficulty": 3
+    "difficulty": 1
   },
   "971": {
     "qId": 971,
     "name": "翻转二叉树以匹配先序遍历",
     "leetcodePassRate": 0.44299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "972": {
     "qId": 972,
@@ -5529,13 +5529,13 @@
     "qId": 973,
     "name": "最接近原点的K个点",
     "leetcodePassRate": 0.583,
-    "difficulty": 3
+    "difficulty": 2
   },
   "974": {
     "qId": 974,
     "name": "和可被K整除的子数组",
     "leetcodePassRate": 0.384,
-    "difficulty": 3
+    "difficulty": 2
   },
   "975": {
     "qId": 975,
@@ -5547,25 +5547,25 @@
     "qId": 976,
     "name": "三角形的最大周长",
     "leetcodePassRate": 0.5489999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "977": {
     "qId": 977,
     "name": "有序数组的平方",
     "leetcodePassRate": 0.7120000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "978": {
     "qId": 978,
     "name": "最长湍流子数组",
     "leetcodePassRate": 0.40399999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "979": {
     "qId": 979,
     "name": "在二叉树中分配硬币",
     "leetcodePassRate": 0.667,
-    "difficulty": 3
+    "difficulty": 2
   },
   "980": {
     "qId": 980,
@@ -5577,7 +5577,7 @@
     "qId": 981,
     "name": "基于时间的键值存储",
     "leetcodePassRate": 0.384,
-    "difficulty": 3
+    "difficulty": 2
   },
   "982": {
     "qId": 982,
@@ -5589,55 +5589,55 @@
     "qId": 983,
     "name": "最低票价",
     "leetcodePassRate": 0.631,
-    "difficulty": 3
+    "difficulty": 2
   },
   "984": {
     "qId": 984,
     "name": "不含AAA或BBB的字符串",
     "leetcodePassRate": 0.37,
-    "difficulty": 3
+    "difficulty": 2
   },
   "985": {
     "qId": 985,
     "name": "查询后的偶数和",
     "leetcodePassRate": 0.59,
-    "difficulty": 3
+    "difficulty": 1
   },
   "986": {
     "qId": 986,
     "name": "区间列表的交集",
     "leetcodePassRate": 0.626,
-    "difficulty": 3
+    "difficulty": 2
   },
   "987": {
     "qId": 987,
     "name": "二叉树的垂序遍历",
     "leetcodePassRate": 0.387,
-    "difficulty": 3
+    "difficulty": 2
   },
   "988": {
     "qId": 988,
     "name": "从叶结点开始的最小字符串",
     "leetcodePassRate": 0.45399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "989": {
     "qId": 989,
     "name": "数组形式的整数加法",
     "leetcodePassRate": 0.43799999999999994,
-    "difficulty": 3
+    "difficulty": 1
   },
   "990": {
     "qId": 990,
     "name": "等式方程的可满足性",
     "leetcodePassRate": 0.428,
-    "difficulty": 3
+    "difficulty": 2
   },
   "991": {
     "qId": 991,
     "name": "坏了的计算器",
     "leetcodePassRate": 0.504,
-    "difficulty": 3
+    "difficulty": 2
   },
   "992": {
     "qId": 992,
@@ -5649,13 +5649,13 @@
     "qId": 993,
     "name": "二叉树的堂兄弟节点",
     "leetcodePassRate": 0.512,
-    "difficulty": 3
+    "difficulty": 1
   },
   "994": {
     "qId": 994,
     "name": "腐烂的橘子",
     "leetcodePassRate": 0.507,
-    "difficulty": 3
+    "difficulty": 2
   },
   "995": {
     "qId": 995,
@@ -5673,19 +5673,19 @@
     "qId": 997,
     "name": "找到小镇的法官",
     "leetcodePassRate": 0.507,
-    "difficulty": 3
+    "difficulty": 1
   },
   "998": {
     "qId": 998,
     "name": "最大二叉树II",
     "leetcodePassRate": 0.593,
-    "difficulty": 3
+    "difficulty": 2
   },
   "999": {
     "qId": 999,
     "name": "可以被一步捕获的棋子数",
     "leetcodePassRate": 0.6940000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1000": {
     "qId": 1000,
@@ -5703,61 +5703,61 @@
     "qId": 1002,
     "name": "查找常用字符",
     "leetcodePassRate": 0.6729999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1003": {
     "qId": 1003,
     "name": "检查替换后的词是否有效",
     "leetcodePassRate": 0.569,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1004": {
     "qId": 1004,
     "name": "最大连续1的个数III",
     "leetcodePassRate": 0.513,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1005": {
     "qId": 1005,
     "name": "K次取反后最大化的数组和",
     "leetcodePassRate": 0.515,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1006": {
     "qId": 1006,
     "name": "笨阶乘",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1007": {
     "qId": 1007,
     "name": "行相等的最少多米诺旋转",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1008": {
     "qId": 1008,
     "name": "先序遍历构造二叉树",
     "leetcodePassRate": 0.72,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1009": {
     "qId": 1009,
     "name": "十进制整数的反码",
     "leetcodePassRate": 0.596,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1010": {
     "qId": 1010,
     "name": "总持续时间可被60整除的歌曲",
     "leetcodePassRate": 0.431,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1011": {
     "qId": 1011,
     "name": "在D天内送达包裹的能力",
     "leetcodePassRate": 0.528,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1012": {
     "qId": 1012,
@@ -5769,91 +5769,91 @@
     "qId": 1013,
     "name": "将数组分成和相等的三个部分",
     "leetcodePassRate": 0.405,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1014": {
     "qId": 1014,
     "name": "最佳观光组合",
     "leetcodePassRate": 0.48,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1015": {
     "qId": 1015,
     "name": "可被K整除的最小整数",
     "leetcodePassRate": 0.307,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1016": {
     "qId": 1016,
     "name": "子串能表示从1到N数字的二进制串",
     "leetcodePassRate": 0.575,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1017": {
     "qId": 1017,
     "name": "负二进制转换",
     "leetcodePassRate": 0.524,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1018": {
     "qId": 1018,
     "name": "可被5整除的二进制前缀",
     "leetcodePassRate": 0.46299999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1019": {
     "qId": 1019,
     "name": "链表中的下一个更大节点",
     "leetcodePassRate": 0.546,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1020": {
     "qId": 1020,
     "name": "飞地的数量",
     "leetcodePassRate": 0.507,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1021": {
     "qId": 1021,
     "name": "删除最外层的括号",
     "leetcodePassRate": 0.769,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1022": {
     "qId": 1022,
     "name": "从根到叶的二进制数之和",
     "leetcodePassRate": 0.623,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1023": {
     "qId": 1023,
     "name": "驼峰式匹配",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1024": {
     "qId": 1024,
     "name": "视频拼接",
     "leetcodePassRate": 0.46399999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1025": {
     "qId": 1025,
     "name": "除数博弈",
     "leetcodePassRate": 0.679,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1026": {
     "qId": 1026,
     "name": "节点与其祖先之间的最大差值",
     "leetcodePassRate": 0.605,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1027": {
     "qId": 1027,
     "name": "最长等差数列",
     "leetcodePassRate": 0.435,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1028": {
     "qId": 1028,
@@ -5865,19 +5865,19 @@
     "qId": 1029,
     "name": "两地调度",
     "leetcodePassRate": 0.607,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1030": {
     "qId": 1030,
     "name": "距离顺序排列矩阵单元格",
     "leetcodePassRate": 0.632,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1031": {
     "qId": 1031,
     "name": "两个非重叠子数组的最大和",
     "leetcodePassRate": 0.517,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1032": {
     "qId": 1032,
@@ -5889,19 +5889,19 @@
     "qId": 1033,
     "name": "移动石子直到连续",
     "leetcodePassRate": 0.376,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1034": {
     "qId": 1034,
     "name": "边框着色",
     "leetcodePassRate": 0.418,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1035": {
     "qId": 1035,
     "name": "不相交的线",
     "leetcodePassRate": 0.519,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1036": {
     "qId": 1036,
@@ -5913,43 +5913,43 @@
     "qId": 1037,
     "name": "有效的回旋镖",
     "leetcodePassRate": 0.42100000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1038": {
     "qId": 1038,
     "name": "从二叉搜索树到更大和树",
     "leetcodePassRate": 0.7440000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1039": {
     "qId": 1039,
     "name": "多边形三角剖分的最低得分",
     "leetcodePassRate": 0.506,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1040": {
     "qId": 1040,
     "name": "移动石子直到连续II",
     "leetcodePassRate": 0.467,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1041": {
     "qId": 1041,
     "name": "困于环中的机器人",
     "leetcodePassRate": 0.43700000000000006,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1042": {
     "qId": 1042,
     "name": "不邻接植花",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1043": {
     "qId": 1043,
     "name": "分隔数组以得到最大和",
     "leetcodePassRate": 0.6459999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1044": {
     "qId": 1044,
@@ -5961,97 +5961,97 @@
     "qId": 1046,
     "name": "最后一块石头的重量",
     "leetcodePassRate": 0.601,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1047": {
     "qId": 1047,
     "name": "删除字符串中的所有相邻重复项",
     "leetcodePassRate": 0.674,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1048": {
     "qId": 1048,
     "name": "最长字符串链",
     "leetcodePassRate": 0.415,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1049": {
     "qId": 1049,
     "name": "最后一块石头的重量II",
     "leetcodePassRate": 0.444,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1051": {
     "qId": 1051,
     "name": "高度检查器",
     "leetcodePassRate": 0.735,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1052": {
     "qId": 1052,
     "name": "爱生气的书店老板",
     "leetcodePassRate": 0.49200000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1053": {
     "qId": 1053,
     "name": "交换一次的先前排列",
     "leetcodePassRate": 0.43200000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1054": {
     "qId": 1054,
     "name": "距离相等的条形码",
     "leetcodePassRate": 0.335,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1055": {
     "qId": 1055,
     "name": "形成字符串的最短路径",
     "leetcodePassRate": 0.555,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1056": {
     "qId": 1056,
     "name": "易混淆数",
     "leetcodePassRate": 0.36,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1057": {
     "qId": 1057,
     "name": "校园自行车分配",
     "leetcodePassRate": 0.39299999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1058": {
     "qId": 1058,
     "name": "最小化舍入误差以满足目标",
     "leetcodePassRate": 0.301,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1059": {
     "qId": 1059,
     "name": "从始点到终点的所有路径",
     "leetcodePassRate": 0.306,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1060": {
     "qId": 1060,
     "name": "有序数组中的缺失元素",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1061": {
     "qId": 1061,
     "name": "按字典序排列最小的等效字符串",
     "leetcodePassRate": 0.523,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1062": {
     "qId": 1062,
     "name": "最长重复子串",
     "leetcodePassRate": 0.466,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1063": {
     "qId": 1063,
@@ -6063,19 +6063,19 @@
     "qId": 1064,
     "name": "不动点",
     "leetcodePassRate": 0.691,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1065": {
     "qId": 1065,
     "name": "字符串的索引对",
     "leetcodePassRate": 0.512,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1066": {
     "qId": 1066,
     "name": "校园自行车分配II",
     "leetcodePassRate": 0.4,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1067": {
     "qId": 1067,
@@ -6087,19 +6087,19 @@
     "qId": 1071,
     "name": "字符串的最大公因子",
     "leetcodePassRate": 0.586,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1072": {
     "qId": 1072,
     "name": "按列翻转得到最大值等行数",
     "leetcodePassRate": 0.513,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1073": {
     "qId": 1073,
     "name": "负二进制数相加",
     "leetcodePassRate": 0.306,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1074": {
     "qId": 1074,
@@ -6111,43 +6111,43 @@
     "qId": 1078,
     "name": "Bigram分词",
     "leetcodePassRate": 0.607,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1079": {
     "qId": 1079,
     "name": "活字印刷",
     "leetcodePassRate": 0.728,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1080": {
     "qId": 1080,
     "name": "根到叶路径上的不足节点",
     "leetcodePassRate": 0.45299999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1081": {
     "qId": 1081,
     "name": "不同字符的最小子序列",
     "leetcodePassRate": 0.47200000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1085": {
     "qId": 1085,
     "name": "最小元素各数位之和",
     "leetcodePassRate": 0.753,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1086": {
     "qId": 1086,
     "name": "前五科的均分",
     "leetcodePassRate": 0.7020000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1087": {
     "qId": 1087,
     "name": "字母切换",
     "leetcodePassRate": 0.475,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1088": {
     "qId": 1088,
@@ -6159,19 +6159,19 @@
     "qId": 1089,
     "name": "复写零",
     "leetcodePassRate": 0.575,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1090": {
     "qId": 1090,
     "name": "受标签影响的最大值",
     "leetcodePassRate": 0.507,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1091": {
     "qId": 1091,
     "name": "二进制矩阵中的最短路径",
     "leetcodePassRate": 0.325,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1092": {
     "qId": 1092,
@@ -6183,13 +6183,13 @@
     "qId": 1093,
     "name": "大样本统计",
     "leetcodePassRate": 0.406,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1094": {
     "qId": 1094,
     "name": "拼车",
     "leetcodePassRate": 0.5770000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1095": {
     "qId": 1095,
@@ -6207,43 +6207,43 @@
     "qId": 1099,
     "name": "小于K的两数之和",
     "leetcodePassRate": 0.56,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1100": {
     "qId": 1100,
     "name": "长度为K的无重复字符子串",
     "leetcodePassRate": 0.682,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1101": {
     "qId": 1101,
     "name": "彼此熟识的最早时间",
     "leetcodePassRate": 0.654,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1102": {
     "qId": 1102,
     "name": "得分最高的路径",
     "leetcodePassRate": 0.298,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1103": {
     "qId": 1103,
     "name": "分糖果II",
     "leetcodePassRate": 0.629,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1104": {
     "qId": 1104,
     "name": "二叉树寻路",
     "leetcodePassRate": 0.679,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1105": {
     "qId": 1105,
     "name": "填充书架",
     "leetcodePassRate": 0.507,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1106": {
     "qId": 1106,
@@ -6255,43 +6255,43 @@
     "qId": 1108,
     "name": "IP地址无效化",
     "leetcodePassRate": 0.823,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1109": {
     "qId": 1109,
     "name": "航班预订统计",
     "leetcodePassRate": 0.439,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1110": {
     "qId": 1110,
     "name": "删点成林",
     "leetcodePassRate": 0.59,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1111": {
     "qId": 1111,
     "name": "有效括号的嵌套深度",
     "leetcodePassRate": 0.777,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1118": {
     "qId": 1118,
     "name": "一月有多少天",
     "leetcodePassRate": 0.629,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1119": {
     "qId": 1119,
     "name": "删去字符串中的元音",
     "leetcodePassRate": 0.8540000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1120": {
     "qId": 1120,
     "name": "子树的最大平均值",
     "leetcodePassRate": 0.5660000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1121": {
     "qId": 1121,
@@ -6303,19 +6303,19 @@
     "qId": 1122,
     "name": "数组的相对排序",
     "leetcodePassRate": 0.659,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1123": {
     "qId": 1123,
     "name": "最深叶节点的最近公共祖先",
     "leetcodePassRate": 0.6559999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1124": {
     "qId": 1124,
     "name": "表现良好的最长时间段",
     "leetcodePassRate": 0.268,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1125": {
     "qId": 1125,
@@ -6327,43 +6327,43 @@
     "qId": 1128,
     "name": "等价多米诺骨牌对的数量",
     "leetcodePassRate": 0.442,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1129": {
     "qId": 1129,
     "name": "颜色交替的最短路径",
     "leetcodePassRate": 0.33899999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1130": {
     "qId": 1130,
     "name": "叶值的最小代价生成树",
     "leetcodePassRate": 0.585,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1131": {
     "qId": 1131,
     "name": "绝对值表达式的最大值",
     "leetcodePassRate": 0.41,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1133": {
     "qId": 1133,
     "name": "最大唯一数",
     "leetcodePassRate": 0.616,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1134": {
     "qId": 1134,
     "name": "阿姆斯特朗数",
     "leetcodePassRate": 0.748,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1135": {
     "qId": 1135,
     "name": "最低成本联通所有城市",
     "leetcodePassRate": 0.46299999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1136": {
     "qId": 1136,
@@ -6375,49 +6375,49 @@
     "qId": 1137,
     "name": "第N个泰波那契数",
     "leetcodePassRate": 0.524,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1138": {
     "qId": 1138,
     "name": "字母板上的路径",
     "leetcodePassRate": 0.4,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1139": {
     "qId": 1139,
     "name": "最大的以1为边界的正方形",
     "leetcodePassRate": 0.433,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1140": {
     "qId": 1140,
     "name": "石子游戏II",
     "leetcodePassRate": 0.611,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1143": {
     "qId": 1143,
     "name": "最长公共子序列",
     "leetcodePassRate": 0.596,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1144": {
     "qId": 1144,
     "name": "递减元素使数组呈锯齿状",
     "leetcodePassRate": 0.419,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1145": {
     "qId": 1145,
     "name": "二叉树着色游戏",
     "leetcodePassRate": 0.42,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1146": {
     "qId": 1146,
     "name": "快照数组",
     "leetcodePassRate": 0.24100000000000002,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1147": {
     "qId": 1147,
@@ -6429,19 +6429,19 @@
     "qId": 1150,
     "name": "检查一个数是否在数组中占绝大多数",
     "leetcodePassRate": 0.6509999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1151": {
     "qId": 1151,
     "name": "最少交换次数来组合所有的1",
     "leetcodePassRate": 0.455,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1152": {
     "qId": 1152,
     "name": "用户网站访问行为分析",
     "leetcodePassRate": 0.33399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1153": {
     "qId": 1153,
@@ -6453,19 +6453,19 @@
     "qId": 1154,
     "name": "一年中的第几天",
     "leetcodePassRate": 0.537,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1155": {
     "qId": 1155,
     "name": "掷骰子的N种方法",
     "leetcodePassRate": 0.43700000000000006,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1156": {
     "qId": 1156,
     "name": "单字符重复子串的最大长度",
     "leetcodePassRate": 0.43200000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1157": {
     "qId": 1157,
@@ -6477,19 +6477,19 @@
     "qId": 1160,
     "name": "拼写单词",
     "leetcodePassRate": 0.691,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1161": {
     "qId": 1161,
     "name": "最大层内元素和",
     "leetcodePassRate": 0.68,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1162": {
     "qId": 1162,
     "name": "地图分析",
     "leetcodePassRate": 0.47100000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1163": {
     "qId": 1163,
@@ -6501,19 +6501,19 @@
     "qId": 1165,
     "name": "单行键盘",
     "leetcodePassRate": 0.8290000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1166": {
     "qId": 1166,
     "name": "设计文件系统",
     "leetcodePassRate": 0.48,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1167": {
     "qId": 1167,
     "name": "连接棒材的最低费用",
     "leetcodePassRate": 0.344,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1168": {
     "qId": 1168,
@@ -6525,19 +6525,19 @@
     "qId": 1169,
     "name": "查询无效交易",
     "leetcodePassRate": 0.303,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1170": {
     "qId": 1170,
     "name": "比较字符串最小字母出现频次",
     "leetcodePassRate": 0.606,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1171": {
     "qId": 1171,
     "name": "从链表中删去总和值为零的连续节点",
     "leetcodePassRate": 0.413,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1172": {
     "qId": 1172,
@@ -6549,19 +6549,19 @@
     "qId": 1175,
     "name": "质数排列",
     "leetcodePassRate": 0.469,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1176": {
     "qId": 1176,
     "name": "健身计划评估",
     "leetcodePassRate": 0.409,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1177": {
     "qId": 1177,
     "name": "构建回文串检测",
     "leetcodePassRate": 0.22,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1178": {
     "qId": 1178,
@@ -6573,19 +6573,19 @@
     "qId": 1180,
     "name": "统计只含单一字母的子串",
     "leetcodePassRate": 0.738,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1181": {
     "qId": 1181,
     "name": "前后拼接",
     "leetcodePassRate": 0.344,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1182": {
     "qId": 1182,
     "name": "与目标颜色间的最短距离",
     "leetcodePassRate": 0.335,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1183": {
     "qId": 1183,
@@ -6597,19 +6597,19 @@
     "qId": 1184,
     "name": "公交站间的距离",
     "leetcodePassRate": 0.57,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1185": {
     "qId": 1185,
     "name": "一周中的第几天",
     "leetcodePassRate": 0.59,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1186": {
     "qId": 1186,
     "name": "删除一次得到子数组最大和",
     "leetcodePassRate": 0.32799999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1187": {
     "qId": 1187,
@@ -6621,19 +6621,19 @@
     "qId": 1189,
     "name": "“气球”的最大数量",
     "leetcodePassRate": 0.634,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1190": {
     "qId": 1190,
     "name": "反转每对括号间的子串",
     "leetcodePassRate": 0.534,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1191": {
     "qId": 1191,
     "name": "K次串联后最大子数组之和",
     "leetcodePassRate": 0.25,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1192": {
     "qId": 1192,
@@ -6645,19 +6645,19 @@
     "qId": 1196,
     "name": "最多可以买到的苹果数量",
     "leetcodePassRate": 0.696,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1197": {
     "qId": 1197,
     "name": "进击的骑士",
     "leetcodePassRate": 0.32,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1198": {
     "qId": 1198,
     "name": "找出所有行中最小公共元素",
     "leetcodePassRate": 0.731,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1199": {
     "qId": 1199,
@@ -6669,19 +6669,19 @@
     "qId": 1200,
     "name": "最小绝对差",
     "leetcodePassRate": 0.662,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1201": {
     "qId": 1201,
     "name": "丑数III",
     "leetcodePassRate": 0.213,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1202": {
     "qId": 1202,
     "name": "交换字符串中的元素",
     "leetcodePassRate": 0.314,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1203": {
     "qId": 1203,
@@ -6699,19 +6699,19 @@
     "qId": 1207,
     "name": "独一无二的出现次数",
     "leetcodePassRate": 0.688,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1208": {
     "qId": 1208,
     "name": "尽可能使字符串相等",
     "leetcodePassRate": 0.363,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1209": {
     "qId": 1209,
     "name": "删除字符串中的所有相邻重复项II",
     "leetcodePassRate": 0.522,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1210": {
     "qId": 1210,
@@ -6723,19 +6723,19 @@
     "qId": 1213,
     "name": "三个有序数组的交集",
     "leetcodePassRate": 0.758,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1214": {
     "qId": 1214,
     "name": "查找两棵二叉搜索树之和",
     "leetcodePassRate": 0.589,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1215": {
     "qId": 1215,
     "name": "步进数",
     "leetcodePassRate": 0.371,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1216": {
     "qId": 1216,
@@ -6747,19 +6747,19 @@
     "qId": 1217,
     "name": "玩筹码",
     "leetcodePassRate": 0.6779999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1218": {
     "qId": 1218,
     "name": "最长定差子序列",
     "leetcodePassRate": 0.379,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1219": {
     "qId": 1219,
     "name": "黄金矿工",
     "leetcodePassRate": 0.607,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1220": {
     "qId": 1220,
@@ -6771,19 +6771,19 @@
     "qId": 1221,
     "name": "分割平衡字符串",
     "leetcodePassRate": 0.782,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1222": {
     "qId": 1222,
     "name": "可以攻击国王的皇后",
     "leetcodePassRate": 0.65,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1223": {
     "qId": 1223,
     "name": "掷骰子模拟",
     "leetcodePassRate": 0.445,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1224": {
     "qId": 1224,
@@ -6795,25 +6795,25 @@
     "qId": 1227,
     "name": "飞机座位分配概率",
     "leetcodePassRate": 0.639,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1228": {
     "qId": 1228,
     "name": "等差数列中缺失的数字",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1229": {
     "qId": 1229,
     "name": "安排会议日程",
     "leetcodePassRate": 0.34299999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1230": {
     "qId": 1230,
     "name": "抛掷硬币",
     "leetcodePassRate": 0.419,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1231": {
     "qId": 1231,
@@ -6825,19 +6825,19 @@
     "qId": 1232,
     "name": "缀点成线",
     "leetcodePassRate": 0.515,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1233": {
     "qId": 1233,
     "name": "删除子文件夹",
     "leetcodePassRate": 0.444,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1234": {
     "qId": 1234,
     "name": "替换子串得到平衡字符串",
     "leetcodePassRate": 0.295,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1235": {
     "qId": 1235,
@@ -6849,25 +6849,25 @@
     "qId": 1236,
     "name": "网络爬虫",
     "leetcodePassRate": 0.5489999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1237": {
     "qId": 1237,
     "name": "找出给定方程的正整数解",
     "leetcodePassRate": 0.6859999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1238": {
     "qId": 1238,
     "name": "循环码排列",
     "leetcodePassRate": 0.61,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1239": {
     "qId": 1239,
     "name": "串联字符串的最大长度",
     "leetcodePassRate": 0.391,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1240": {
     "qId": 1240,
@@ -6879,19 +6879,19 @@
     "qId": 1243,
     "name": "数组变换",
     "leetcodePassRate": 0.519,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1244": {
     "qId": 1244,
     "name": "力扣排行榜",
     "leetcodePassRate": 0.5479999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1245": {
     "qId": 1245,
     "name": "树的直径",
     "leetcodePassRate": 0.441,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1246": {
     "qId": 1246,
@@ -6903,19 +6903,19 @@
     "qId": 1247,
     "name": "交换字符使得字符串相同",
     "leetcodePassRate": 0.5660000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1248": {
     "qId": 1248,
     "name": "统计「优美子数组」",
     "leetcodePassRate": 0.541,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1249": {
     "qId": 1249,
     "name": "移除无效的括号",
     "leetcodePassRate": 0.5589999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1250": {
     "qId": 1250,
@@ -6927,19 +6927,19 @@
     "qId": 1252,
     "name": "奇数值单元格的数目",
     "leetcodePassRate": 0.759,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1253": {
     "qId": 1253,
     "name": "重构2行二进制矩阵",
     "leetcodePassRate": 0.373,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1254": {
     "qId": 1254,
     "name": "统计封闭岛屿的数目",
     "leetcodePassRate": 0.585,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1255": {
     "qId": 1255,
@@ -6951,19 +6951,19 @@
     "qId": 1256,
     "name": "加密数字",
     "leetcodePassRate": 0.615,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1257": {
     "qId": 1257,
     "name": "最小公共区域",
     "leetcodePassRate": 0.516,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1258": {
     "qId": 1258,
     "name": "近义词句子",
     "leetcodePassRate": 0.5579999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1259": {
     "qId": 1259,
@@ -6975,19 +6975,19 @@
     "qId": 1260,
     "name": "二维网格迁移",
     "leetcodePassRate": 0.597,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1261": {
     "qId": 1261,
     "name": "在受污染的二叉树中查找元素",
     "leetcodePassRate": 0.711,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1262": {
     "qId": 1262,
     "name": "可被三整除的最大和",
     "leetcodePassRate": 0.466,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1263": {
     "qId": 1263,
@@ -6999,25 +6999,25 @@
     "qId": 1265,
     "name": "逆序打印不可变链表",
     "leetcodePassRate": 0.922,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1266": {
     "qId": 1266,
     "name": "访问所有点的最小时间",
     "leetcodePassRate": 0.8109999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1267": {
     "qId": 1267,
     "name": "统计参与通信的服务器",
     "leetcodePassRate": 0.596,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1268": {
     "qId": 1268,
     "name": "搜索推荐系统",
     "leetcodePassRate": 0.545,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1269": {
     "qId": 1269,
@@ -7029,19 +7029,19 @@
     "qId": 1271,
     "name": "十六进制魔术数字",
     "leetcodePassRate": 0.47700000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1272": {
     "qId": 1272,
     "name": "删除区间",
     "leetcodePassRate": 0.478,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1273": {
     "qId": 1273,
     "name": "删除树节点",
     "leetcodePassRate": 0.516,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1274": {
     "qId": 1274,
@@ -7053,19 +7053,19 @@
     "qId": 1275,
     "name": "找出井字棋的获胜者",
     "leetcodePassRate": 0.524,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1276": {
     "qId": 1276,
     "name": "不浪费原料的汉堡制作方案",
     "leetcodePassRate": 0.493,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1277": {
     "qId": 1277,
     "name": "统计全为1的正方形子矩阵",
     "leetcodePassRate": 0.6990000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1278": {
     "qId": 1278,
@@ -7077,19 +7077,19 @@
     "qId": 1281,
     "name": "整数的各位积和之差",
     "leetcodePassRate": 0.823,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1282": {
     "qId": 1282,
     "name": "用户分组",
     "leetcodePassRate": 0.802,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1283": {
     "qId": 1283,
     "name": "使结果不超过阈值的最小除数",
     "leetcodePassRate": 0.35700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1284": {
     "qId": 1284,
@@ -7101,19 +7101,19 @@
     "qId": 1286,
     "name": "字母组合迭代器",
     "leetcodePassRate": 0.583,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1287": {
     "qId": 1287,
     "name": "有序数组中出现次,超过25%,元素",
     "leetcodePassRate": 0.613,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1288": {
     "qId": 1288,
     "name": "删除被覆盖区间",
     "leetcodePassRate": 0.561,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1289": {
     "qId": 1289,
@@ -7125,19 +7125,19 @@
     "qId": 1290,
     "name": "二进制链表转整数",
     "leetcodePassRate": 0.8079999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1291": {
     "qId": 1291,
     "name": "顺次数",
     "leetcodePassRate": 0.485,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1292": {
     "qId": 1292,
     "name": "元素和小于等于阈值的正方形的最大边长",
     "leetcodePassRate": 0.41700000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1293": {
     "qId": 1293,
@@ -7149,19 +7149,19 @@
     "qId": 1295,
     "name": "统计位数为偶数的数字",
     "leetcodePassRate": 0.8220000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1296": {
     "qId": 1296,
     "name": "划分数组为连续数字的集合",
     "leetcodePassRate": 0.418,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1297": {
     "qId": 1297,
     "name": "子串的最大出现次数",
     "leetcodePassRate": 0.429,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1298": {
     "qId": 1298,
@@ -7173,13 +7173,13 @@
     "qId": 1299,
     "name": "将每个元素替换为右侧最大元素",
     "leetcodePassRate": 0.769,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1300": {
     "qId": 1300,
     "name": "转变数组后最接近目标值的数组和",
     "leetcodePassRate": 0.45399999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1301": {
     "qId": 1301,
@@ -7191,25 +7191,25 @@
     "qId": 1302,
     "name": "层数最深叶子节点的和",
     "leetcodePassRate": 0.8029999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1304": {
     "qId": 1304,
     "name": "和为零的N个唯一整数",
     "leetcodePassRate": 0.746,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1305": {
     "qId": 1305,
     "name": "两棵二叉搜索树中的所有元素",
     "leetcodePassRate": 0.7390000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1306": {
     "qId": 1306,
     "name": "跳跃游戏III",
     "leetcodePassRate": 0.586,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1307": {
     "qId": 1307,
@@ -7221,19 +7221,19 @@
     "qId": 1309,
     "name": "解码字母到整数映射",
     "leetcodePassRate": 0.745,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1310": {
     "qId": 1310,
     "name": "子数组异或查询",
     "leetcodePassRate": 0.636,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1311": {
     "qId": 1311,
     "name": "获取你好友已观看的视频",
     "leetcodePassRate": 0.358,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1312": {
     "qId": 1312,
@@ -7245,19 +7245,19 @@
     "qId": 1313,
     "name": "解压缩编码列表",
     "leetcodePassRate": 0.823,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1314": {
     "qId": 1314,
     "name": "矩阵区域和",
     "leetcodePassRate": 0.7170000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1315": {
     "qId": 1315,
     "name": "祖父节点值为偶数的节点和",
     "leetcodePassRate": 0.804,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1316": {
     "qId": 1316,
@@ -7269,19 +7269,19 @@
     "qId": 1317,
     "name": "将整数转换为两个无零整数的和",
     "leetcodePassRate": 0.616,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1318": {
     "qId": 1318,
     "name": "或运算的最小翻转次数",
     "leetcodePassRate": 0.609,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1319": {
     "qId": 1319,
     "name": "连通网络的操作次数",
     "leetcodePassRate": 0.485,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1320": {
     "qId": 1320,
@@ -7293,19 +7293,19 @@
     "qId": 1323,
     "name": "6和9组成的最大数字",
     "leetcodePassRate": 0.7509999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1324": {
     "qId": 1324,
     "name": "竖直打印单词",
     "leetcodePassRate": 0.574,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1325": {
     "qId": 1325,
     "name": "删除给定值的叶子节点",
     "leetcodePassRate": 0.701,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1326": {
     "qId": 1326,
@@ -7317,13 +7317,13 @@
     "qId": 1328,
     "name": "破坏回文串",
     "leetcodePassRate": 0.43200000000000005,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1329": {
     "qId": 1329,
     "name": "将矩阵按对角线排序",
     "leetcodePassRate": 0.7559999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1330": {
     "qId": 1330,
@@ -7335,25 +7335,25 @@
     "qId": 1331,
     "name": "数组序号转换",
     "leetcodePassRate": 0.523,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1332": {
     "qId": 1332,
     "name": "删除回文子序列",
     "leetcodePassRate": 0.631,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1333": {
     "qId": 1333,
     "name": "餐厅过滤器",
     "leetcodePassRate": 0.5,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1334": {
     "qId": 1334,
     "name": "阈值距离内邻居最少的城市",
     "leetcodePassRate": 0.451,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1335": {
     "qId": 1335,
@@ -7365,19 +7365,19 @@
     "qId": 1337,
     "name": "方阵中战斗力最弱的K行",
     "leetcodePassRate": 0.63,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1338": {
     "qId": 1338,
     "name": "数组大小减半",
     "leetcodePassRate": 0.616,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1339": {
     "qId": 1339,
     "name": "分裂二叉树的最大乘积",
     "leetcodePassRate": 0.373,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1340": {
     "qId": 1340,
@@ -7389,19 +7389,19 @@
     "qId": 1342,
     "name": "将数字变成0的操作次数",
     "leetcodePassRate": 0.8240000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1343": {
     "qId": 1343,
     "name": "大小为K且平均值大于等于阈值的子数组数目",
     "leetcodePassRate": 0.561,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1344": {
     "qId": 1344,
     "name": "时钟指针的夹角",
     "leetcodePassRate": 0.595,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1345": {
     "qId": 1345,
@@ -7413,19 +7413,19 @@
     "qId": 1346,
     "name": "检查整数及其两倍数是否存在",
     "leetcodePassRate": 0.42200000000000004,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1347": {
     "qId": 1347,
     "name": "制造字母异位词的最小步骤数",
     "leetcodePassRate": 0.7040000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1348": {
     "qId": 1348,
     "name": "推文计数",
     "leetcodePassRate": 0.257,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1349": {
     "qId": 1349,
@@ -7437,19 +7437,19 @@
     "qId": 1351,
     "name": "统计有序矩阵中的负数",
     "leetcodePassRate": 0.777,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1352": {
     "qId": 1352,
     "name": "最后K个数的乘积",
     "leetcodePassRate": 0.42,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1353": {
     "qId": 1353,
     "name": "最多可以参加的会议数目",
     "leetcodePassRate": 0.294,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1354": {
     "qId": 1354,
@@ -7461,19 +7461,19 @@
     "qId": 1356,
     "name": "根据数字二进制下1的数目排序",
     "leetcodePassRate": 0.6659999999999999,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1357": {
     "qId": 1357,
     "name": "每隔n个顾客打折",
     "leetcodePassRate": 0.46299999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1358": {
     "qId": 1358,
     "name": "包含所有三种字符的子字符串数目",
     "leetcodePassRate": 0.414,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1359": {
     "qId": 1359,
@@ -7485,19 +7485,19 @@
     "qId": 1360,
     "name": "日期之间隔几天",
     "leetcodePassRate": 0.46399999999999997,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1361": {
     "qId": 1361,
     "name": "验证二叉树",
     "leetcodePassRate": 0.483,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1362": {
     "qId": 1362,
     "name": "最接近的因数",
     "leetcodePassRate": 0.49,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1363": {
     "qId": 1363,
@@ -7509,19 +7509,19 @@
     "qId": 1365,
     "name": "有多少小于当前数字的数字",
     "leetcodePassRate": 0.821,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1366": {
     "qId": 1366,
     "name": "通过投票对团队排名",
     "leetcodePassRate": 0.48100000000000004,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1367": {
     "qId": 1367,
     "name": "二叉树中的列表",
     "leetcodePassRate": 0.375,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1368": {
     "qId": 1368,
@@ -7533,19 +7533,19 @@
     "qId": 1370,
     "name": "上升下降字符串",
     "leetcodePassRate": 0.741,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1371": {
     "qId": 1371,
     "name": "每个元音包含偶数次的最长子字符串",
     "leetcodePassRate": 0.43700000000000006,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1372": {
     "qId": 1372,
     "name": "二叉树中的最长交错路径",
     "leetcodePassRate": 0.457,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1373": {
     "qId": 1373,
@@ -7557,19 +7557,19 @@
     "qId": 1374,
     "name": "生成每种字符都是奇数个的字符串",
     "leetcodePassRate": 0.7120000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1375": {
     "qId": 1375,
     "name": "灯泡开关III",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1376": {
     "qId": 1376,
     "name": "通知所有员工所需的时间",
     "leetcodePassRate": 0.475,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1377": {
     "qId": 1377,
@@ -7581,25 +7581,25 @@
     "qId": 1379,
     "name": "找出克隆二叉树中的相同节点",
     "leetcodePassRate": 0.8270000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1380": {
     "qId": 1380,
     "name": "矩阵中的幸运数",
     "leetcodePassRate": 0.71,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1381": {
     "qId": 1381,
     "name": "设计一个支持增量操作的栈",
     "leetcodePassRate": 0.735,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1382": {
     "qId": 1382,
     "name": "将二叉搜索树变平衡",
     "leetcodePassRate": 0.652,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1383": {
     "qId": 1383,
@@ -7611,19 +7611,19 @@
     "qId": 1385,
     "name": "两个数组间的距离值",
     "leetcodePassRate": 0.713,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1386": {
     "qId": 1386,
     "name": "安排电影院座位",
     "leetcodePassRate": 0.27399999999999997,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1387": {
     "qId": 1387,
     "name": "将整数按权重排序",
     "leetcodePassRate": 0.6890000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1388": {
     "qId": 1388,
@@ -7635,19 +7635,19 @@
     "qId": 1389,
     "name": "按既定顺序创建目标数组",
     "leetcodePassRate": 0.82,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1390": {
     "qId": 1390,
     "name": "四因数",
     "leetcodePassRate": 0.32299999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1391": {
     "qId": 1391,
     "name": "检查网格中是否存在有效路径",
     "leetcodePassRate": 0.385,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1392": {
     "qId": 1392,
@@ -7659,19 +7659,19 @@
     "qId": 1394,
     "name": "找出数组中的幸运数",
     "leetcodePassRate": 0.68,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1395": {
     "qId": 1395,
     "name": "统计作战单位数",
     "leetcodePassRate": 0.823,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1396": {
     "qId": 1396,
     "name": "设计地铁系统",
     "leetcodePassRate": 0.44799999999999995,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1397": {
     "qId": 1397,
@@ -7683,19 +7683,19 @@
     "qId": 1399,
     "name": "统计最大组的数目",
     "leetcodePassRate": 0.633,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1400": {
     "qId": 1400,
     "name": "构造K个回文字符串",
     "leetcodePassRate": 0.556,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1401": {
     "qId": 1401,
     "name": "圆和矩形是否有重叠",
     "leetcodePassRate": 0.354,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1402": {
     "qId": 1402,
@@ -7707,19 +7707,19 @@
     "qId": 1403,
     "name": "非递增顺序的最小子序列",
     "leetcodePassRate": 0.706,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1404": {
     "qId": 1404,
     "name": "将二进制表示减到1的步骤数",
     "leetcodePassRate": 0.461,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1405": {
     "qId": 1405,
     "name": "最长快乐字符串",
     "leetcodePassRate": 0.43799999999999994,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1406": {
     "qId": 1406,
@@ -7731,19 +7731,19 @@
     "qId": 1408,
     "name": "数组中的字符串匹配",
     "leetcodePassRate": 0.586,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1409": {
     "qId": 1409,
     "name": "查询带键的排列",
     "leetcodePassRate": 0.7959999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1410": {
     "qId": 1410,
     "name": "HTML实体解析器",
     "leetcodePassRate": 0.496,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1411": {
     "qId": 1411,
@@ -7755,19 +7755,19 @@
     "qId": 1413,
     "name": "逐步求和得到正数的最小值",
     "leetcodePassRate": 0.69,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1414": {
     "qId": 1414,
     "name": "和为K的最少斐波那契数字数目",
     "leetcodePassRate": 0.532,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1415": {
     "qId": 1415,
     "name": "长度为n的开心字符串中字典序第k小的字符串",
     "leetcodePassRate": 0.6759999999999999,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1416": {
     "qId": 1416,
@@ -7779,19 +7779,19 @@
     "qId": 1417,
     "name": "重新格式化字符串",
     "leetcodePassRate": 0.503,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1418": {
     "qId": 1418,
     "name": "点菜展示表",
     "leetcodePassRate": 0.5660000000000001,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1419": {
     "qId": 1419,
     "name": "数青蛙",
     "leetcodePassRate": 0.368,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1420": {
     "qId": 1420,
@@ -7803,19 +7803,19 @@
     "qId": 1422,
     "name": "分割字符串的最大得分",
     "leetcodePassRate": 0.522,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1423": {
     "qId": 1423,
     "name": "可获得的最大点数",
     "leetcodePassRate": 0.39,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1424": {
     "qId": 1424,
     "name": "对角线遍历II",
     "leetcodePassRate": 0.34700000000000003,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1425": {
     "qId": 1425,
@@ -7827,49 +7827,49 @@
     "qId": 1426,
     "name": "数元素",
     "leetcodePassRate": 0.5670000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1427": {
     "qId": 1427,
     "name": "PerformStringShifts",
     "leetcodePassRate": 0.669,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1428": {
     "qId": 1428,
     "name": "LeftmostColumnwithatLeastaOne",
     "leetcodePassRate": 0.741,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1429": {
     "qId": 1429,
     "name": "FirstUniqueNumber",
     "leetcodePassRate": 0.522,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1430": {
     "qId": 1430,
     "name": "CheckIfaStringIsaValidSequencefromRoottoLeavesPathinaBinaryTree",
     "leetcodePassRate": 0.644,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1431": {
     "qId": 1431,
     "name": "拥有最多糖果的孩子",
     "leetcodePassRate": 0.8420000000000001,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1432": {
     "qId": 1432,
     "name": "改变一个整数能得到的最大差值",
     "leetcodePassRate": 0.38799999999999996,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1433": {
     "qId": 1433,
     "name": "检查一个字符串是否可以打破另一个字符串",
     "leetcodePassRate": 0.616,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1434": {
     "qId": 1434,
@@ -7881,19 +7881,19 @@
     "qId": 1436,
     "name": "旅行终点站",
     "leetcodePassRate": 0.813,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1437": {
     "qId": 1437,
     "name": "是否所有1都至少相隔k个元素",
     "leetcodePassRate": 0.621,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1438": {
     "qId": 1438,
     "name": "绝对差不超过限制的最长连续子数组",
     "leetcodePassRate": 0.376,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1439": {
     "qId": 1439,
@@ -7905,19 +7905,19 @@
     "qId": 1441,
     "name": "用栈操作构建数组",
     "leetcodePassRate": 0.645,
-    "difficulty": 3
+    "difficulty": 1
   },
   "1442": {
     "qId": 1442,
     "name": "形成两个异或相等数组的三元组数目",
     "leetcodePassRate": 0.62,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1443": {
     "qId": 1443,
     "name": "收集树上所有苹果的最少时间",
     "leetcodePassRate": 0.47,
-    "difficulty": 3
+    "difficulty": 2
   },
   "1444": {
     "qId": 1444,
