@@ -1,3 +1,21 @@
+'''
+解析leetcode题目难度
+
+输入文件 leetcodeWebPage.txt
+    格式  6和9组成的最大数字
+          204,75.1%,简单
+          1324
+          ...
+
+输出文件 leetcodeDifficulty.json
+    格式  "1": {
+            "qId": 1,
+            "name": "两数之和",
+            "leetcodePassRate": 0.484,
+            "difficulty": 1
+            }, ...
+'''
+
 import json
 
 

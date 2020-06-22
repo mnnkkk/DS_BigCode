@@ -1,3 +1,11 @@
+'''
+计算全体人员题目通过率
+
+输入文件 testSample1.json
+
+输出文件 passRate.json
+'''
+
 import json
 
 # 读json
