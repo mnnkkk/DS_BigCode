@@ -1,0 +1,10 @@
+import os
+import shutil
+
+path = '../../resource/cases/unpacked'
+newPath = '../../resource/cases/codes'
+dir_names = os.listdir(path)
+
+for dir_name in dir_names:
+    print(dir_name)
+    os.rename(path+"/"+dir_name+"/main.py", newPath+"/"+dir_name+".py")
