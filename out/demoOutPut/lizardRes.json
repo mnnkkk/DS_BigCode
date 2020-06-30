@@ -1,0 +1,189 @@
+{
+  "1581655211103": {
+    "isLizard": 1,
+    "NLOC": 87,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1581655224436": {
+    "isLizard": 0
+  },
+  "1581655263928": {
+    "isLizard": 0
+  },
+  "1581655296871": {
+    "isLizard": 0
+  },
+  "1581750895599": {
+    "isLizard": 1,
+    "NLOC": 0,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1581750907623": {
+    "isLizard": 1,
+    "NLOC": 9,
+    "AvgNLOC": 5.0,
+    "AvgCCN": 2.0,
+    "AvgToken": 21.0,
+    "FunctionCnt": 1
+  },
+  "1581750977857": {
+    "isLizard": 0
+  },
+  "1581948553387": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1581948568935": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1581995632458": {
+    "isLizard": 0
+  },
+  "1582023289866": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582103355264": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582105167732": {
+    "isLizard": 0
+  },
+  "1582131858469": {
+    "isLizard": 0
+  },
+  "1582131874382": {
+    "isLizard": 0
+  },
+  "1582354681533": {
+    "isLizard": 0
+  },
+  "1582557829549": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582557835987": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582558130008": {
+    "isLizard": 0
+  },
+  "1582558139068": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582558143535": {
+    "isLizard": 1,
+    "NLOC": 1,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582719193935": {
+    "isLizard": 1,
+    "NLOC": 11,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1582719220543": {
+    "isLizard": 0
+  },
+  "1582719222642": {
+    "isLizard": 0
+  },
+  "1582719225633": {
+    "isLizard": 0
+  },
+  "1582719227700": {
+    "isLizard": 0
+  },
+  "1583129529428": {
+    "isLizard": 1,
+    "NLOC": 32,
+    "AvgNLOC": 9.0,
+    "AvgCCN": 4.0,
+    "AvgToken": 58.0,
+    "FunctionCnt": 1
+  },
+  "1583213500040": {
+    "isLizard": 1,
+    "NLOC": 32,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1583213530906": {
+    "isLizard": 0
+  },
+  "1583213533602": {
+    "isLizard": 0
+  },
+  "1583213536560": {
+    "isLizard": 0
+  },
+  "1583222595731": {
+    "isLizard": 1,
+    "NLOC": 8,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  },
+  "1583378281192": {
+    "isLizard": 1,
+    "NLOC": 38,
+    "AvgNLOC": 10.7,
+    "AvgCCN": 5.3,
+    "AvgToken": 101.3,
+    "FunctionCnt": 3
+  },
+  "1584197128692": {
+    "isLizard": 1,
+    "NLOC": 2,
+    "AvgNLOC": 0.0,
+    "AvgCCN": 0.0,
+    "AvgToken": 0.0,
+    "FunctionCnt": 0
+  }
+}
