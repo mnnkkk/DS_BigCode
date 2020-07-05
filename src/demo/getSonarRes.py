@@ -12,8 +12,10 @@ def getIssueNum(s: str) -> int:
 
 res = {}
 
-f = open("../../resource/sonarLog.txt", "r", encoding="utf-8")
-fileLineNum = 102
+# f = open("../../resource/sonarLog.txt", "r", encoding="utf-8")
+f = open("../../resource/sonarLog_group5.txt", "r", encoding="utf-8")
+# fileLineNum = 102
+fileLineNum = 14403
 
 for i in range((int)(fileLineNum / 3)):
     f.readline()
@@ -29,5 +31,6 @@ for i in range((int)(fileLineNum / 3)):
     res[uptime] = issueNum
 
 # 写json
-with open("../../out/demoOutPut/sonarRes.json", "w", encoding="utf-8") as f:
+# with open("../../out/demoOutPut/sonarRes.json", "w", encoding="utf-8") as f:
+with open("../../out/demoOutPut/sonarRes_group5.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

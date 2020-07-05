@@ -26,8 +26,10 @@ for dir_name in dir_names:
     res[up_time] = {"isLizard": 0}
 
 
-f = open("../../resource/lizardLog.txt", "r", encoding="utf-8")
-fileLineNum = 21
+# f = open("../../resource/lizardLog.txt", "r", encoding="utf-8")
+f = open("../../resource/lizardLog_group5.txt", "r", encoding="utf-8")
+# fileLineNum = 21
+fileLineNum = 4099
 
 for i in range((int)(fileLineNum)):
     s = f.readline()
@@ -51,5 +53,6 @@ for i in range((int)(fileLineNum)):
     }
 
 # 写json
-with open("../../out/demoOutPut/lizardRes.json", "w", encoding="utf-8") as f:
+# with open("../../out/demoOutPut/lizardRes.json", "w", encoding="utf-8") as f:
+with open("../../out/demoOutPut/lizardRes_group5.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)
