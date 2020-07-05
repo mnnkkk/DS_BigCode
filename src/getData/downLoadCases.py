@@ -4,7 +4,8 @@ import urllib.parse
 import urllib.request
 
 # 读json
-json_data = open('../../resource/testSample1.json', encoding='utf-8').read()
+# json_data = open('../../resource/testSample1.json', encoding='utf-8').read()
+json_data = open('../../resource/test_data1_group5.json', encoding='utf-8').read()
 data = json.loads(json_data)
 
 
@@ -21,7 +22,7 @@ for Uid in keyVector:
         for y in x["upload_records"]:
             print(y['upload_id'])
             #filename = urllib.parse.unquote(os.path.basename(y['upload_id']))
-            filename = urllib.parse.unquote('../../resource/cases/pack/'+str(y['upload_id'])+'.zip')
+            filename = urllib.parse.unquote('../../resource/cases_of_group5/pack/'+str(y['upload_id'])+'.zip')
             print(filename)
             print(y['code_url'])
             urllib.request.urlretrieve(y['code_url'], filename)
