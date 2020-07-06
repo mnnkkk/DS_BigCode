@@ -31,7 +31,10 @@ for k, v in data.items():
 res = {}
 ct = 1
 for x in curr_problem_list:
-    res[str(ct)] = x
+    for k, v in all_problem_list.items():
+        if v["name"] == x:
+            res[x] = v
+            break
     ct += 1
 
 # 写json

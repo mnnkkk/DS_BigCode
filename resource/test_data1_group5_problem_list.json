@@ -1,63 +1,368 @@
 {
-  "1": "组合总和",
-  "2": "连接词",
-  "3": "正方形数组的数目",
-  "4": "数字范围按位与",
-  "5": "访问所有点的最小时间",
-  "6": "在LR字符串中交换相邻字符",
-  "7": "情侣牵手",
-  "8": "由斜杠划分区域",
-  "9": "最大子序和",
-  "10": "交换字符串中的元素",
-  "11": "规划兼职工作",
-  "12": "最多能完成排序的块",
-  "13": "搜索二维矩阵",
-  "14": "为高尔夫比赛砍树",
-  "15": "缺失的第一个正数",
-  "16": "最小高度树",
-  "17": "不浪费原料的汉堡制作方案",
-  "18": "打砖块",
-  "19": "最短无序连续子数组",
-  "20": "只出现一次的数字",
-  "21": "逃脱阻碍者",
-  "22": "01矩阵",
-  "23": "两棵二叉搜索树中的所有元素",
-  "24": "为运算表达式设计优先级",
-  "25": "坏了的计算器",
-  "26": "重新安排行程",
-  "27": "二分查找",
-  "28": "二进制链表转整数",
-  "29": "按奇偶排序数组",
-  "30": "K站中转内最便宜的航班",
-  "31": "网格中的最短路径",
-  "32": "给表达式添加运算符",
-  "33": "移动石子直到连续",
-  "34": "4的幂",
-  "35": "最大单词长度乘积",
-  "36": "矩阵中的最长递增路径",
-  "37": "等式方程的可满足性",
-  "38": "多数元素",
-  "39": "循环码排列",
-  "40": "最长连续序列",
-  "41": "飞机座位分配概率",
-  "42": "最小时间差",
-  "43": "最大矩形",
-  "44": "二叉树的最小深度",
-  "45": "排序数组",
-  "46": "课程表",
-  "47": "最长定差子序列",
-  "48": "检查「好数组」",
-  "49": "冗余连接",
-  "50": "颜色交替的最短路径",
-  "51": "最小覆盖子串",
-  "52": "串联字符串的最大长度",
-  "53": "删除无效的括号",
-  "54": "数组中的第K个最大元素",
-  "55": "地图分析",
-  "56": "交替位二进制数",
-  "57": "最长连续递增序列",
-  "58": "相似字符串组",
-  "59": "单词接龙",
-  "60": "绝对值表达式的最大值",
-  "61": "戳气球"
+  "移动石子直到连续": {
+    "qId": 1033,
+    "name": "移动石子直到连续",
+    "leetcodePassRate": 0.376,
+    "difficulty": 1
+  },
+  "最长定差子序列": {
+    "qId": 1218,
+    "name": "最长定差子序列",
+    "leetcodePassRate": 0.379,
+    "difficulty": 2
+  },
+  "地图分析": {
+    "qId": 1162,
+    "name": "地图分析",
+    "leetcodePassRate": 0.47100000000000003,
+    "difficulty": 2
+  },
+  "交换字符串中的元素": {
+    "qId": 1202,
+    "name": "交换字符串中的元素",
+    "leetcodePassRate": 0.314,
+    "difficulty": 2
+  },
+  "最小时间差": {
+    "qId": 539,
+    "name": "最小时间差",
+    "leetcodePassRate": 0.546,
+    "difficulty": 2
+  },
+  "最大单词长度乘积": {
+    "qId": 318,
+    "name": "最大单词长度乘积",
+    "leetcodePassRate": 0.636,
+    "difficulty": 2
+  },
+  "坏了的计算器": {
+    "qId": 991,
+    "name": "坏了的计算器",
+    "leetcodePassRate": 0.504,
+    "difficulty": 2
+  },
+  "二分查找": {
+    "qId": 704,
+    "name": "二分查找",
+    "leetcodePassRate": 0.537,
+    "difficulty": 1
+  },
+  "为高尔夫比赛砍树": {
+    "qId": 675,
+    "name": "为高尔夫比赛砍树",
+    "leetcodePassRate": 0.34700000000000003,
+    "difficulty": 3
+  },
+  "最大子序和": {
+    "qId": 53,
+    "name": "最大子序和",
+    "leetcodePassRate": 0.511,
+    "difficulty": 1
+  },
+  "重新安排行程": {
+    "qId": 332,
+    "name": "重新安排行程",
+    "leetcodePassRate": 0.373,
+    "difficulty": 2
+  },
+  "最长连续递增序列": {
+    "qId": 674,
+    "name": "最长连续递增序列",
+    "leetcodePassRate": 0.452,
+    "difficulty": 1
+  },
+  "单词接龙": {
+    "qId": 127,
+    "name": "单词接龙",
+    "leetcodePassRate": 0.415,
+    "difficulty": 2
+  },
+  "正方形数组的数目": {
+    "qId": 996,
+    "name": "正方形数组的数目",
+    "leetcodePassRate": 0.45,
+    "difficulty": 3
+  },
+  "排序数组": {
+    "qId": 912,
+    "name": "排序数组",
+    "leetcodePassRate": 0.594,
+    "difficulty": 2
+  },
+  "不浪费原料的汉堡制作方案": {
+    "qId": 1276,
+    "name": "不浪费原料的汉堡制作方案",
+    "leetcodePassRate": 0.493,
+    "difficulty": 2
+  },
+  "最小覆盖子串": {
+    "qId": 76,
+    "name": "最小覆盖子串",
+    "leetcodePassRate": 0.36,
+    "difficulty": 3
+  },
+  "4的幂": {
+    "qId": 342,
+    "name": "4的幂",
+    "leetcodePassRate": 0.48700000000000004,
+    "difficulty": 1
+  },
+  "01矩阵": {
+    "qId": 542,
+    "name": "01矩阵",
+    "leetcodePassRate": 0.446,
+    "difficulty": 2
+  },
+  "最长连续序列": {
+    "qId": 128,
+    "name": "最长连续序列",
+    "leetcodePassRate": 0.49,
+    "difficulty": 3
+  },
+  "最小高度树": {
+    "qId": 310,
+    "name": "最小高度树",
+    "leetcodePassRate": 0.33799999999999997,
+    "difficulty": 2
+  },
+  "网格中的最短路径": {
+    "qId": 1293,
+    "name": "网格中的最短路径",
+    "leetcodePassRate": 0.359,
+    "difficulty": 3
+  },
+  "最短无序连续子数组": {
+    "qId": 581,
+    "name": "最短无序连续子数组",
+    "leetcodePassRate": 0.34600000000000003,
+    "difficulty": 1
+  },
+  "情侣牵手": {
+    "qId": 765,
+    "name": "情侣牵手",
+    "leetcodePassRate": 0.575,
+    "difficulty": 3
+  },
+  "由斜杠划分区域": {
+    "qId": 959,
+    "name": "由斜杠划分区域",
+    "leetcodePassRate": 0.664,
+    "difficulty": 2
+  },
+  "在LR字符串中交换相邻字符": {
+    "qId": 777,
+    "name": "在LR字符串中交换相邻字符",
+    "leetcodePassRate": 0.32,
+    "difficulty": 2
+  },
+  "给表达式添加运算符": {
+    "qId": 282,
+    "name": "给表达式添加运算符",
+    "leetcodePassRate": 0.33299999999999996,
+    "difficulty": 3
+  },
+  "K站中转内最便宜的航班": {
+    "qId": 787,
+    "name": "K站中转内最便宜的航班",
+    "leetcodePassRate": 0.349,
+    "difficulty": 2
+  },
+  "最多能完成排序的块": {
+    "qId": 769,
+    "name": "最多能完成排序的块",
+    "leetcodePassRate": 0.5529999999999999,
+    "difficulty": 2
+  },
+  "删除无效的括号": {
+    "qId": 301,
+    "name": "删除无效的括号",
+    "leetcodePassRate": 0.466,
+    "difficulty": 3
+  },
+  "最大矩形": {
+    "qId": 85,
+    "name": "最大矩形",
+    "leetcodePassRate": 0.461,
+    "difficulty": 3
+  },
+  "规划兼职工作": {
+    "qId": 1235,
+    "name": "规划兼职工作",
+    "leetcodePassRate": 0.42100000000000004,
+    "difficulty": 3
+  },
+  "缺失的第一个正数": {
+    "qId": 41,
+    "name": "缺失的第一个正数",
+    "leetcodePassRate": 0.382,
+    "difficulty": 3
+  },
+  "二进制链表转整数": {
+    "qId": 1290,
+    "name": "二进制链表转整数",
+    "leetcodePassRate": 0.8079999999999999,
+    "difficulty": 1
+  },
+  "数字范围按位与": {
+    "qId": 201,
+    "name": "数字范围按位与",
+    "leetcodePassRate": 0.449,
+    "difficulty": 2
+  },
+  "逃脱阻碍者": {
+    "qId": 789,
+    "name": "逃脱阻碍者",
+    "leetcodePassRate": 0.594,
+    "difficulty": 2
+  },
+  "按奇偶排序数组": {
+    "qId": 905,
+    "name": "按奇偶排序数组",
+    "leetcodePassRate": 0.687,
+    "difficulty": 1
+  },
+  "为运算表达式设计优先级": {
+    "qId": 241,
+    "name": "为运算表达式设计优先级",
+    "leetcodePassRate": 0.715,
+    "difficulty": 2
+  },
+  "颜色交替的最短路径": {
+    "qId": 1129,
+    "name": "颜色交替的最短路径",
+    "leetcodePassRate": 0.33899999999999997,
+    "difficulty": 2
+  },
+  "绝对值表达式的最大值": {
+    "qId": 1131,
+    "name": "绝对值表达式的最大值",
+    "leetcodePassRate": 0.41,
+    "difficulty": 2
+  },
+  "串联字符串的最大长度": {
+    "qId": 1239,
+    "name": "串联字符串的最大长度",
+    "leetcodePassRate": 0.391,
+    "difficulty": 2
+  },
+  "访问所有点的最小时间": {
+    "qId": 1266,
+    "name": "访问所有点的最小时间",
+    "leetcodePassRate": 0.8109999999999999,
+    "difficulty": 1
+  },
+  "飞机座位分配概率": {
+    "qId": 1227,
+    "name": "飞机座位分配概率",
+    "leetcodePassRate": 0.639,
+    "difficulty": 2
+  },
+  "两棵二叉搜索树中的所有元素": {
+    "qId": 1305,
+    "name": "两棵二叉搜索树中的所有元素",
+    "leetcodePassRate": 0.7390000000000001,
+    "difficulty": 2
+  },
+  "循环码排列": {
+    "qId": 1238,
+    "name": "循环码排列",
+    "leetcodePassRate": 0.61,
+    "difficulty": 2
+  },
+  "冗余连接": {
+    "qId": 684,
+    "name": "冗余连接",
+    "leetcodePassRate": 0.583,
+    "difficulty": 2
+  },
+  "相似字符串组": {
+    "qId": 839,
+    "name": "相似字符串组",
+    "leetcodePassRate": 0.331,
+    "difficulty": 3
+  },
+  "二叉树的最小深度": {
+    "qId": 111,
+    "name": "二叉树的最小深度",
+    "leetcodePassRate": 0.424,
+    "difficulty": 1
+  },
+  "课程表": {
+    "qId": 207,
+    "name": "课程表",
+    "leetcodePassRate": 0.509,
+    "difficulty": 2
+  },
+  "等式方程的可满足性": {
+    "qId": 990,
+    "name": "等式方程的可满足性",
+    "leetcodePassRate": 0.428,
+    "difficulty": 2
+  },
+  "数组中的第K个最大元素": {
+    "qId": 215,
+    "name": "数组中的第K个最大元素",
+    "leetcodePassRate": 0.623,
+    "difficulty": 2
+  },
+  "矩阵中的最长递增路径": {
+    "qId": 329,
+    "name": "矩阵中的最长递增路径",
+    "leetcodePassRate": 0.406,
+    "difficulty": 3
+  },
+  "多数元素": {
+    "qId": 169,
+    "name": "多数元素",
+    "leetcodePassRate": 0.632,
+    "difficulty": 1
+  },
+  "检查「好数组」": {
+    "qId": 1250,
+    "name": "检查「好数组」",
+    "leetcodePassRate": 0.511,
+    "difficulty": 3
+  },
+  "交替位二进制数": {
+    "qId": 693,
+    "name": "交替位二进制数",
+    "leetcodePassRate": 0.604,
+    "difficulty": 1
+  },
+  "只出现一次的数字": {
+    "qId": 136,
+    "name": "只出现一次的数字",
+    "leetcodePassRate": 0.685,
+    "difficulty": 1
+  },
+  "连接词": {
+    "qId": 472,
+    "name": "连接词",
+    "leetcodePassRate": 0.442,
+    "difficulty": 3
+  },
+  "搜索二维矩阵": {
+    "qId": 74,
+    "name": "搜索二维矩阵",
+    "leetcodePassRate": 0.37799999999999995,
+    "difficulty": 2
+  },
+  "组合总和": {
+    "qId": 39,
+    "name": "组合总和",
+    "leetcodePassRate": 0.6890000000000001,
+    "difficulty": 2
+  },
+  "戳气球": {
+    "qId": 312,
+    "name": "戳气球",
+    "leetcodePassRate": 0.597,
+    "difficulty": 3
+  },
+  "打砖块": {
+    "qId": 803,
+    "name": "打砖块",
+    "leetcodePassRate": 0.25,
+    "difficulty": 3
+  }
 }
