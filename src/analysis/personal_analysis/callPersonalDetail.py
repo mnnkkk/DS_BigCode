@@ -74,6 +74,7 @@ for Uid in keyVector:
 
             sub_upload = {
                 "upload_time": record["upload_time"],
+                "time_cost": timecost_list[Uid]["cases"][curr_case["upload_time"]-1]["timeCost"],
                 "score": record["score"],
                 "CNN": record_CNN,
                 "sonar_issue_num": record_sonar_issue_num
