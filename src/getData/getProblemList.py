@@ -20,6 +20,8 @@ data = json.loads(json_data)
 json_data = open('../../out/demoOutPut/leetcodeDifficulty.json', encoding='utf-8').read()
 all_problem_list = json.loads(json_data)
 
+case_type_map = {}
+
 # 遍历data
 curr_problem_list = set([])
 for k, v in data.items():
@@ -27,6 +29,7 @@ for k, v in data.items():
         problem_name = get_problem_name(case["case_zip"])
         # print(problem_name)
         curr_problem_list.add(problem_name)
+        case_type_map[problem_name] = case["case_type"]
 
 res = {}
 ct = 1
@@ -34,6 +37,7 @@ for x in curr_problem_list:
     for k, v in all_problem_list.items():
         if v["name"] == x:
             res[x] = v
+            res[x]["case_type"] = case_type_map[v["name"]]
             break
     ct += 1
 
