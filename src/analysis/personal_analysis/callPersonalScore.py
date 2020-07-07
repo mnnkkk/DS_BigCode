@@ -57,6 +57,7 @@ for Uid in keyVector:
         up_times = case["upload_time"]
         sub_case = {
             "problem_name": problem_name,
+            "case_type": case["case_type"],
             "difficulty": difficulty
         }
 
