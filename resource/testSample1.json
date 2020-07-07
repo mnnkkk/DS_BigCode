@@ -3,50 +3,6 @@
         "user_id": 3544,
         "cases": [
             {
-                "case_id": "2908",
-                "case_type": "字符串",
-                "case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/单词分类_1581144899702.zip",
-                "final_score": 40,
-                "upload_records": [
-                    {
-                        "upload_id": 236494,
-                        "upload_time": 1582023290656,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4238/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582023289869.zip",
-                        "score": 40.0
-                    },
-                    {
-                        "upload_id": 252563,
-                        "upload_time": 1582557830339,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4249/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582557829552.zip",
-                        "score": 0.0
-                    },
-                    {
-                        "upload_id": 252565,
-                        "upload_time": 1582557836610,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4249/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582557835991.zip",
-                        "score": 0.0
-                    },
-                    {
-                        "upload_id": 252576,
-                        "upload_time": 1582558130645,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4249/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582558130012.zip",
-                        "score": 0.0
-                    },
-                    {
-                        "upload_id": 252577,
-                        "upload_time": 1582558139684,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4249/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582558139071.zip",
-                        "score": 0.0
-                    },
-                    {
-                        "upload_id": 252578,
-                        "upload_time": 1582558144348,
-                        "code_url": "http://mooctest-dev.oss-cn-shanghai.aliyuncs.com/data/answers/4249/3544/%E5%8D%95%E8%AF%8D%E5%88%86%E7%B1%BB_1582558143538.zip",
-                        "score": 0.0
-                    }
-                ]
-            },
-            {
                 "case_id": "2172",
                 "case_type": "线性表",
                 "case_zip": "http://mooctest-site.oss-cn-shanghai.aliyuncs.com/target/后缀转中缀_1578227554409.zip",
