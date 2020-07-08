@@ -55,10 +55,15 @@ for Uid in keyVector:
         score = float(case["final_score"])
         final_score = case["final_score"]
         up_times = case["upload_time"]
+        pass_times = 0
+        for upload in case["uploads"]:
+            if upload["score"] == 100.0:
+                pass_times += 1
         sub_case = {
             "problem_name": problem_name,
             "case_type": case["case_type"],
-            "difficulty": difficulty
+            "difficulty": difficulty,
+            "pass_rate": int(100 * pass_times / max(1, up_times)) / 100
         }
 
         score *= difficulty
