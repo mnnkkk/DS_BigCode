@@ -1,0 +1,30 @@
+[
+      {
+            "item": "Design",
+            "a": 70
+      },
+      {
+            "item": "Development",
+            "a": 60
+      },
+      {
+            "item": "Marketing",
+            "a": 50
+      },
+      {
+            "item": "Users",
+            "a": 40
+      },
+      {
+            "item": "Test",
+            "a": 60
+      },
+      {
+            "item": "Language",
+            "a": 70
+      },
+      {
+            "item": "Technology",
+            "a": 50
+      }
+]
