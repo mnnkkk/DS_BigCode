@@ -30,4 +30,3 @@ for case in personal_score[key]["cases"]:
 # 写json
 with open('data3.json', "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)
-
