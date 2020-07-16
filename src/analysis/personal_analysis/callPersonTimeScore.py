@@ -10,14 +10,14 @@ personal_details = json.loads(json_data)
 json_data = open("../../../resource/test_data1_group5_problem_list.json", encoding="utf-8").read()
 problem_list = json.loads(json_data)
 
-
 # 遍历data
 keyVector = []
 for k, v in personal_details.items():
     keyVector.append(k)
 
+
 # 获得某个时间点前的描述
-def gerScoresBefore(timeLine:int):
+def get_scores_before(timeLine: int):
     ans = {}
     for Uid in keyVector:
         resOfCurrU = {
@@ -34,7 +34,6 @@ def gerScoresBefore(timeLine:int):
             "hard_average_score": 0,
             "medium_average_score": 0,
             "easy_average_score": 0,
-            "cases": []
         }
         all_ct = 0
         easy_ct = 0
@@ -59,19 +58,12 @@ def gerScoresBefore(timeLine:int):
             for upload in case["uploads"]:
                 if upload["score"] == 100.0:
                     pass_times += 1
-            sub_case = {
-                "problem_name": problem_name,
-                "case_type": case["case_type"],
-                "difficulty": difficulty,
-                "pass_rate": int(100 * pass_times / max(1, up_times)) / 100
-            }
 
             score *= difficulty
             score *= max(1, 16 - case["upload_time"]) / 15
             score *= max(1, 40 - case["sonar_issue_num"]) / 40
             score *= max(1, 20 - case["CNN"]) / 20
             score = int(score)
-            sub_case["score"] = score
 
             resOfCurrU["overall_sum_score"] += score
             all_ct += 1
@@ -97,22 +89,26 @@ def gerScoresBefore(timeLine:int):
                 if final_score == 100:
                     hard_pass += 1
             resOfCurrU["overall_average_score"] = int(resOfCurrU["overall_sum_score"] / max(1, all_ct))
-            resOfCurrU["easy_average_score"] = int(resOfCurrU["easy_sum_score"] /  max(1, easy_ct))
-            resOfCurrU["medium_average_score"] = int(resOfCurrU["medium_sum_score"] /  max(1, medium_ct))
-            resOfCurrU["hard_average_score"] = int(resOfCurrU["hard_sum_score"] /  max(1, hard_ct))
-            resOfCurrU["overall_pass_rate"] = int(100* all_pass / max(1, all_ct)) / 100
-            resOfCurrU["easy_pass_rate"] = int(100* easy_pass / max(1, easy_ct)) / 100
-            resOfCurrU["medium_pass_rate"] = int(100* medium_pass / max(1, medium_ct)) / 100
-            resOfCurrU["hard_pass_rate"] = int(100* hard_pass / max(1, hard_ct)) / 100
-            resOfCurrU["cases"].append(sub_case)
+            resOfCurrU["easy_average_score"] = int(resOfCurrU["easy_sum_score"] / max(1, easy_ct))
+            resOfCurrU["medium_average_score"] = int(resOfCurrU["medium_sum_score"] / max(1, medium_ct))
+            resOfCurrU["hard_average_score"] = int(resOfCurrU["hard_sum_score"] / max(1, hard_ct))
+            resOfCurrU["overall_pass_rate"] = int(100 * all_pass / max(1, all_ct)) / 100
+            resOfCurrU["easy_pass_rate"] = int(100 * easy_pass / max(1, easy_ct)) / 100
+            resOfCurrU["medium_pass_rate"] = int(100 * medium_pass / max(1, medium_ct)) / 100
+            resOfCurrU["hard_pass_rate"] = int(100 * hard_pass / max(1, hard_ct)) / 100
 
         ans[Uid] = resOfCurrU
-        return ans
+    return ans
+
 
 res = {}
-
-
+ct = 0
+time_line = 1581955199999  # 2020-02-17 23:59:59 ms
+while time_line <= 1585670399999:  # 2020-03-31 23:59:59
+    ct += 1
+    res[ct] = get_scores_before(time_line)
+    time_line += 86400000
 
 # 写json
-with open("../../../out/analysisOutPut/personal/personal_time_score", "w", encoding="utf-8") as f:
+with open("../../../out/analysisOutPut/personal/personal_time_score.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)
