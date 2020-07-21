@@ -1,167 +1,302 @@
 [
     {
-        "month": "0.0",
-        "city": "easy",
-        "temperature": 0
+        "pass_rate": "0.0",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.1",
-        "city": "easy",
-        "temperature": 0
+        "pass_rate": "0.05",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.2",
-        "city": "easy",
-        "temperature": 1
+        "pass_rate": "0.1",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.3",
-        "city": "easy",
-        "temperature": 14
+        "pass_rate": "0.15",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.4",
-        "city": "easy",
-        "temperature": 54
+        "pass_rate": "0.2",
+        "difficulty": "easy",
+        "ct": 1
     },
     {
-        "month": "0.5",
-        "city": "easy",
-        "temperature": 94
+        "pass_rate": "0.25",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.6",
-        "city": "easy",
-        "temperature": 76
+        "pass_rate": "0.3",
+        "difficulty": "easy",
+        "ct": 4
     },
     {
-        "month": "0.7",
-        "city": "easy",
-        "temperature": 84
+        "pass_rate": "0.35",
+        "difficulty": "easy",
+        "ct": 18
     },
     {
-        "month": "0.8",
-        "city": "easy",
-        "temperature": 29
+        "pass_rate": "0.4",
+        "difficulty": "easy",
+        "ct": 30
     },
     {
-        "month": "0.9",
-        "city": "easy",
-        "temperature": 1
+        "pass_rate": "0.45",
+        "difficulty": "easy",
+        "ct": 32
     },
     {
-        "month": "1.0",
-        "city": "easy",
-        "temperature": 0
+        "pass_rate": "0.5",
+        "difficulty": "easy",
+        "ct": 51
     },
     {
-        "month": "0.0",
-        "city": "medium",
-        "temperature": 0
+        "pass_rate": "0.55",
+        "difficulty": "easy",
+        "ct": 42
     },
     {
-        "month": "0.1",
-        "city": "medium",
-        "temperature": 0
+        "pass_rate": "0.6",
+        "difficulty": "easy",
+        "ct": 39
     },
     {
-        "month": "0.2",
-        "city": "medium",
-        "temperature": 11
+        "pass_rate": "0.65",
+        "difficulty": "easy",
+        "ct": 50
     },
     {
-        "month": "0.3",
-        "city": "medium",
-        "temperature": 69
+        "pass_rate": "0.7",
+        "difficulty": "easy",
+        "ct": 42
     },
     {
-        "month": "0.4",
-        "city": "medium",
-        "temperature": 193
+        "pass_rate": "0.75",
+        "difficulty": "easy",
+        "ct": 25
     },
     {
-        "month": "0.5",
-        "city": "medium",
-        "temperature": 168
+        "pass_rate": "0.8",
+        "difficulty": "easy",
+        "ct": 15
     },
     {
-        "month": "0.6",
-        "city": "medium",
-        "temperature": 141
+        "pass_rate": "0.85",
+        "difficulty": "easy",
+        "ct": 4
     },
     {
-        "month": "0.7",
-        "city": "medium",
-        "temperature": 82
+        "pass_rate": "0.9",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.8",
-        "city": "medium",
-        "temperature": 18
+        "pass_rate": "0.95",
+        "difficulty": "easy",
+        "ct": 0
     },
     {
-        "month": "0.9",
-        "city": "medium",
-        "temperature": 1
+        "pass_rate": "0.0",
+        "difficulty": "medium",
+        "ct": 0
     },
     {
-        "month": "1.0",
-        "city": "medium",
-        "temperature": 0
+        "pass_rate": "0.05",
+        "difficulty": "medium",
+        "ct": 0
     },
     {
-        "month": "0.0",
-        "city": "hard",
-        "temperature": 0
+        "pass_rate": "0.1",
+        "difficulty": "medium",
+        "ct": 0
     },
     {
-        "month": "0.1",
-        "city": "hard",
-        "temperature": 1
+        "pass_rate": "0.15",
+        "difficulty": "medium",
+        "ct": 0
     },
     {
-        "month": "0.2",
-        "city": "hard",
-        "temperature": 9
+        "pass_rate": "0.2",
+        "difficulty": "medium",
+        "ct": 7
     },
     {
-        "month": "0.3",
-        "city": "hard",
-        "temperature": 79
+        "pass_rate": "0.25",
+        "difficulty": "medium",
+        "ct": 16
     },
     {
-        "month": "0.4",
-        "city": "hard",
-        "temperature": 93
+        "pass_rate": "0.3",
+        "difficulty": "medium",
+        "ct": 32
     },
     {
-        "month": "0.5",
-        "city": "hard",
-        "temperature": 60
+        "pass_rate": "0.35",
+        "difficulty": "medium",
+        "ct": 62
     },
     {
-        "month": "0.6",
-        "city": "hard",
-        "temperature": 34
+        "pass_rate": "0.4",
+        "difficulty": "medium",
+        "ct": 99
     },
     {
-        "month": "0.7",
-        "city": "hard",
-        "temperature": 8
+        "pass_rate": "0.45",
+        "difficulty": "medium",
+        "ct": 99
     },
     {
-        "month": "0.8",
-        "city": "hard",
-        "temperature": 1
+        "pass_rate": "0.5",
+        "difficulty": "medium",
+        "ct": 94
     },
     {
-        "month": "0.9",
-        "city": "hard",
-        "temperature": 0
+        "pass_rate": "0.55",
+        "difficulty": "medium",
+        "ct": 75
     },
     {
-        "month": "1.0",
-        "city": "hard",
-        "temperature": 0
+        "pass_rate": "0.6",
+        "difficulty": "medium",
+        "ct": 67
+    },
+    {
+        "pass_rate": "0.65",
+        "difficulty": "medium",
+        "ct": 56
+    },
+    {
+        "pass_rate": "0.7",
+        "difficulty": "medium",
+        "ct": 39
+    },
+    {
+        "pass_rate": "0.75",
+        "difficulty": "medium",
+        "ct": 26
+    },
+    {
+        "pass_rate": "0.8",
+        "difficulty": "medium",
+        "ct": 9
+    },
+    {
+        "pass_rate": "0.85",
+        "difficulty": "medium",
+        "ct": 1
+    },
+    {
+        "pass_rate": "0.9",
+        "difficulty": "medium",
+        "ct": 1
+    },
+    {
+        "pass_rate": "0.95",
+        "difficulty": "medium",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.0",
+        "difficulty": "hard",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.05",
+        "difficulty": "hard",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.1",
+        "difficulty": "hard",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.15",
+        "difficulty": "hard",
+        "ct": 3
+    },
+    {
+        "pass_rate": "0.2",
+        "difficulty": "hard",
+        "ct": 3
+    },
+    {
+        "pass_rate": "0.25",
+        "difficulty": "hard",
+        "ct": 14
+    },
+    {
+        "pass_rate": "0.3",
+        "difficulty": "hard",
+        "ct": 42
+    },
+    {
+        "pass_rate": "0.35",
+        "difficulty": "hard",
+        "ct": 48
+    },
+    {
+        "pass_rate": "0.4",
+        "difficulty": "hard",
+        "ct": 54
+    },
+    {
+        "pass_rate": "0.45",
+        "difficulty": "hard",
+        "ct": 39
+    },
+    {
+        "pass_rate": "0.5",
+        "difficulty": "hard",
+        "ct": 26
+    },
+    {
+        "pass_rate": "0.55",
+        "difficulty": "hard",
+        "ct": 28
+    },
+    {
+        "pass_rate": "0.6",
+        "difficulty": "hard",
+        "ct": 17
+    },
+    {
+        "pass_rate": "0.65",
+        "difficulty": "hard",
+        "ct": 5
+    },
+    {
+        "pass_rate": "0.7",
+        "difficulty": "hard",
+        "ct": 4
+    },
+    {
+        "pass_rate": "0.75",
+        "difficulty": "hard",
+        "ct": 1
+    },
+    {
+        "pass_rate": "0.8",
+        "difficulty": "hard",
+        "ct": 1
+    },
+    {
+        "pass_rate": "0.85",
+        "difficulty": "hard",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.9",
+        "difficulty": "hard",
+        "ct": 0
+    },
+    {
+        "pass_rate": "0.95",
+        "difficulty": "hard",
+        "ct": 0
     }
 ]

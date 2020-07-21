@@ -20,12 +20,12 @@ pass_rate_ct = {
 t = 0
 while t <= 1.0:
     for d in ["easy", "medium", "hard"]:
-        pass_rate_ct[d][str(int(t * 10 + 0.5) / 10)] = 0 # random.randint(0,9)
-    t += 0.1
+        pass_rate_ct[d][str(int(t * 20 + 0.5) / 20)] = 0 # random.randint(0,9)
+    t += 0.05
 
 for k, v in difficultys.items():
     t = v["leetcodePassRate"]
-    pass_rate_ct[d_dic[v["difficulty"]]][str(int(t * 10 + 0.5) / 10)] += 1
+    pass_rate_ct[d_dic[v["difficulty"]]][str(int(t * 20 + 0.5) / 20)] += 1
 
 
 
@@ -33,9 +33,9 @@ res = []
 for d in ["easy", "medium", "hard"]:
     for k, v in pass_rate_ct[d].items():
         res.append({
-            "month": k,
-            "city": d,
-            "temperature": v
+            "pass_rate": k,
+            "difficulty": d,
+            "ct": v
         })
 
 

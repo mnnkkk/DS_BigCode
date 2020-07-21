@@ -7,10 +7,10 @@ $.get('./data.json', function (data) {
 
     chart.data(data);
     chart.scale({
-        month: {
+        pass_rate: {
             range: [0, 1],
         },
-        temperature: {
+        ct: {
             nice: true,
         },
     });
@@ -20,24 +20,24 @@ $.get('./data.json', function (data) {
         shared: true,
     });
 
-    chart.axis('temperature', {
+    chart.axis('ct', {
         label: {
             formatter: (val) => {
-                return val + ' °C';
+                return val;
             },
         },
     });
 
     chart
         .line()
-        .position('month*temperature')
-        .color('city')
+        .position('pass_rate*ct')
+        .color('difficulty')
         .shape('smooth');
 
     chart
         .point()
-        .position('month*temperature')
-        .color('city')
+        .position('pass_rate*ct')
+        .color('difficulty')
         .shape('circle');
 
     chart.render();
