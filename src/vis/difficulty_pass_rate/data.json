@@ -1,0 +1,167 @@
+[
+    {
+        "month": "0.0",
+        "city": "easy",
+        "temperature": 0
+    },
+    {
+        "month": "0.1",
+        "city": "easy",
+        "temperature": 0
+    },
+    {
+        "month": "0.2",
+        "city": "easy",
+        "temperature": 1
+    },
+    {
+        "month": "0.3",
+        "city": "easy",
+        "temperature": 14
+    },
+    {
+        "month": "0.4",
+        "city": "easy",
+        "temperature": 54
+    },
+    {
+        "month": "0.5",
+        "city": "easy",
+        "temperature": 94
+    },
+    {
+        "month": "0.6",
+        "city": "easy",
+        "temperature": 76
+    },
+    {
+        "month": "0.7",
+        "city": "easy",
+        "temperature": 84
+    },
+    {
+        "month": "0.8",
+        "city": "easy",
+        "temperature": 29
+    },
+    {
+        "month": "0.9",
+        "city": "easy",
+        "temperature": 1
+    },
+    {
+        "month": "1.0",
+        "city": "easy",
+        "temperature": 0
+    },
+    {
+        "month": "0.0",
+        "city": "medium",
+        "temperature": 0
+    },
+    {
+        "month": "0.1",
+        "city": "medium",
+        "temperature": 0
+    },
+    {
+        "month": "0.2",
+        "city": "medium",
+        "temperature": 11
+    },
+    {
+        "month": "0.3",
+        "city": "medium",
+        "temperature": 69
+    },
+    {
+        "month": "0.4",
+        "city": "medium",
+        "temperature": 193
+    },
+    {
+        "month": "0.5",
+        "city": "medium",
+        "temperature": 168
+    },
+    {
+        "month": "0.6",
+        "city": "medium",
+        "temperature": 141
+    },
+    {
+        "month": "0.7",
+        "city": "medium",
+        "temperature": 82
+    },
+    {
+        "month": "0.8",
+        "city": "medium",
+        "temperature": 18
+    },
+    {
+        "month": "0.9",
+        "city": "medium",
+        "temperature": 1
+    },
+    {
+        "month": "1.0",
+        "city": "medium",
+        "temperature": 0
+    },
+    {
+        "month": "0.0",
+        "city": "hard",
+        "temperature": 0
+    },
+    {
+        "month": "0.1",
+        "city": "hard",
+        "temperature": 1
+    },
+    {
+        "month": "0.2",
+        "city": "hard",
+        "temperature": 9
+    },
+    {
+        "month": "0.3",
+        "city": "hard",
+        "temperature": 79
+    },
+    {
+        "month": "0.4",
+        "city": "hard",
+        "temperature": 93
+    },
+    {
+        "month": "0.5",
+        "city": "hard",
+        "temperature": 60
+    },
+    {
+        "month": "0.6",
+        "city": "hard",
+        "temperature": 34
+    },
+    {
+        "month": "0.7",
+        "city": "hard",
+        "temperature": 8
+    },
+    {
+        "month": "0.8",
+        "city": "hard",
+        "temperature": 1
+    },
+    {
+        "month": "0.9",
+        "city": "hard",
+        "temperature": 0
+    },
+    {
+        "month": "1.0",
+        "city": "hard",
+        "temperature": 0
+    }
+]
