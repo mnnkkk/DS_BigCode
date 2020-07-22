@@ -48,12 +48,16 @@ for Uid in keyVector:
         timeCost = 0
         baseTime = get_base_time(case["case_zip"])
 
+        lastUpTime = 0
+
         for upload in case["upload_records"]:
             tryTimes += 1
+            currUpTime = case["upload_time"]
             if tryTimes == 0:
                 timeCost += baseTime
             else:
-                timeCost += timeUnit
+                timeCost += min(timeUnit, currUpTime - lastUpTime)
+            lastUpTime = currUpTime
 
         t = {"caseId": case["case_id"], "tryTimes": tryTimes, "timeCost": timeCost}
         resOfCurrU["cases"].append(t)
