@@ -31,37 +31,37 @@ def get_base_time(problem_name: str) ->int:
             break
     return diff * 15 *60 *1000
 
-timeUnit = 10 * 60 * 1000
+time_unit = 10 * 60 * 1000
 
 # 遍历data
-keyVector = []
+key_vector = []
 for k, v in data.items():
-    keyVector.append(k)
+    key_vector.append(k)
 
 # 遍历并计算时长
 res = {}
-for Uid in keyVector:
-    resOfCurrU = {"uId": Uid, "cases": []}
+for uid in key_vector:
+    res_of_curr_u = {"uId": uid, "cases": []}
 
-    for case in data[Uid]["cases"]:
-        tryTimes = 0
-        timeCost = 0
-        baseTime = get_base_time(case["case_zip"])
+    for case in data[uid]["cases"]:
+        try_times = 0
+        time_cost = 0
+        base_time = get_base_time(case["case_zip"])
 
-        lastUpTime = 0
+        last_up_time = 0
 
         for upload in case["upload_records"]:
-            tryTimes += 1
-            currUpTime = case["upload_time"]
-            if tryTimes == 0:
-                timeCost += baseTime
+            try_times += 1
+            curr_up_time = case["upload_time"]
+            if try_times == 0:
+                time_cost += base_time
             else:
-                timeCost += min(timeUnit, currUpTime - lastUpTime)
-            lastUpTime = currUpTime
+                time_cost += min(time_unit, curr_up_time - last_up_time)
+            last_up_time = curr_up_time
 
-        t = {"caseId": case["case_id"], "tryTimes": tryTimes, "timeCost": timeCost}
-        resOfCurrU["cases"].append(t)
-        res[Uid] = resOfCurrU
+        t = {"caseId": case["case_id"], "tryTimes": try_times, "timeCost": time_cost}
+        res_of_curr_u["cases"].append(t)
+        res[uid] = res_of_curr_u
 
 
 # 写json

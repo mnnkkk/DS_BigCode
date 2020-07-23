@@ -29,9 +29,9 @@ for dir_name in dir_names:
 # f = open("../../resource/lizardLog.txt", "r", encoding="utf-8")
 f = open("../../resource/lizardLog_group5.txt", "r", encoding="utf-8")
 # fileLineNum = 21
-fileLineNum = 4099
+file_line_num = 4099
 
-for i in range((int)(fileLineNum)):
+for i in range((int)(file_line_num)):
     s = f.readline()
     if not s.startswith(" "):
         continue

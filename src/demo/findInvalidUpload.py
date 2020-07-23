@@ -1,5 +1,5 @@
 '''
-面向用例："条件判断+print">=5
+面向用例："条件判断+print"结构数量>=5
 '''
 import json
 import os

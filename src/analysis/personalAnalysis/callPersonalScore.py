@@ -1,5 +1,5 @@
 '''
-获得个人能力详情
+获得个人分数详情
 '''
 
 import json
@@ -13,15 +13,15 @@ problem_list = json.loads(json_data)
 
 
 # 遍历data
-keyVector = []
+key_vector = []
 for k, v in personal_details.items():
-    keyVector.append(k)
+    key_vector.append(k)
 
 # 整理信息
 res = {}
-for Uid in keyVector:
-    resOfCurrU = {
-        "uId": Uid,
+for uid in key_vector:
+    res_of_curr_u = {
+        "uId": uid,
         "overall_pass_rate": 0,
         "hard_pass_rate": 0,
         "medium_pass_rate": 0,
@@ -49,7 +49,7 @@ for Uid in keyVector:
     medium_pass = 0
     hard_pass = 0
 
-    for case in personal_details[Uid]["cases"]:
+    for case in personal_details[uid]["cases"]:
         problem_name = case["problem_name"]
         difficulty = problem_list[problem_name]["difficulty"]
         score = float(case["final_score"])
@@ -73,40 +73,40 @@ for Uid in keyVector:
         score = int(score)
         sub_case["score"] = score
 
-        resOfCurrU["overall_sum_score"] += score
+        res_of_curr_u["overall_sum_score"] += score
         all_ct += 1
         all_up_time += up_times
         if final_score == 100:
             all_pass += 1
         if difficulty == 1:
-            resOfCurrU["easy_sum_score"] += score
+            res_of_curr_u["easy_sum_score"] += score
             easy_ct += 1
             easy_up_time += up_times
             if final_score == 100:
                 easy_pass += 1
         elif difficulty == 2:
-            resOfCurrU["medium_sum_score"] += score
+            res_of_curr_u["medium_sum_score"] += score
             medium_ct += 1
             medium_up_time += 1
             if final_score == 100:
                 medium_pass += 1
         else:
-            resOfCurrU["hard_sum_score"] += score
+            res_of_curr_u["hard_sum_score"] += score
             hard_ct += 1
             hard_up_time += 1
             if final_score == 100:
                 hard_pass += 1
-        resOfCurrU["overall_average_score"] = int(resOfCurrU["overall_sum_score"] / max(1, all_ct))
-        resOfCurrU["easy_average_score"] = int(resOfCurrU["easy_sum_score"] /  max(1, easy_ct))
-        resOfCurrU["medium_average_score"] = int(resOfCurrU["medium_sum_score"] /  max(1, medium_ct))
-        resOfCurrU["hard_average_score"] = int(resOfCurrU["hard_sum_score"] /  max(1, hard_ct))
-        resOfCurrU["overall_pass_rate"] = int(100* all_pass / max(1, all_ct)) / 100
-        resOfCurrU["easy_pass_rate"] = int(100* easy_pass / max(1, easy_ct)) / 100
-        resOfCurrU["medium_pass_rate"] = int(100* medium_pass / max(1, medium_ct)) / 100
-        resOfCurrU["hard_pass_rate"] = int(100* hard_pass / max(1, hard_ct)) / 100
-        resOfCurrU["cases"].append(sub_case)
+        res_of_curr_u["overall_average_score"] = int(res_of_curr_u["overall_sum_score"] / max(1, all_ct))
+        res_of_curr_u["easy_average_score"] = int(res_of_curr_u["easy_sum_score"] / max(1, easy_ct))
+        res_of_curr_u["medium_average_score"] = int(res_of_curr_u["medium_sum_score"] / max(1, medium_ct))
+        res_of_curr_u["hard_average_score"] = int(res_of_curr_u["hard_sum_score"] / max(1, hard_ct))
+        res_of_curr_u["overall_pass_rate"] = int(100 * all_pass / max(1, all_ct)) / 100
+        res_of_curr_u["easy_pass_rate"] = int(100 * easy_pass / max(1, easy_ct)) / 100
+        res_of_curr_u["medium_pass_rate"] = int(100 * medium_pass / max(1, medium_ct)) / 100
+        res_of_curr_u["hard_pass_rate"] = int(100 * hard_pass / max(1, hard_ct)) / 100
+        res_of_curr_u["cases"].append(sub_case)
 
-    res[Uid] = resOfCurrU
+    res[uid] = res_of_curr_u
 
 # 写json
 with open("../../../out/analysisOutPut/personal/personal_score.json", "w", encoding="utf-8") as f:

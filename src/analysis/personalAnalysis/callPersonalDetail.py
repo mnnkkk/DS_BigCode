@@ -19,22 +19,22 @@ timecost_list = json.loads(json_data)
 
 
 # 遍历data
-keyVector = []
+key_vector = []
 for k, v in raw_info.items():
-    keyVector.append(k)
+    key_vector.append(k)
 
 # 整理信息
 res = {}
-for Uid in keyVector:
-    resOfCurrU = {
-        "uId": Uid,
+for uid in key_vector:
+    res_of_curr_u = {
+        "uId": uid,
         "problem_solved_num": 0,
         "cases": []
     }
 
-    for case in raw_info[Uid]["cases"]:
+    for case in raw_info[uid]["cases"]:
         if case["final_score"] == 100:
-            resOfCurrU["problem_solved_num"] += 1
+            res_of_curr_u["problem_solved_num"] += 1
         problem_name = case["case_zip"]
         index_of_ = len(problem_name) - 1
         while problem_name[index_of_] != '_':
@@ -74,7 +74,7 @@ for Uid in keyVector:
 
             sub_upload = {
                 "upload_time": record["upload_time"],
-                "time_cost": timecost_list[Uid]["cases"][curr_case["upload_time"]-1]["timeCost"],
+                "time_cost": timecost_list[uid]["cases"][curr_case["upload_time"] - 1]["timeCost"],
                 "score": record["score"],
                 "CNN": record_CNN,
                 "sonar_issue_num": record_sonar_issue_num
@@ -84,9 +84,9 @@ for Uid in keyVector:
             curr_case["sonar_issue_num"] += record_sonar_issue_num
 
 
-        resOfCurrU["cases"].append(curr_case)
+        res_of_curr_u["cases"].append(curr_case)
 
-    res[Uid] = resOfCurrU
+    res[uid] = res_of_curr_u
 
 # 写json
 with open("../../../out/analysisOutPut/personal/personal_detail.json", "w", encoding="utf-8") as f:

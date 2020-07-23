@@ -1,5 +1,5 @@
 '''
-获得个人能力详情
+获得个人（分数 *时间）详情
 '''
 
 import json
@@ -21,22 +21,22 @@ json_data = open("../../../resource/test_data1_group5_problem_list.json", encodi
 problem_list = json.loads(json_data)
 
 # 遍历data
-keyVector = []
+key_vector = []
 for k, v in raw_info.items():
-    keyVector.append(k)
+    key_vector.append(k)
 
 
 # 获得某个时间点前的描述
 def get_detail_before(time_line: int):
     ans = {}
-    for Uid in keyVector:
-        resOfCurrU = {
-            "uId": Uid,
+    for uid in key_vector:
+        res_of_curr_u = {
+            "uId": uid,
             "problem_solved_num": 0,
             "cases": []
         }
 
-        for case in raw_info[Uid]["cases"]:
+        for case in raw_info[uid]["cases"]:
             final_score = 0
             vaild_upload = 0
             for record in case["upload_records"]:
@@ -47,7 +47,7 @@ def get_detail_before(time_line: int):
                 continue
 
             if final_score == 100:
-                resOfCurrU["problem_solved_num"] += 1
+                res_of_curr_u["problem_solved_num"] += 1
 
             problem_name = case["case_zip"]
             index_of_ = len(problem_name) - 1
@@ -91,7 +91,7 @@ def get_detail_before(time_line: int):
 
                 sub_upload = {
                     "upload_time": record["upload_time"],
-                    "time_cost": timecost_list[Uid]["cases"][curr_case["upload_time"] - 1]["timeCost"],
+                    "time_cost": timecost_list[uid]["cases"][curr_case["upload_time"] - 1]["timeCost"],
                     "score": record["score"],
                     "CNN": record_CNN,
                     "sonar_issue_num": record_sonar_issue_num
@@ -100,18 +100,18 @@ def get_detail_before(time_line: int):
                 curr_case["CNN"] = record_CNN
                 curr_case["sonar_issue_num"] += record_sonar_issue_num
 
-            resOfCurrU["cases"].append(curr_case)
+            res_of_curr_u["cases"].append(curr_case)
 
-        ans[Uid] = resOfCurrU
+        ans[uid] = res_of_curr_u
     return ans
 
 
 # 获得分数
 def get_scores_before(personal_details):
     ans = {}
-    for Uid in keyVector:
-        resOfCurrU = {
-            "uId": Uid,
+    for uid in key_vector:
+        res_of_curr_u = {
+            "uId": uid,
             "overall_pass_rate": 0,
             "hard_pass_rate": 0,
             "medium_pass_rate": 0,
@@ -138,7 +138,7 @@ def get_scores_before(personal_details):
         medium_pass = 0
         hard_pass = 0
 
-        for case in personal_details[Uid]["cases"]:
+        for case in personal_details[uid]["cases"]:
             problem_name = case["problem_name"]
             difficulty = problem_list[problem_name]["difficulty"]
             score = float(case["final_score"])
@@ -155,39 +155,39 @@ def get_scores_before(personal_details):
             score *= max(1, 20 - case["CNN"]) / 20
             score = int(score)
 
-            resOfCurrU["overall_sum_score"] += score
+            res_of_curr_u["overall_sum_score"] += score
             all_ct += 1
             all_up_time += up_times
             if final_score == 100:
                 all_pass += 1
             if difficulty == 1:
-                resOfCurrU["easy_sum_score"] += score
+                res_of_curr_u["easy_sum_score"] += score
                 easy_ct += 1
                 easy_up_time += up_times
                 if final_score == 100:
                     easy_pass += 1
             elif difficulty == 2:
-                resOfCurrU["medium_sum_score"] += score
+                res_of_curr_u["medium_sum_score"] += score
                 medium_ct += 1
                 medium_up_time += 1
                 if final_score == 100:
                     medium_pass += 1
             else:
-                resOfCurrU["hard_sum_score"] += score
+                res_of_curr_u["hard_sum_score"] += score
                 hard_ct += 1
                 hard_up_time += 1
                 if final_score == 100:
                     hard_pass += 1
-            resOfCurrU["overall_average_score"] = int(resOfCurrU["overall_sum_score"] / max(1, all_ct))
-            resOfCurrU["easy_average_score"] = int(resOfCurrU["easy_sum_score"] / max(1, easy_ct))
-            resOfCurrU["medium_average_score"] = int(resOfCurrU["medium_sum_score"] / max(1, medium_ct))
-            resOfCurrU["hard_average_score"] = int(resOfCurrU["hard_sum_score"] / max(1, hard_ct))
-            resOfCurrU["overall_pass_rate"] = int(100 * all_pass / max(1, all_ct)) / 100
-            resOfCurrU["easy_pass_rate"] = int(100 * easy_pass / max(1, easy_ct)) / 100
-            resOfCurrU["medium_pass_rate"] = int(100 * medium_pass / max(1, medium_ct)) / 100
-            resOfCurrU["hard_pass_rate"] = int(100 * hard_pass / max(1, hard_ct)) / 100
+            res_of_curr_u["overall_average_score"] = int(res_of_curr_u["overall_sum_score"] / max(1, all_ct))
+            res_of_curr_u["easy_average_score"] = int(res_of_curr_u["easy_sum_score"] / max(1, easy_ct))
+            res_of_curr_u["medium_average_score"] = int(res_of_curr_u["medium_sum_score"] / max(1, medium_ct))
+            res_of_curr_u["hard_average_score"] = int(res_of_curr_u["hard_sum_score"] / max(1, hard_ct))
+            res_of_curr_u["overall_pass_rate"] = int(100 * all_pass / max(1, all_ct)) / 100
+            res_of_curr_u["easy_pass_rate"] = int(100 * easy_pass / max(1, easy_ct)) / 100
+            res_of_curr_u["medium_pass_rate"] = int(100 * medium_pass / max(1, medium_ct)) / 100
+            res_of_curr_u["hard_pass_rate"] = int(100 * hard_pass / max(1, hard_ct)) / 100
 
-        ans[Uid] = resOfCurrU
+        ans[uid] = res_of_curr_u
     return ans
 
 

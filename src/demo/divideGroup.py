@@ -1,3 +1,6 @@
+'''
+使用pca自动分组
+'''
 import json
 
 import numpy as np
@@ -49,39 +52,39 @@ def pca(XMat):
     data_adjust = []
     avgs = np.tile(average, (m, 1))
     data_adjust = XMat - avgs
-    covX = np.cov(data_adjust.T)  # 计算协方差矩阵
-    featValue, featVec = np.linalg.eig(covX)  # 求解协方差矩阵的特征值和特征向量
-    index = np.argsort(-featValue)  # 依照featValue进行从大到小排序
+    cov_x = np.cov(data_adjust.T)  # 计算协方差矩阵
+    feat_value, feat_vec = np.linalg.eig(cov_x)  # 求解协方差矩阵的特征值和特征向量
+    index = np.argsort(-feat_value)  # 依照featValue进行从大到小排序
 
-    sumfeatvalue = sum(index)
+    sum_feat_value = sum(index)
     sumt = 0
     k = 0
-    while (sumt < 0.9 * sumfeatvalue):
+    while (sumt < 0.9 * sum_feat_value):
         sumt += index[k]
         k += 1
 
-    finalData = []
-    selectVec = np.matrix(featVec.T[index])  # 所以这里须要进行转置
-    finalData = data_adjust * selectVec.T
-    reconData = (finalData * selectVec) + average
+    final_data = []
+    select_vec = np.matrix(feat_vec.T[index])  # 所以这里须要进行转置
+    final_data = data_adjust * select_vec.T
+    recon_data = (final_data * select_vec) + average
 
-    return finalData, reconData, k
+    return final_data, recon_data, k
 
 
-def plotBestFit(data1, data2):
-    dataArr1 = np.array(data1)
-    dataArr2 = np.array(data2)
+def plot_best_fit(data1, data2):
+    data_arr1 = np.array(data1)
+    data_arr2 = np.array(data2)
 
-    m = np.shape(dataArr1)[0]
+    m = np.shape(data_arr1)[0]
     axis_x1 = []
     axis_y1 = []
     axis_x2 = []
     axis_y2 = []
     for i in range(m):
-        axis_x1.append(dataArr1[i, 0])
-        axis_y1.append(dataArr1[i, 1])
-        axis_x2.append(dataArr2[i, 0])
-        axis_y2.append(dataArr2[i, 1])
+        axis_x1.append(data_arr1[i, 0])
+        axis_y1.append(data_arr1[i, 1])
+        axis_x2.append(data_arr2[i, 0])
+        axis_y2.append(data_arr2[i, 1])
     fig = plt.figure(figsize=(10, 10))
     ax = fig.add_subplot(111)
     # ax.scatter(axis_x1, axis_y1, s=50, c='red', marker='s')
@@ -105,14 +108,14 @@ if __name__ == "__main__":
     all_problem_list = json.loads(json_data)
 
     for k, v in data.items():
-        subXMat = [0]*N
+        sub_XMat = [0] * N
         for problem_name in v["problems"]:
             for i in range(1, N):
                 if problem_name == all_problem_list[str(i)]:
-                    subXMat[i] = 1000
+                    sub_XMat[i] = 1000
                     break
-        #print(subXMat)
-        XMat.append(subXMat)
+        #print(sub_XMat)
+        XMat.append(sub_XMat)
     #print(XMat)
 
 
@@ -127,6 +130,6 @@ if __name__ == "__main__":
     print(len(block1))
     '''
 
-    finalData, reconMat, pcaN = pca(XMat)
-    plotBestFit(finalData, reconMat)  # 输出前两维切片检查效果
-    print('降维到：', pcaN)
+    final_data, recon_mat, pca_n = pca(XMat)
+    plot_best_fit(final_data, recon_mat)  # 输出前两维切片检查效果
+    print('降维到：', pca_n)

@@ -1,3 +1,6 @@
+'''
+使用聚类自动分组
+'''
 import json
 
 import numpy as np
@@ -65,14 +68,14 @@ if __name__ == "__main__":
     all_problem_list = json.loads(json_data)
 
     for k, v in data.items():
-        subXMat = [0] * N
+        sub_XMat = [0] * N
         for problem_name in v["problems"]:
             for i in range(1, N):
                 if problem_name == all_problem_list[str(i)]:
-                    subXMat[i] = 1000
+                    sub_XMat[i] = 1000
                     break
-        # print(subXMat)
-        XMat.append(subXMat)
+        # print(sub_XMat)
+        XMat.append(sub_XMat)
     # print(XMat)
     arr = XMat
 

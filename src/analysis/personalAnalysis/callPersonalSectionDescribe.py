@@ -1,5 +1,5 @@
 '''
-获得个人能力详情
+获得个人分模块能力详情
 '''
 
 import json
@@ -16,15 +16,15 @@ score_list = json.loads(json_data)
 
 
 # 遍历data
-keyVector = []
+key_vector = []
 for k, v in personal_details.items():
-    keyVector.append(k)
+    key_vector.append(k)
 
 # 整理信息
 res = {}
-for Uid in keyVector:
-    resOfCurrU = {
-        "uId": Uid,
+for uid in key_vector:
+    res_of_curr_u = {
+        "uId": uid,
         "图结构_pass_rate": 0,
         # "字符串_pass_rate": 0,
         "查找算法_pass_rate": 0,
@@ -60,7 +60,7 @@ for Uid in keyVector:
         pass_ct[x] = 0
         sum_score[x] = 0
 
-    for case in personal_details[Uid]["cases"]:
+    for case in personal_details[uid]["cases"]:
         case_type = case["case_type"]
         up_times = case["upload_time"]
         final_score = case["final_score"]
@@ -70,16 +70,16 @@ for Uid in keyVector:
         if final_score == 100:
             pass_ct[case_type] += 1
 
-    for case in score_list[Uid]["cases"]:
+    for case in score_list[uid]["cases"]:
         case_type = case["case_type"]
         sum_score[case_type] += case["score"]
 
     for x in ["图结构", "查找算法","树结构","数组","排序算法","数字操作","线性表"]:
-        resOfCurrU[x+"_sum_score"] = sum_score[x]
-        resOfCurrU[x + "_average_score"] = int(100* sum_score[x] / max(1, case_ct[x])) / 100
-        resOfCurrU[x + "_pass_rate"] = int(100* pass_ct[x] / max(1, up_ct[x])) / 100
+        res_of_curr_u[x + "_sum_score"] = sum_score[x]
+        res_of_curr_u[x + "_average_score"] = int(100 * sum_score[x] / max(1, case_ct[x])) / 100
+        res_of_curr_u[x + "_pass_rate"] = int(100 * pass_ct[x] / max(1, up_ct[x])) / 100
 
-    res[Uid] = resOfCurrU
+    res[uid] = res_of_curr_u
 
 # 写json
 with open("../../../out/analysisOutPut/personal/personal_section_describe.json", "w", encoding="utf-8") as f:
