@@ -1,7 +1,7 @@
 '''
 计算全体人员题目通过率
 
-输入文件 testSample1.json
+输入文件 test_sample1.json
 
 输出文件 passRate.json
 '''
@@ -9,7 +9,7 @@
 import json
 
 # 读json
-json_data = open('../../resource/testSample1.json', encoding='utf-8').read()
+json_data = open('../../resource/test_sample1.json', encoding='utf-8').read()
 data = json.loads(json_data)
 
 

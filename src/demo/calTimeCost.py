@@ -1,7 +1,7 @@
 '''
 计算解题时长
 
-输入文件 testSample1.json
+输入文件 test_sample1.json
 
 输出文件 timeCost.json
 '''

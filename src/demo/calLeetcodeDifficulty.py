@@ -1,7 +1,7 @@
 '''
 解析leetcode题目难度
 
-输入文件 leetcodeWebPage.txt
+输入文件 leetcode_web_page.txt
     格式  6和9组成的最大数字
           204,75.1%,简单
           1324
@@ -30,7 +30,7 @@ def trans_difficulty(s):
 
 res = {}
 
-f = open("../../resource/leetcodeWebPage.txt", "r", encoding="utf-8")
+f = open("../../resource/leetcode_web_page.txt", "r", encoding="utf-8")
 for i in range(1321):
     # 题目编号
     line = f.readline()

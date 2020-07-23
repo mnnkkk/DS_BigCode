@@ -26,8 +26,8 @@ for dir_name in dir_names:
     res[up_time] = {"isLizard": 0}
 
 
-# f = open("../../resource/lizardLog.txt", "r", encoding="utf-8")
-f = open("../../resource/lizardLog_group5.txt", "r", encoding="utf-8")
+# f = open("../../resource/lizard_log.txt", "r", encoding="utf-8")
+f = open("../../resource/lizard_log_group5.txt", "r", encoding="utf-8")
 # fileLineNum = 21
 file_line_num = 4099
 

@@ -6,7 +6,7 @@ import urllib.parse
 import urllib.request
 
 # 读json
-# json_data = open('../../resource/testSample1.json', encoding='utf-8').read()
+# json_data = open('../../resource/test_sample1.json', encoding='utf-8').read()
 json_data = open('../../resource/test_data1_group5.json', encoding='utf-8').read()
 data = json.loads(json_data)
 

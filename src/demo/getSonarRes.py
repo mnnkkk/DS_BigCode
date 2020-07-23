@@ -15,8 +15,8 @@ def get_issue_num(s: str) -> int:
 
 res = {}
 
-# f = open("../../resource/sonarLog.txt", "r", encoding="utf-8")
-f = open("../../resource/sonarLog_group5.txt", "r", encoding="utf-8")
+# f = open("../../resource/sonar_log.txt", "r", encoding="utf-8")
+f = open("../../resource/sonar_log_group5.txt", "r", encoding="utf-8")
 # file_line_num = 102
 file_line_num = 14403
 
