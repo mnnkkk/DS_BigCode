@@ -7,7 +7,7 @@
           1324
           ...
 
-输出文件 leetcodeDifficulty.json
+输出文件 leetcode_difficulty.json
     格式  "1": {
             "qId": 1,
             "name": "两数之和",
@@ -51,5 +51,5 @@ for i in range(1321):
     res[qId] = sub_res
 
 # 写json
-with open("../../out/demoOutPut/leetcodeDifficulty.json", "w", encoding="utf-8") as f:
+with open("../../out/demoOutPut/leetcode_difficulty.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

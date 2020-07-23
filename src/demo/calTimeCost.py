@@ -3,7 +3,7 @@
 
 输入文件 test_sample1.json
 
-输出文件 timeCost.json
+输出文件 time_cost.json
 '''
 
 import json
@@ -16,7 +16,7 @@ data = json.loads(json_data)
 # 单位：ms
 # 基础时间为15/30/45min
 # 罚时为10分钟
-json_data = open("../../out/demoOutPut/leetcodeDifficulty.json", encoding="utf-8").read()
+json_data = open("../../out/demoOutPut/leetcode_difficulty.json", encoding="utf-8").read()
 problems = json.loads(json_data)
 def get_base_time(problem_name: str) ->int:
     index_of_ = len(problem_name) - 1

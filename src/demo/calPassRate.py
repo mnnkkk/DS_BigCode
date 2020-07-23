@@ -3,7 +3,7 @@
 
 输入文件 test_sample1.json
 
-输出文件 passRate.json
+输出文件 pass_rate.json
 '''
 
 import json
@@ -37,5 +37,5 @@ for uid in key_vector:
     res[uid] = res_of_curr_u
 
 # 写json
-with open('../../out/demoOutPut/passRate.json', 'w') as f:
+with open('../../out/demoOutPut/pass_rate.json', 'w') as f:
     json.dump(res, f)

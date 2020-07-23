@@ -2,7 +2,7 @@ import json
 import random
 
 # 读json
-json_data = open('../../../out/demoOutPut/leetcodeDifficulty.json', encoding='utf-8').read()
+json_data = open('../../../out/demoOutPut/leetcode_difficulty.json', encoding='utf-8').read()
 difficultys = json.loads(json_data)
 
 d_dic = {

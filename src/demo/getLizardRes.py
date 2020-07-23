@@ -53,6 +53,6 @@ for i in range((int)(file_line_num)):
     }
 
 # 写json
-# with open("../../out/demoOutPut/lizardRes.json", "w", encoding="utf-8") as f:
-with open("../../out/demoOutPut/lizardRes_group5.json", "w", encoding="utf-8") as f:
+# with open("../../out/demoOutPut/lizard_res.json", "w", encoding="utf-8") as f:
+with open("../../out/demoOutPut/lizard_res_group5.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

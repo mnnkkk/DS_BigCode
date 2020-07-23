@@ -52,5 +52,5 @@ res["detail"] = list_map
 
 
 # 写json
-with open("../../../out/analysisOutPut/all_member/entire_describe.json", "w", encoding="utf-8") as f:
+with open("../../../out/analysisOutPut/allMember/entire_describe.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

@@ -34,6 +34,6 @@ for i in range((int)(file_line_num / 3)):
     res[up_time] = issue_num
 
 # 写json
-# with open("../../out/demoOutPut/sonarRes.json", "w", encoding="utf-8") as f:
-with open("../../out/demoOutPut/sonarRes_group5.json", "w", encoding="utf-8") as f:
+# with open("../../out/demoOutPut/sonar_res.json", "w", encoding="utf-8") as f:
+with open("../../out/demoOutPut/sonar_res_group5.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

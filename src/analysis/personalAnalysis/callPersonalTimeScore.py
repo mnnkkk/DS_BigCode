@@ -8,10 +8,10 @@ import json
 json_data = open("../../../resource/test_data1_group5.json", encoding="utf-8").read()
 raw_info = json.loads(json_data)
 
-json_data = open("../../../out/demoOutPut/sonarRes_group5.json", encoding="utf-8").read()
+json_data = open("../../../out/demoOutPut/sonar_res_group5.json", encoding="utf-8").read()
 sonar_res = json.loads(json_data)
 
-json_data = open("../../../out/demoOutPut/lizardRes_group5.json", encoding="utf-8").read()
+json_data = open("../../../out/demoOutPut/lizard_res_group5.json", encoding="utf-8").read()
 lizard_res = json.loads(json_data)
 
 json_data = open("../../../out/demoOutPut/time_cost_of_test1_group5.json", encoding="utf-8").read()

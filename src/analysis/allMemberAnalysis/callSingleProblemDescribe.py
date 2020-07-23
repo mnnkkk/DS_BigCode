@@ -34,5 +34,5 @@ for k, v in score_list_map.items():
 
 
 # 写json
-with open("../../../out/analysisOutPut/all_member/single_problem_describe.json", "w", encoding="utf-8") as f:
+with open("../../../out/analysisOutPut/allMember/single_problem_describe.json", "w", encoding="utf-8") as f:
     json.dump(res, f, ensure_ascii=False)

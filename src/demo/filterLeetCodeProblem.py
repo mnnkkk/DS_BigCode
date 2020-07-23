@@ -9,7 +9,7 @@
 import json
 
 # 读json
-json_data = open('../../out/demoOutPut/leetcodeDifficulty.json', encoding='utf-8').read()
+json_data = open('../../out/demoOutPut/leetcode_difficulty.json', encoding='utf-8').read()
 leetcode_problem_list = json.loads(json_data)
 
 json_data1 = open('../../resource/test_data.json', encoding='utf-8').read()

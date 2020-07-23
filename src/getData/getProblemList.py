@@ -20,7 +20,7 @@ def get_problem_name(url: str) -> str:
 json_data = open('../../resource/test_data1_group5.json', encoding='utf-8').read()
 data = json.loads(json_data)
 
-json_data = open('../../out/demoOutPut/leetcodeDifficulty.json', encoding='utf-8').read()
+json_data = open('../../out/demoOutPut/leetcode_difficulty.json', encoding='utf-8').read()
 all_problem_list = json.loads(json_data)
 
 case_type_map = {}
