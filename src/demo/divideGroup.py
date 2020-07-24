@@ -21,31 +21,6 @@ def mean_fun(a):
     return np.mean(a, axis=0)
 
 
-def farthest(center_arr, arr):
-    f = [0, 0]
-    max_d = 0
-    for e in arr:
-        d = 0
-        for i in range(center_arr.__len__()):
-            d = d + np.sqrt(distance_fun(center_arr[i], e, N))
-        if d > max_d:
-            max_d = d
-            f = e
-    return f
-
-
-def closest(a, arr):
-    c = arr[1]
-    min_d = distance_fun(a, arr[1])
-    arr = arr[1:]
-    for e in arr:
-        d = distance_fun(a, e)
-        if d < min_d:
-            min_d = d
-            c = e
-    return c
-
-
 def pca(XMat):
     average = mean_fun(XMat)
     m, n = np.shape(XMat)
