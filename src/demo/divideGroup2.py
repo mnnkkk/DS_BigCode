@@ -35,18 +35,6 @@ def farthest(center_arr, arr):
     return f
 
 
-def closest(a, arr):
-    c = arr[1]
-    min_d = distance_fun(a, arr[1])
-    arr = arr[1:]
-    for e in arr:
-        d = distance_fun(a, e)
-        if d < min_d:
-            min_d = d
-            c = e
-    return c
-
-
 if __name__ == "__main__":
 
     # arr = np.random.randint(0, 10000, size=(1000, 1, N))[:, 0, :]  # 1000个0-10000随机数
