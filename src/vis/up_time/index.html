@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Punch Card</title>
+</head>
+<body>
+<div id="container"></div>
+<script src="https://gw.alipayobjects.com/os/lib/antv/g2/4.0.10/dist/g2.min.js"></script>
+<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.data-set-0.11.1/dist/data-set.js"></script>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+
+
+<script>
+    $.get('./j1.json', function (data) {
+        const source = [];
+        for (let i = 0; i < 7; i++) {
+            for (let j = 0; j < 24; j++) {
+                const item = {};
+                item.weekday = i;
+                item.hour = data[i * 24 + j][1];
+                item.commits = data[i * 24 + j][2];
+                source.push(item);
+            }
+        }
+        const chart = new G2.Chart({
+            container: 'container',
+            autoFit: false,
+            width: 600,
+            height: 500,
+        });
+        chart.data(source);
+        chart.scale({
+            weekday: {
+                type: 'cat',
+                values: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+            },
+            hour: {
+                type: 'cat',
+                values: ['12a', '1a', '2a', '3a', '4a', '5a', '6a', '7a', '8a', '9a', '10a', '11a', '12p', '1p', '2p', '3p', '4p', '5p', '6p', '7p', '8p', '9p', '10p', '11p']
+            }
+        });
+        chart.tooltip({
+            showTitle: false,
+            showMarkers: false
+        });
+        chart.legend(false);
+        chart.axis('weekday', {
+            line: null,
+            tickLine: null,
+            grid: null,
+            label: {
+                style: {
+                    fontSize: 14,
+                    fill: '#555'
+                }
+            }
+        });
+        chart.axis('hour', {
+            line: {
+                style: {
+                    stroke: '#eee',
+                    lineWidth: 1
+                }
+            },
+            tickLine: {
+                length: -10
+            }
+        });
+        chart.point()
+            .position('hour*weekday')
+            .size('commits', [2, 10])
+            .shape('circle')
+            .color('#bfbfbf');
+
+        chart.interaction('element-active');
+
+        chart.render();
+
+    })
+
+</script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>分组层叠柱状图</title>
+</head>
+<body>
+<div id="container"></div>
+<script src="https://gw.alipayobjects.com/os/lib/antv/g2/4.0.10/dist/g2.min.js"></script>
+<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.data-set-0.11.1/dist/data-set.js"></script>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+
+
+<script>
+    $.get('./j1.json', function (data) {
+
+        const ages = [
+            'Under 5 Years',
+            '5 to 13 Years',
+            '14 to 17 Years',
+            '18 to 24 Years',
+            '25 to 44 Years',
+            '45 to 64 Years',
+            '65 Years and Over',
+        ];
+        const dv = new DataSet.DataView();
+
+        dv.source(data)
+            .transform({
+                type: 'fold',
+                fields: ages,
+                key: 'age',
+                value: 'population',
+                retains: ['State'],
+            })
+            .transform({
+                type: 'map',
+                callback: (obj) => {
+                    const key = obj.age;
+                    let type;
+                    if (key === 'Under 5 Years' || key === '5 to 13 Years' || key === '14 to 17 Years') {
+                        type = 'a';
+                    } else if (key === '18 to 24 Years') {
+                        type = 'b';
+                    } else if (key === '25 to 44 Years') {
+                        type = 'c';
+                    } else {
+                        type = 'd';
+                    }
+                    obj.type = type;
+                    return obj;
+                },
+            });
+
+        const colorMap = {
+            'Under 5 Years': '#E3F4BF',
+            '5 to 13 Years': '#BEF7C8',
+            '14 to 17 Years': '#86E6C8',
+            '18 to 24 Years': '#36CFC9',
+            '25 to 44 Years': '#209BDD',
+            '45 to 64 Years': '#1581E6',
+            '65 Years and Over': '#0860BF',
+        };
+
+        const chart = new G2.Chart({
+            container: 'container',
+            autoFit: true,
+            height: 500,
+        });
+
+        chart.data(dv.rows);
+
+        chart.scale({
+            population: {
+                tickInterval: 2000000,
+            },
+        });
+
+        chart.axis('population', {
+            label: {
+                formatter: (val) => {
+                    return +val / 1000000 + 'M';
+                },
+            },
+        });
+
+        chart.legend({
+            position: 'right-bottom',
+        });
+
+        chart.tooltip({
+            showMarkers: false,
+            shared: true,
+        });
+
+        chart
+            .interval()
+            .position('State*population')
+            .color('age', (age) => {
+                return colorMap[age];
+            })
+            .tooltip('age*population', (age, population) => {
+                return {
+                    name: age,
+                    value: population,
+                };
+            })
+            .adjust([
+                {
+                    type: 'dodge',
+                    dodgeBy: 'type', // 按照 type 字段进行分组
+                    marginRatio: 0, // 分组中各个柱子之间不留空隙
+                },
+                {
+                    type: 'stack',
+                },
+            ]);
+
+        chart.interaction('active-region');
+
+        chart.render();
+
+    })
+
+
+</script>
+</body>
+</html>
