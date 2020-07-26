@@ -42,7 +42,7 @@ $.get('./data.json', function (data) {
     });
     chart.legend('tried_num', false); // 该图表默认会生成多个图例，设置不展示 tried_num 和 Uid 两个维度的图例
     chart.point().position('overall_sum_score*overall_average_score')
-        .size('tried_num', [1, 40])  // 气泡大小 [4， 65]
+        .size('tried_num', [1, 30])  // 气泡大小 [4， 65]
         .color('continent', val => {
             return colorMap[val];
         })

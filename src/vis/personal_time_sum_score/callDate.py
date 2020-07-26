@@ -12,7 +12,7 @@ for k, v in personal_time_score.items():
             "value": v2["overall_sum_score"],
             "uid": k2
         })
-    res[k] = subRes
+    res["Day"+k] = subRes
 
 # 写json
 with open('data.json', "w", encoding="utf-8") as f:

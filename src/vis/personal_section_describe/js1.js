@@ -17,7 +17,7 @@ $.get('./data1.json', function (data) {
     chart.data(dv.rows);
     chart.scale('score', {
         min: 0,
-        max: 80,
+        max: 200,
     });
     chart.coordinate('polar', {
         radius: 0.8,
